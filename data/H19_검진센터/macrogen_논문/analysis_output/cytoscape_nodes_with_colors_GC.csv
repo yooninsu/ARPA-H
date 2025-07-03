@@ -1,0 +1,126 @@
+id,Type,Name,p_value,Pathway,name,First_Pathway,Pathway_Color
+H1900168_DNA.MetaBAT2.74,MAG,Streptococcus mitis_AP,7.39e-05,,Streptococcus mitis_AP,,#BBBBBB
+H1310063_DNA.MetaBAT2.7,MAG,Parvimonas micra,0.0001526375679366,,Parvimonas micra,,#BBBBBB
+H1900044_DNA.MetaBAT2.23,MAG,Prevotella shahii,0.0012098077166235,,Prevotella shahii,,#BBBBBB
+K00003,KO,homoserine dehydrogenase [EC:1.1.1.3],0.0349422881262429,"Glycine, serine and threonine metabolism",homoserine dehydrogenase [EC:1.1.1.3],Glycine,#7eaa31
+K00687,KO,penicillin-binding protein 2B,0.0146121347507352,Peptidoglycan biosynthesis,penicillin-binding protein 2B,Peptidoglycan biosynthesis,#bb9832
+K00756,KO,pyrimidine-nucleoside phosphorylase [EC:2.4.2.2],0.0379805303502269,Pyrimidine metabolism,pyrimidine-nucleoside phosphorylase [EC:2.4.2.2],Pyrimidine metabolism,#32b166
+K00761,KO,uracil phosphoribosyltransferase [EC:2.4.2.9],0.0179263390766387,Pyrimidine metabolism,uracil phosphoribosyltransferase [EC:2.4.2.9],Pyrimidine metabolism,#32b166
+K00872,KO,homoserine kinase [EC:2.7.1.39],0.0163459633832066,"Glycine, serine and threonine metabolism",homoserine kinase [EC:2.7.1.39],Glycine,#7eaa31
+K00917,KO,tagatose 6-phosphate kinase [EC:2.7.1.144],0.0013619494250102,Galactose metabolism,tagatose 6-phosphate kinase [EC:2.7.1.144],Galactose metabolism,#f7755d
+K00943,KO,dTMP kinase [EC:2.7.4.9],0.0196389978999196,Pyrimidine metabolism,dTMP kinase [EC:2.7.4.9],Pyrimidine metabolism,#32b166
+K00948,KO,ribose-phosphate pyrophosphokinase [EC:2.7.6.1],0.0118504050935716,Purine metabolism,ribose-phosphate pyrophosphokinase [EC:2.7.6.1],Purine metabolism,#39a7d0
+K01005,KO,polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-],0.0116239237629228,Teichoic acid biosynthesis,polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-],Teichoic acid biosynthesis,#50b131
+K01139,KO,"GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]",0.0127959445091882,Purine metabolism,"GTP diphosphokinase / guanosine-3',5'-bis(diphosphate) 3'-diphosphatase [EC:2.7.6.5 3.1.7.2]",Purine metabolism,#39a7d0
+K01176,KO,alpha-amylase [EC:3.2.1.1],0.0270419375443794,Starch and sucrose metabolism,alpha-amylase [EC:3.2.1.1],Starch and sucrose metabolism,#36ada4
+K01489,KO,cytidine deaminase [EC:3.5.4.5],0.0265750029718612,Pyrimidine metabolism,cytidine deaminase [EC:3.5.4.5],Pyrimidine metabolism,#32b166
+K01635,KO,"tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]",0.0025918233408413,"Quorum sensing, Galactose metabolism","tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]",Quorum sensing,#f668c2
+K01641,KO,hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10],0.0392572620805513,"Butanoate metabolism, Valine, leucine and isoleucine degradation",hydroxymethylglutaryl-CoA synthase [EC:2.3.3.10],Butanoate metabolism,#3ba3ec
+K01696,KO,tryptophan synthase beta chain [EC:4.2.1.20],0.0492539131868023,"Glycine, serine and threonine metabolism",tryptophan synthase beta chain [EC:4.2.1.20],Glycine,#7eaa31
+K01775,KO,alanine racemase [EC:5.1.1.1],0.04473462721584,D-Amino acid metabolism,alanine racemase [EC:5.1.1.1],D-Amino acid metabolism,#37abb1
+K01784,KO,UDP-glucose 4-epimerase [EC:5.1.3.2],0.0192854604133623,"Amino sugar and nucleotide sugar metabolism, Galactose metabolism",UDP-glucose 4-epimerase [EC:5.1.3.2],Amino sugar and nucleotide sugar metabolism,#a48cf4
+K01788,KO,N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9],0.0175999601574511,Amino sugar and nucleotide sugar metabolism,N-acylglucosamine-6-phosphate 2-epimerase [EC:5.1.3.9],Amino sugar and nucleotide sugar metabolism,#a48cf4
+K01803,KO,triosephosphate isomerase (TIM) [EC:5.3.1.1],0.0151711569046416,Fructose and mannose metabolism,triosephosphate isomerase (TIM) [EC:5.3.1.1],Fructose and mannose metabolism,#38aabf
+K01819,KO,galactose-6-phosphate isomerase [EC:5.3.1.26],0.0035305681272302,Galactose metabolism,galactose-6-phosphate isomerase [EC:5.3.1.26],Galactose metabolism,#f7755d
+K01839,KO,phosphopentomutase [EC:5.4.2.7],0.0138076440804701,Purine metabolism,phosphopentomutase [EC:5.4.2.7],Purine metabolism,#39a7d0
+K01921,KO,D-alanine-D-alanine ligase [EC:6.3.2.4],0.0118504050935716,"Peptidoglycan biosynthesis, D-Amino acid metabolism",D-alanine-D-alanine ligase [EC:6.3.2.4],Peptidoglycan biosynthesis,#bb9832
+K02825,KO,pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9],0.0332208795781178,Pyrimidine metabolism,pyrimidine operon attenuation protein / uracil phosphoribosyltransferase [EC:2.4.2.9],Pyrimidine metabolism,#32b166
+K03070,KO,preprotein translocase subunit SecA [EC:7.4.2.8],0.0083192601966824,"Bacterial secretion system, Quorum sensing",preprotein translocase subunit SecA [EC:7.4.2.8],Bacterial secretion system,#f66ca8
+K03075,KO,preprotein translocase subunit SecG,0.02111035861417,"Bacterial secretion system, Quorum sensing",preprotein translocase subunit SecG,Bacterial secretion system,#f66ca8
+K03106,KO,signal recognition particle subunit SRP54 [EC:3.6.5.4],0.0023690877846631,"Bacterial secretion system, Quorum sensing",signal recognition particle subunit SRP54 [EC:3.6.5.4],Bacterial secretion system,#f66ca8
+K03784,KO,purine-nucleoside phosphorylase [EC:2.4.2.1],0.0175999601574511,Purine metabolism,purine-nucleoside phosphorylase [EC:2.4.2.1],Purine metabolism,#39a7d0
+K04077,KO,chaperonin GroEL [EC:5.6.1.7],0.0013619494250102,Lipid and atherosclerosis,chaperonin GroEL [EC:5.6.1.7],Lipid and atherosclerosis,#c67df4
+K05352,KO,ribitol-5-phosphate 2-dehydrogenase (NADP+) [EC:1.1.1.405],0.0088329386235375,Pentose and glucuronate interconversions,ribitol-5-phosphate 2-dehydrogenase (NADP+) [EC:1.1.1.405],Pentose and glucuronate interconversions,#7a98f4
+K05362,KO,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase [EC:6.3.2.7],0.006656727227605,Peptidoglycan biosynthesis,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase [EC:6.3.2.7],Peptidoglycan biosynthesis,#bb9832
+K07652,KO,"two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]",0.0061305529633108,Two-component system,"two-component system, OmpR family, sensor histidine kinase VicK [EC:2.7.13.3]",Two-component system,#97a431
+K07668,KO,"two-component system, OmpR family, response regulator VicR",0.0014615134292344,Two-component system,"two-component system, OmpR family, response regulator VicR",Two-component system,#97a431
+K07706,KO,"two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]",0.0405702529743365,"Two-component system, Quorum sensing","two-component system, LytTR family, sensor histidine kinase AgrC [EC:2.7.13.3]",Two-component system,#97a431
+K07707,KO,"two-component system, LytTR family, response regulator AgrA",0.0088329386235375,"Two-component system, Quorum sensing","two-component system, LytTR family, response regulator AgrA",Two-component system,#97a431
+K07718,KO,"two-component system, sensor histidine kinase YesM [EC:2.7.13.3]",0.0261150493018913,Two-component system,"two-component system, sensor histidine kinase YesM [EC:2.7.13.3]",Two-component system,#97a431
+K07720,KO,"two-component system, response regulator YesN",0.0036082257005633,Two-component system,"two-component system, response regulator YesN",Two-component system,#97a431
+K09815,KO,zinc transport system substrate-binding protein,0.0011813297826066,ABC transporters,zinc transport system substrate-binding protein,ABC transporters,#35ae96
+K10037,KO,glutamine transport system permease protein,0.0127959445091882,ABC transporters,glutamine transport system permease protein,ABC transporters,#35ae96
+K10039,KO,aspartate/glutamate/glutamine transport system substrate-binding protein,0.0001611968354723,ABC transporters,aspartate/glutamate/glutamine transport system substrate-binding protein,ABC transporters,#35ae96
+K10040,KO,aspartate/glutamate/glutamine transport system permease protein,0.0007637392956661,ABC transporters,aspartate/glutamate/glutamine transport system permease protein,ABC transporters,#35ae96
+K10041,KO,aspartate/glutamate/glutamine transport system ATP-binding protein [EC:7.4.2.1],0.0003309822987141,ABC transporters,aspartate/glutamate/glutamine transport system ATP-binding protein [EC:7.4.2.1],ABC transporters,#35ae96
+K10830,KO,manganese/zinc transport system ATP-binding protein [EC:7.2.2.5],0.0037682195988272,ABC transporters,manganese/zinc transport system ATP-binding protein [EC:7.2.2.5],ABC transporters,#35ae96
+K11050,KO,multidrug/hemolysin transport system ATP-binding protein,0.0454626049653108,ABC transporters,multidrug/hemolysin transport system ATP-binding protein,ABC transporters,#35ae96
+K12556,KO,penicillin-binding protein 2X,0.0027102273100717,Peptidoglycan biosynthesis,penicillin-binding protein 2X,Peptidoglycan biosynthesis,#bb9832
+K14982,KO,"two-component system, OmpR family, sensor histidine kinase CiaH [EC:2.7.13.3]",0.0130425199405689,"Two-component system, Quorum sensing","two-component system, OmpR family, sensor histidine kinase CiaH [EC:2.7.13.3]",Two-component system,#97a431
+K14983,KO,"two-component system, OmpR family, response regulator CiaR",0.0018867512186378,"Two-component system, Quorum sensing","two-component system, OmpR family, response regulator CiaR",Two-component system,#97a431
+K17318,KO,putative aldouronate transport system substrate-binding protein,0.0023162129439593,ABC transporters,putative aldouronate transport system substrate-binding protein,ABC transporters,#35ae96
+K17319,KO,putative aldouronate transport system permease protein,0.0008022198035972,ABC transporters,putative aldouronate transport system permease protein,ABC transporters,#35ae96
+K17320,KO,putative aldouronate transport system permease protein,0.0010735015365612,ABC transporters,putative aldouronate transport system permease protein,ABC transporters,#35ae96
+K18888,KO,"ATP-binding cassette, subfamily B, multidrug efflux pump",0.0261150493018913,ABC transporters,"ATP-binding cassette, subfamily B, multidrug efflux pump",ABC transporters,#35ae96
+K18889,KO,"ATP-binding cassette, subfamily B, multidrug efflux pump",0.0405702529743365,ABC transporters,"ATP-binding cassette, subfamily B, multidrug efflux pump",ABC transporters,#35ae96
+K18890,KO,"ATP-binding cassette, subfamily B, multidrug efflux pump",0.0127959445091882,ABC transporters,"ATP-binding cassette, subfamily B, multidrug efflux pump",ABC transporters,#35ae96
+K19081,KO,"two-component system, OmpR family, sensor histidine kinase BraS/BceS [EC:2.7.13.3]",0.0028335543634277,Two-component system,"two-component system, OmpR family, sensor histidine kinase BraS/BceS [EC:2.7.13.3]",Two-component system,#97a431
+K19082,KO,"two-component system, OmpR family, response regulator protein BraR/BceR",0.0405702529743365,Two-component system,"two-component system, OmpR family, response regulator protein BraR/BceR",Two-component system,#97a431
+K19083,KO,bacitracin transport system ATP-binding protein,0.0386144122831679,"ABC transporters, Two-component system",bacitracin transport system ATP-binding protein,ABC transporters,#35ae96
+K19084,KO,bacitracin transport system permease protein,0.0462005412704452,"ABC transporters, Two-component system",bacitracin transport system permease protein,ABC transporters,#35ae96
+K19971,KO,manganese/zinc transport system substrate-binding protein,0.0021153451982291,ABC transporters,manganese/zinc transport system substrate-binding protein,ABC transporters,#35ae96
+K20112,KO,galactose PTS system EIIA component [EC:2.7.1.204],9.27e-05,Phosphotransferase system (PTS),galactose PTS system EIIA component [EC:2.7.1.204],Phosphotransferase system (PTS),#f77189
+K20113,KO,galactose PTS system EIIB component [EC:2.7.1.204],0.0009064307703298,Phosphotransferase system (PTS),galactose PTS system EIIB component [EC:2.7.1.204],Phosphotransferase system (PTS),#f77189
+K20114,KO,galactose PTS system EIIC component,0.0008846347864711,Phosphotransferase system (PTS),galactose PTS system EIIC component,Phosphotransferase system (PTS),#f77189
+K20373,KO,"HTH-type transcriptional regulator, SHP2-responsive activator",0.0412405892238817,Quorum sensing,"HTH-type transcriptional regulator, SHP2-responsive activator",Quorum sensing,#f668c2
+K21030,KO,D-ribitol-5-phosphate cytidylyltransferase [EC:2.7.7.40],0.0063887673951124,Pentose and glucuronate interconversions,D-ribitol-5-phosphate cytidylyltransferase [EC:2.7.7.40],Pentose and glucuronate interconversions,#7a98f4
+K23393,KO,lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13],0.0343602106708915,Peptidoglycan biosynthesis,lipid II isoglutaminyl synthase (glutamine-hydrolysing) [EC:6.3.5.13],Peptidoglycan biosynthesis,#bb9832
+K23535,KO,general nucleoside transport system permease protein,0.0130425199405689,ABC transporters,general nucleoside transport system permease protein,ABC transporters,#35ae96
+K23536,KO,general nucleoside transport system permease protein,0.0321140336784409,ABC transporters,general nucleoside transport system permease protein,ABC transporters,#35ae96
+K23537,KO,general nucleoside transport system ATP-binding protein,0.0154576662588206,ABC transporters,general nucleoside transport system ATP-binding protein,ABC transporters,#35ae96
+K25434,KO,pyrimidine 5'-nucleotidase [EC:3.1.3.-],0.0065215095438028,Pyrimidine metabolism,pyrimidine 5'-nucleotidase [EC:3.1.3.-],Pyrimidine metabolism,#32b166
+K25626,KO,"UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose transaminase [EC:2.6.1.-]",0.0001008142129445,Teichoic acid biosynthesis,"UDP-2-acetamido-4-dehydro-2,6-dideoxyglucose transaminase [EC:2.6.1.-]",Teichoic acid biosynthesis,#50b131
+K25627,KO,AATGal transferase,0.0003309822987141,Teichoic acid biosynthesis,AATGal transferase,Teichoic acid biosynthesis,#50b131
+K25657,KO,choline kinase [EC:2.7.1.32],0.000642144782923,Teichoic acid biosynthesis,choline kinase [EC:2.7.1.32],Teichoic acid biosynthesis,#50b131
+K25658,KO,choline-phosphate cytidylyltransferase [EC:2.7.7.15],8.05e-05,Teichoic acid biosynthesis,choline-phosphate cytidylyltransferase [EC:2.7.7.15],Teichoic acid biosynthesis,#50b131
+K00088,KO,IMP dehydrogenase [EC:1.1.1.205],0.0275159371025104,Purine metabolism,IMP dehydrogenase [EC:1.1.1.205],Purine metabolism,#39a7d0
+K00100,KO,butanol dehydrogenase [EC:1.1.1.-],0.0473256959834447,Butanoate metabolism,butanol dehydrogenase [EC:1.1.1.-],Butanoate metabolism,#3ba3ec
+K00939,KO,adenylate kinase [EC:2.7.4.3],0.013548309877371,Purine metabolism,adenylate kinase [EC:2.7.4.3],Purine metabolism,#39a7d0
+K01520,KO,dUTP diphosphatase [EC:3.6.1.23],0.0412405892238817,Pyrimidine metabolism,dUTP diphosphatase [EC:3.6.1.23],Pyrimidine metabolism,#32b166
+K01756,KO,adenylosuccinate lyase [EC:4.3.2.2],0.043308142810792,Purine metabolism,adenylosuccinate lyase [EC:4.3.2.2],Purine metabolism,#39a7d0
+K01923,KO,phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6],0.0043802683355962,Purine metabolism,phosphoribosylaminoimidazole-succinocarboxamide synthase [EC:6.3.2.6],Purine metabolism,#39a7d0
+K01933,KO,phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1],0.0189374975714834,Purine metabolism,phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1],Purine metabolism,#39a7d0
+K01945,KO,phosphoribosylamine---glycine ligase [EC:6.3.4.13],0.0247762421563609,Purine metabolism,phosphoribosylamine---glycine ligase [EC:6.3.4.13],Purine metabolism,#39a7d0
+K02314,KO,replicative DNA helicase [EC:5.6.2.3],2.99e-05,Cell cycle - Caulobacter,replicative DNA helicase [EC:5.6.2.3],Cell cycle - Caulobacter,#f561dd
+K02863,KO,large subunit ribosomal protein L1,0.00385061077939,Ribosome,large subunit ribosomal protein L1,Ribosome,#ce9032
+K02867,KO,large subunit ribosomal protein L11,0.0091909509267468,Ribosome,large subunit ribosomal protein L11,Ribosome,#ce9032
+K02874,KO,large subunit ribosomal protein L14,0.042609435045571,Ribosome,large subunit ribosomal protein L14,Ribosome,#ce9032
+K02881,KO,large subunit ribosomal protein L18,0.0042876421971364,Ribosome,large subunit ribosomal protein L18,Ribosome,#ce9032
+K02886,KO,large subunit ribosomal protein L2,0.0172788017348615,Ribosome,large subunit ribosomal protein L2,Ribosome,#ce9032
+K02895,KO,large subunit ribosomal protein L24,2.22e-05,Ribosome,large subunit ribosomal protein L24,Ribosome,#ce9032
+K02904,KO,large subunit ribosomal protein L29,0.0006263234712846,Ribosome,large subunit ribosomal protein L29,Ribosome,#ce9032
+K02906,KO,large subunit ribosomal protein L3,0.0021640064451036,Ribosome,large subunit ribosomal protein L3,Ribosome,#ce9032
+K02911,KO,large subunit ribosomal protein L32,0.0011262231701624,Ribosome,large subunit ribosomal protein L32,Ribosome,#ce9032
+K02913,KO,large subunit ribosomal protein L33,0.0056421340966238,Ribosome,large subunit ribosomal protein L33,Ribosome,#ce9032
+K02931,KO,large subunit ribosomal protein L5,0.0001405970358381,Ribosome,large subunit ribosomal protein L5,Ribosome,#ce9032
+K02933,KO,large subunit ribosomal protein L6,0.0093747684594348,Ribosome,large subunit ribosomal protein L6,Ribosome,#ce9032
+K02939,KO,large subunit ribosomal protein L9,0.0218814082777167,Ribosome,large subunit ribosomal protein L9,Ribosome,#ce9032
+K02946,KO,small subunit ribosomal protein S10,0.0067944602586854,Ribosome,small subunit ribosomal protein S10,Ribosome,#ce9032
+K02948,KO,small subunit ribosomal protein S11,0.0189374975714834,Ribosome,small subunit ribosomal protein S11,Ribosome,#ce9032
+K02954,KO,small subunit ribosomal protein S14,0.0008022198035972,Ribosome,small subunit ribosomal protein S14,Ribosome,#ce9032
+K02986,KO,small subunit ribosomal protein S4,0.0009287235562566,Ribosome,small subunit ribosomal protein S4,Ribosome,#ce9032
+K02994,KO,small subunit ribosomal protein S8,0.0020210201257766,Ribosome,small subunit ribosomal protein S8,Ribosome,#ce9032
+K03076,KO,preprotein translocase subunit SecY,0.000595763056333,"Bacterial secretion system, Quorum sensing",preprotein translocase subunit SecY,Bacterial secretion system,#f66ca8
+K03217,KO,YidC/Oxa1 family membrane protein insertase,0.0014615134292344,"Bacterial secretion system, Quorum sensing",YidC/Oxa1 family membrane protein insertase,Bacterial secretion system,#f66ca8
+K03367,KO,D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13],0.0044747046225299,"Two-component system, Cationic antimicrobial peptide (CAMP) resistance, Teichoic acid biosynthesis, D-Amino acid metabolism",D-alanine--poly(phosphoribitol) ligase subunit 1 [EC:6.1.1.13],Two-component system,#97a431
+K03739,KO,membrane protein involved in D-alanine export,0.0018867512186378,"Two-component system, Cationic antimicrobial peptide (CAMP) resistance, Teichoic acid biosynthesis",membrane protein involved in D-alanine export,Two-component system,#97a431
+K03740,KO,D-alanine transfer protein,0.000595763056333,"Two-component system, Cationic antimicrobial peptide (CAMP) resistance, Teichoic acid biosynthesis",D-alanine transfer protein,Two-component system,#97a431
+K14188,KO,D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13],0.004975136124139,"Two-component system, Cationic antimicrobial peptide (CAMP) resistance, Teichoic acid biosynthesis, D-Amino acid metabolism",D-alanine--poly(phosphoribitol) ligase subunit 2 [EC:6.1.1.13],Two-component system,#97a431
+K16329,KO,pseudouridylate synthase [EC:4.2.1.70],0.0462005412704452,Pyrimidine metabolism,pseudouridylate synthase [EC:4.2.1.70],Pyrimidine metabolism,#32b166
+K16787,KO,energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-],0.0078324727004351,ABC transporters,energy-coupling factor transport system ATP-binding protein [EC:7.-.-.-],ABC transporters,#35ae96
+K18887,KO,"ATP-binding cassette, subfamily B, multidrug efflux pump",0.0399091765381493,ABC transporters,"ATP-binding cassette, subfamily B, multidrug efflux pump",ABC transporters,#35ae96
+K25659,KO,teichoic acid polymerase [EC:2.4.1.-],0.0002001595994032,Teichoic acid biosynthesis,teichoic acid polymerase [EC:2.4.1.-],Teichoic acid biosynthesis,#50b131
+K00012,KO,UDPglucose 6-dehydrogenase [EC:1.1.1.22],0.0399091765381493,"Amino sugar and nucleotide sugar metabolism, Pentose and glucuronate interconversions",UDPglucose 6-dehydrogenase [EC:1.1.1.22],Amino sugar and nucleotide sugar metabolism,#a48cf4
+K00239,KO,succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1],0.0332208795781178,Butanoate metabolism,succinate dehydrogenase flavoprotein subunit [EC:1.3.5.1],Butanoate metabolism,#3ba3ec
+K01991,KO,polysaccharide biosynthesis/export protein,0.0045709819908584,Two-component system,polysaccharide biosynthesis/export protein,Two-component system,#97a431
+K02902,KO,large subunit ribosomal protein L28,0.013548309877371,Ribosome,large subunit ribosomal protein L28,Ribosome,#ce9032
+K03585,KO,"membrane fusion protein, multidrug efflux system",0.0315725648700163,Cationic antimicrobial peptide (CAMP) resistance,"membrane fusion protein, multidrug efflux system",Cationic antimicrobial peptide (CAMP) resistance,#34af84
+K04771,KO,serine protease Do [EC:3.4.21.107],0.027997086344727,"Two-component system, Cationic antimicrobial peptide (CAMP) resistance",serine protease Do [EC:3.4.21.107],Two-component system,#97a431
+K06861,KO,lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5],0.0109673513372287,ABC transporters,lipopolysaccharide export system ATP-binding protein [EC:7.5.2.5],ABC transporters,#35ae96
+K07165,KO,transmembrane sensor,1.85e-05,Two-component system,transmembrane sensor,Two-component system,#97a431
+K08641,KO,zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22],0.0239170949470494,Two-component system,zinc D-Ala-D-Ala dipeptidase [EC:3.4.13.22],Two-component system,#97a431
+K09810,KO,lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-],0.0386144122831679,ABC transporters,lipoprotein-releasing system ATP-binding protein [EC:7.6.2.-],ABC transporters,#35ae96
+K11752,KO,diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193],0.0392572620805513,Quorum sensing,diaminohydroxyphosphoribosylaminopyrimidine deaminase / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193],Quorum sensing,#f668c2
+K19355,KO,"mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]",0.0321140336784409,Fructose and mannose metabolism,"mannan endo-1,4-beta-mannosidase [EC:3.2.1.78]",Fructose and mannose metabolism,#38aabf
+K21574,KO,"glucan 1,4-alpha-glucosidase [EC:3.2.1.3]",0.0284854705823969,Starch and sucrose metabolism,"glucan 1,4-alpha-glucosidase [EC:3.2.1.3]",Starch and sucrose metabolism,#36ada4
+K23514,KO,"RNA polymerase sigma-19 factor, ECF subfamily",0.0099460552483966,Two-component system,"RNA polymerase sigma-19 factor, ECF subfamily",Two-component system,#97a431

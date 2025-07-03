@@ -1,0 +1,1153 @@
+,ID,검진일,(자동계산)LDL콜레스테롤,(자동계산)LDL콜레스테롤_진단,(치과)병력 문제,(치과)병력 문제_진단,2019-nCOV(상기도),2019-nCOV(상기도)_진단,A/G ratio,A/G ratio_진단,AFP,AFP_진단,Albumin,Albumin_진단,Alk. phos.,Alk. phos._진단,ALT(GPT),ALT(GPT)_진단,ANC,ANC_진단,Anti-HBe,Anti-HBe_진단,Anti-HCV,Anti-HCV_진단,AST(GOT),AST(GOT)_진단,Aty.lymphocyte,Aty.lymphocyte_진단,Band.neut.,Band.neut._진단,Basophil,Basophil_진단,Blast,Blast_진단,Both Mammo(CC & MLO)-보험공단검진,Both Mammo(CC & MLO)-보험공단검진_진단,BUN,BUN_진단,Calcium,Calcium_진단,Chest PA(보험공단건진),Chest PA(보험공단건진)_진단,Chol.,Chol._진단,CLO TEST,CLO TEST_진단,Creatinine,Creatinine_진단,CT Chest Low dose (폐암검진용),CT Chest Low dose (폐암검진용)_진단,D. Bil.,D. Bil._진단,Dexa Bone Densitometry,Dexa Bone Densitometry_진단,eGFR(CKD-EPI),eGFR(CKD-EPI)_진단,eGFR(MDRD),eGFR(MDRD)_진단,Eosinophil,Eosinophil_진단,Esophagogastroduodenoscopy,Esophagogastroduodenoscopy(소독료포함),Esophagogastroduodenoscopy(소독료포함)_진단,Esophagogastroduodenoscopy_진단,fT4(진검),fT4(진검)_진단,GFR,GFR_진단,Globulin,Globulin_진단,Glucose,Glucose_진단,Hb,Hb_진단,HbA1c,HbA1c_진단,HBeAg,HBeAg_진단,HBV real-time PCR,HBV real-time PCR_진단,Hct,Hct_진단,HCV quan,HCV quan_진단,HDL Chol.,HDL Chol._진단,Imm.cell,Imm.cell_진단,K,K_진단,Laryngoscopy(검사),Laryngoscopy(검사)_진단,LDL Chol.,LDL Chol._진단,Lymphocyte,Lymphocyte_진단,MCH,MCH_진단,MCHC,MCHC_진단,MCV,MCV_진단,Metamyelo,Metamyelo_진단,Monocyte,Monocyte_진단,MPV,MPV_진단,Myelocyte,Myelocyte_진단,Na,Na_진단,Normoblast,Normoblast_진단,PCT,PCT_진단,PDW,PDW_진단,Phosphorus,Phosphorus_진단,PLT,PLT_진단,Promono,Promono_진단,Promyelo,Promyelo_진단,Protein(공단검진),Protein(공단검진)_진단,PT %,PT %_진단,PT INR,PT INR_진단,PT sec,PT sec_진단,RBC,RBC_진단,RDW,RDW_진단,Seg.neutrophil,Seg.neutrophil_진단,SONO Liver 공단검진,SONO Liver 공단검진_진단,Stool Hb,Stool Hb_진단,T. Bil.,T. Bil._진단,T. Protein,T. Protein_진단,TG,TG_진단,TSH(진검),TSH(진검)_진단,Uric acid,Uric acid_진단,WBC,WBC_진단,γ-GT,γ-GT_진단,개선필요-근력운동필요,개선필요-근력운동필요_진단,개선필요-금연필요,개선필요-금연필요_진단,개선필요-신체활동(운동)필요,개선필요-신체활동(운동)필요_진단,개선필요-절주필요,개선필요-절주필요_진단,과거병력유무,과거병력유무_진단,교정여부(시력),교정여부(시력)_진단,교정여부(청력),교정여부(청력)_진단,구강건강인식도 문제,구강건강인식도 문제_진단,구강위생,구강위생_진단,기타소견,기타소견_진단,낙상 여부,낙상 여부_진단,대장내시경,대장내시경_진단,병력유형-고혈압,병력유형-고혈압_진단,병력유형-기타(암포함),병력유형-기타(암포함)_진단,병력유형-뇌졸중,병력유형-뇌졸중_진단,병력유형-당뇨병,병력유형-당뇨병_진단,병력유형-심근경색/협심증,병력유형-심근경색/협심증_진단,병력유형-이상지질혈증,병력유형-이상지질혈증_진단,병력유형-폐결핵,병력유형-폐결핵_진단,보행장애유무,보행장애유무_진단,본인기재(신체계측),본인기재(신체계측)_진단,본인기재(허리둘레),본인기재(허리둘레)_진단,불소이용,불소이용_진단,상실치아,상실치아_진단,생활습관,생활습관_진단,선량(CTDlvol),선량(CTDlvol)_진단,설탕섭취,설탕섭취_진단,세포병리검사 Cx,세포병리검사 Cx_진단,수복치아,수복치아_진단,시력(우),시력(우)_진단,시력(좌),시력(좌)_진단,신장,신장_진단,약물치료-고혈압,약물치료-고혈압_진단,약물치료-기타(암포함),약물치료-기타(암포함)_진단,약물치료-뇌졸중,약물치료-뇌졸중_진단,약물치료-당뇨병,약물치료-당뇨병_진단,약물치료-심근경색/협심증,약물치료-심근경색/협심증_진단,약물치료-이상지질혈증,약물치료-이상지질혈증_진단,약물치료-폐결핵,약물치료-폐결핵_진단,약물치료여부,약물치료여부_진단,외과병리검사 endo(esophagus),외과병리검사 endo(esophagus)_진단,외과병리검사 endo(stomach),외과병리검사 endo(stomach)_진단,우식치아,우식치아_진단,우울증평가 총점,우울증평가 총점_진단,이전CT유무,이전CT유무_진단,이전CT촬영일자,이전CT촬영일자_진단,인접면 우식 의심치아,인접면 우식 의심치아_진단,인지기능 총점,인지기능 총점_진단,인플루엔자 예방접종,인플루엔자 예방접종_진단,자살생각,자살생각_진단,청력(우),청력(우)_진단,청력(좌),청력(좌)_진단,체중,체중_진단,체질량지수,체질량지수_진단,치석,치석_진단,치은염증,치은염증_진단,평형성,평형성_진단,폐렴 예방접종,폐렴 예방접종_진단,하지기능,하지기능_진단,허리둘레,허리둘레_진단,혈압측정(최고),혈압측정(최고)_진단,혈압측정(최저),혈압측정(최저)_진단,후두경검사 ,후두경검사 _진단,흡연,흡연_진단,흡연유무,흡연유무_진단
+1,33328171,2020-08-07,123,123,2,있음,,,,,,,,,,,26,NA,,,,,,,23,NA,,,,,,,,,,,,,,,1,정상,188,NA,,,0.79,NA,,,,,,,93,NA,97,NA,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of antrum showed mild degree of whitish atrophic change with visible submucosal vessels.  _x000D_Mild mucosal erythema was noted in the body_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic atrophic gastritis, mild, antrum_x000D_Chronic superficial gastritis, mild, body_x000D_    Complication_x000D_        None
+Chronic atrophic gastritis, mild, antrum
+Chronic superficial gastritis, mild, body",,,,,97,97,,,107,NA,15.6,NA,,,,,,,,,,,44,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,105,NA,,,,,,,25,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,,,2,있음,0.4,0.4,1.2,1.2,166.3,166.3,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,2,있음,,,,,,,1,없음,1,1,,,,,정상,정상,정상,정상,76.3,76.3,27.6,NA,2,경증,1,없음,,,,,,,85,85,127,127,84,84,,,1,없음,,
+52,33333509,2020-08-07,,,2,있음,,,,,,,,,,,23,NA,,,,,,,25,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.7,NA,,,,,2,Osteopenia in lumbar spine.,99,NA,87,NA,,,검사결과조회화면 참조,Chronic superficial gastritis,,,,,87,87,,,87,NA,15.1,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1.2,1.2,161.9,161.9,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,57.7,57.7,22,NA,2,경증,1,없음,,,,,,,68.2,68.2,120,120,78,78,,,1,없음,,
+63,90069653,2020-08-10,,,2,있음,,,,,,,,,,,15,NA,,,,,,,21,NA,,,,,,,,,,,,,,,1,정상,,,,,0.74,NA,,,,,,,100,NA,107,NA,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, antrum",,,,,107,107,,,187,NA,15.2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,34,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.8,0.8,1.5,1.5,168.8,168.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.1,72.1,25.3,NA,1,없음,1,없음,,,,,,,84,84,141,141,84,84,,,1,없음,,
+74,20248161,2020-08-10,,,2,있음,,,,,,,,,,,21,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.74,NA,,,,,,,84,NA,78,NA,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum",,,,,78,78,,,86,NA,13.2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,16,NA,1,양호,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.5,0.5,0.7,0.7,165.3,165.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,67.8,67.8,24.8,NA,2,경증,1,없음,,,,,,,73.2,73.2,126,126,82,82,,,1,없음,,
+85,20075969,2020-08-10,92,92,2,있음,,,,,,,,,,,33,NA,,,,,,,33,NA,,,,,,,,,"Breast Composition : Almost fat.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,3,"석회화결절,  우하",166,NA,,,0.7,NA,,,,,,,87,NA,82,NA,,,,,,,,,82,82,,,98,NA,13.4,NA,,,,,,,,,,,55,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,94,NA,,,,,,,26,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,21절단면 중앙 약간 부서짐.,21절단면 중앙 약간 부서짐.,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,0.7,0.7,147.8,147.8,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,7,7,,,,,정상,정상,정상,정상,58.1,58.1,26.6,NA,1,없음,1,없음,,,,,,,73,73,155,155,79,79,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+96,20164807,2020-08-11,,,2,있음,,,,,,,,,,,38,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,,,,,1.02,NA,,,,,,,80,NA,74,NA,,,,,,,,,74,74,,,103,NA,13.9,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,45,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,1,없음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,1.2,1.2,162.8,162.8,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,63.3,63.3,23.9,NA,1,없음,1,없음,,,,,,,76.5,76.5,165,165,89,89,,,1,없음,,
+107,90112418,2020-08-11,123,123,2,있음,,,1.4,NA,,,3.8,NA,57,NA,13,NA,2021,NA,,,,,17,NA,NA,NA,NA,NA,0,NA,NA,NA,"Breast Composition : Scattered fibroglandular tissue.
+Right mid inner에 약 1.5cm dense calcified mass가 있고 2018-09에 비해 좀 더 prominent해졌음.
+Left mid inner에 1.1cm oval isodense mass는 이전과 비교하여 큰 변화 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 2, benign masses of both mid inner.",13,NA,8.8,NA,1,정상,190,NA,,,0.49,NA,,,,,,,107,NA,129,NA,1.6,NA,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum",,,,,139,139,2.8,NA,92,NA,13.3,NA,,,,,,,40.5,NA,,,61,NA,NA,NA,4.6,NA,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,103,NA,46.2,NA,32,NA,32.8,NA,97.6,NA,NA,NA,7.3,NA,9.6,NA,NA,NA,140,NA,NA,NA,0.23,NA,9.7,NA,4.1,NA,244,NA,NA,NA,NA,NA,-,NA,,,,,,,4.15,NA,13,NA,44.9,NA,,,Negative,NA,0.7,NA,6.6,NA,131,NA,,,4.1,NA,4.5,NA,18,NA,2,개선필요,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1.2,1.2,161.7,161.7,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,2,있음,0,0,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,64.8,64.8,24.8,NA,1,없음,1,없음,,,,,,,76,76,130,130,87,87,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+118,33374039,2020-08-11,,,1,없음,"- 결과 : Negative
+- Test method : Real-time RT-PCR
+- Comment
+  PCR 검사는 검체 내 균수가 적거나 부적절한 검체 희석 또는 증폭 억제물질이 존재하는 경우
+  위음성이 나올수 있습니다. 또한 PCR 검사는 유전자 유무를 검사하므로 생존균과 사균의 구분이 
+  안되어 위양성의 가능성이 있습니다. 
+  결과 해석 시 환자의 임상 양상과 연관지어 판단하시기 바랍니다.
+ 
+- 보 고 자 : 이상미MT",NA,,,,,,,,,16,NA,,,,,,,17,NA,,,,,,,,,"Breast composition : Scattered fibroglandular tissue.
+Rt. axillary tail portion에 장경 0.7cm의 round nodular lesion이 보임( intramammary lymph node의 가능성도 있으나 확인이 필요함). 
+Lt. Breast에 이상 소견없음.
+*-RECOMMEND-*Ultrasonogram of Rt. Axilla.","Category 0, nodular lesion in Rt. Axillary tail.",,,,,1,정상,,,,,0.66,NA,,,,,,,95,NA,90,NA,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Scope:HQ290_x000D__x000D_소견_x000D_    Esophagus_x000D_        There were discrete red streaky superficial erosions longer than 5mm, at EG junction just above Z-line. _x000D_There was a sac of hiatal henia at EG junction. _x000D__x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum. _x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Reflux esophagitis, LA class B_x000D_Hiatus Hernia_x000D_Chronic superficial gastritis, mild, antrum_x000D__x000D_    Complication_x000D_        None
+Reflux esophagitis, LA class B
+Hiatus Hernia
+Chronic superficial gastritis, mild, antrum",,,,,90,90,,,92,NA,12.9,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.5,0.5,0.8,0.8,157.4,157.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,59.6,59.6,24.1,NA,1,없음,1,없음,,,,,,,78,78,139,139,86,86,,,2,있음,,
+129,18052545,2020-08-12,,,1,없음,,,,,,,,,,,27,NA,,,,,,,23,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.56,NA,,,,,2,Osteopenia in lumbar spine.,107,NA,113,NA,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        shallow erosions were seen on the distal esophagus_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_    Duodenum_x000D_        an ulcer scar was seen on the bulb._x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,minimal change_x000D_atrophic gastritis_x000D_duodenal ulcer scar_x000D_    Complication_x000D_        None
+reflux esophagitis,minimal change
+atrophic gastritis
+duodenal ulcer scar",,,,,113,113,,,90,NA,14.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,24,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.9,0.9,152.8,152.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,60.2,60.2,25.8,NA,1,없음,1,없음,,,,,,,77.2,77.2,127,127,75,75,,,1,없음,,
+2,20117700,2020-08-13,,,2,있음,,,,,,,,,,,18,NA,,,,,,,26,NA,,,,,,,,,,,,,,,1,정상,,,,,0.78,NA,,,,,,,91,NA,98,NA,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body submucosal vascularity가 prominent함._x000D_Antrum과 body에 velvety mucosa가 관찰됨._x000D_antrum pw의 4mm whitish raised lesion에서 조지검사함(#1)._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Atrophic gastritis_x000D_Intestinal metaplasia_x000D_    Complication_x000D_        None
+Atrophic gastritis
+Intestinal metaplasia",,,,,98,98,,,77,NA,13.4,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,41,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,11절단면 약간의 파절.,11절단면 약간의 파절.,2,무,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,1,1,169.1,169.1,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : IM
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, posterior wall, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - negative)   
+   with intestinal metaplasia ",NA,1,없음,2,2,,,,,1,없음,5,5,1,접종,1,전혀 아니다,정상,정상,정상,정상,66.5,66.5,23.3,NA,1,없음,2,경증,20,20,1,접종,11,11,84,84,146,146,87,87,,,1,없음,,
+13,33110259,2020-08-13,86,86,2,있음,,,,,,,,,,,11,NA,,,,,,,15,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+Right mid inner breast에 nodular lesion은 less prominet 하여짐.
+Left upper outer breast에  calcification이 새로 보임.
+Both axilla에 pathologically enlarged LN 없음. ","Category 2, benign calcification in Left upper outer.",,,,,1,정상,186,NA,,,0.68,NA,,,,,NA,Within normal limit.,102,NA,91,NA,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        chronic superficial gastritis_x000D_    특이사항 및 comments_x000D_        retching (+++)_x000D_    Complication_x000D_        None
+chronic superficial gastritis
+retching (+++)",,,,,91,91,,,93,NA,13.3,NA,,,,,,,,,,,87,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,65,NA,,,,,,,15,NA,1,양호,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,"도달위치 ▶ Cecum (10min)검사요약 ▶ CVS upto cecum
+WNL","
+내시경 진단 ▶ 이상소견 없음",0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.2,0.2,0.9,0.9,161.6,161.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,68.2,68.2,26.1,NA,2,경증,1,없음,,,,,,,70.5,70.5,115,115,71,71,,,1,없음,,
+24,90016147,2020-08-14,,,1,없음,,,,,,,,,,,16,NA,,,,,,,18,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.74,NA,,,,,,,90,NA,80,NA,,,검사결과조회화면 참조,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        5mm sized SET was noted at lower esophagus_x000D_    Stomach_x000D_        3mm sized SET was noted at fundus_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        R/O Esophageal SET_x000D_Gastric SET_x000D_    Complication_x000D_        None
+R/O Esophageal SET
+Gastric SET",,,,80,80,,,109,NA,13,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,20,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,1,1,161.9,161.9,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,76.5,76.5,29.2,NA,1,없음,1,없음,,,,,,,78,78,133,133,82,82,,,1,없음,,
+35,33224545,2020-08-14,,,2,있음,,,,,,,,,,,22,NA,,,,,,,22,NA,,,,,,,,,,,,,,,1,정상,,,,,0.93,NA,,,,,,,95,NA,86,NA,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum","_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4.5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,86,86,,,80,NA,15.1,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,23,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,,,2,있음,1.5,1.5,1.2,1.2,165.2,165.2,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,1,1,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,64,64,23.5,NA,1,없음,1,없음,,,,,,,83.6,83.6,129,129,80,80,,,1,없음,,
+46,33225752,2020-08-14,111,111,2,있음,,,,,,,,,,,14,NA,,,,,,,19,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative),,,,,1,정상,188,NA,,,0.68,NA,,,,,,,107,NA,93,NA,,,검사결과조회화면 참조,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum. _x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,93,93,,,85,NA,12.7,NA,,,,,,,,,,,66,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,,,,,,,52,NA,,,,,,,18,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,11절단면 약간의 파절.,11절단면 약간의 파절.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Low cellularity
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,0.8,0.8,164.1,164.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,57.1,57.1,21.2,NA,1,없음,1,없음,,,,,,,65,65,111,111,61,61,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+47,90226393,2020-08-17,148,148,,,,,,,,,,,,,23,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,236,NA,,,0.6,NA,,,,,NA,"Osteopenia in lumbar spine.
+Osteopenia in hip.",100,NA,102,NA,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum","_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,102,102,,,101,NA,14.6,NA,,,,,,,,,,,67,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,104,NA,,,,,,,20,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,1,해당,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,,,0.7,0.7,0.9,0.9,161.3,161.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,1,1,,,,,,,,,,,1,전혀 아니다,정상,정상,정상,정상,55.8,55.8,21.4,NA,,,,,,,,,,,66.9,66.9,128,128,84,84,,,,,,
+48,33393171,2020-08-17,130,130,2,있음,,,,,,,,,,,19,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,13,비활동성 폐결핵,213,NA,,,0.5,NA,,,,,,,103,NA,124,NA,,,검사결과조회화면 참조,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        There were discrete red streaky superficial erosions at EG junction, just above Z-line. (not longer than 5mm)_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Reflux esophagitis, LA class A_x000D_    Complication_x000D_        None
+Reflux esophagitis, LA class A",,,,124,124,,,100,NA,12.3,NA,,,,,,,,,,,53,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,149,NA,,,,,,,25,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.5,1.5,0.9,0.9,157.5,157.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,58,58,23.4,NA,2,경증,1,없음,,,,,,,69.5,69.5,144,144,83,83,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+49,33385482,2020-08-17,,,1,없음,,,,,,,,,,,15,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,,,,,0.72,NA,,,,,,,109,NA,115,NA,,,,,,,,,115,115,,,91,NA,13.5,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,29,NA,1,양호,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,,,2,있음,1,1,1.2,1.2,173.6,173.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,2,2,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,74.4,74.4,24.7,NA,2,경증,1,없음,,,,,,,83,83,154,154,95,95,,,1,없음,,
+50,33140697,2020-08-18,110,110,2,있음,,,,,,,,,,,32,NA,,,,,,,29,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative),,,,,1,정상,215,NA,,,0.84,NA,,,,,,,76,NA,69,NA,,,검사결과조회화면 참조,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        shallow erosions were seen on the distal esophagus_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_    Duodenum_x000D_        an ulcer scar was seen on the bulb._x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,minimal change_x000D_atrophic gastritis_x000D_duodenal ulcer scar_x000D_    Complication_x000D_        None
+reflux esophagitis,minimal change
+atrophic gastritis
+duodenal ulcer scar",,,,69,69,,,90,NA,13.5,NA,,,,,,,,,,,97,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,40,NA,,,,,,,33,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Unsatisfactory for evaluation          
+              - Scanty cellularity   ",NA,2,있음,1,1,1,1,165.7,165.7,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,2,2,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,55.7,55.7,20.3,NA,1,없음,1,없음,,,,,,,64,64,99,99,52,52,,,1,없음,,
+51,33356865,2020-08-19,,,2,있음,,,,,,,,,,,15,NA,,,,,,,20,NA,,,,,,,,,,,,,,,1,정상,,,,,0.75,NA,,,,,,,102,NA,107,NA,,,,,,,,,107,107,,,94,NA,14.1,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,20,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1,1,1,1,164,164,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,65.1,65.1,24.2,NA,1,없음,1,없음,,,,,,,75,75,127,127,79,79,,,1,없음,,
+53,33154951,2020-08-19,,,2,있음,,,,,,,,,,,23,NA,,,,,,,23,NA,,,,,,,,,,,,,,,9,경한심비대,,,,,0.78,NA,,,,,,,99,NA,102,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of antrum showed mild degree of whitish atrophic change with visible submucosal vessels._x000D_    Duodenum_x000D_        an ulcer scar was seen on the bulb._x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic atrophic gastritis, mild, antrum_x000D_ duodenal ulcer scar_x000D_    특이사항 및 comments_x000D_        2016 UBT(-)_x000D_    Complication_x000D_        None
+Chronic atrophic gastritis, mild, antrum
+ duodenal ulcer scar
+2016 UBT(-)",,,,102,102,,,142,NA,15.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,29,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,1,없음,1,1,1.2,1.2,168.1,168.1,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,70.4,70.4,24.9,NA,2,경증,1,없음,,,,,,,87,87,134,134,78,78,,,1,없음,,
+54,20280343,2020-08-19,,,2,있음,,,,,,,,,,,13,NA,,,,,,,21,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.67,NA,,,,,2,Osteopenia in lumbar spine.,100,NA,91,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        atrophic gastritis_x000D_    Complication_x000D_        None
+atrophic gastritis",,,,91,91,,,94,NA,14.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,0.7,0.7,162.9,162.9,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,53,53,20,NA,1,없음,1,없음,,,,,,,64.9,64.9,127,127,81,81,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+55,90269213,2020-08-20,,,,,,,,,,,,,,,32,NA,,,,,,,17,NA,,,,,,,,,,,,,,,1,정상,,,,,0.95,NA,NA,"추적CT (이전CT: 2018-11-13)
+영상소견
+발견된 결절 없음.
+결론: 범주 1 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,85,NA,80,NA,,,,검사결과조회화면 참조,"Reflux esophagitis LA-M
+Atrophic gastritis
+Intestinal metaplasia",,,,80,80,,,104,NA,15.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,36,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,1,없음,1,해당,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,1.27,1.27,,,,,,,0.8,0.8,1.2,1.2,167.3,167.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,,,1,있음,201811,201811,,,,,,,,,질환의심,질환의심,정상,정상,63.5,63.5,22.7,NA,,,,,,,,,,,78,78,131,131,80,80,,,,,1,유
+56,33114350,2020-08-20,,,2,있음,,,,,,,,,,,24,NA,,,,,,,18,NA,,,,,,,,,,,,,,,1,정상,,,,,1.14,NA,,,,,,,67,NA,64,NA,,,,검사결과조회화면 참조,"esophageal SET : grossly NC 
+Atrophic gastritis
+duodenal ulcer scar(S2)",,,,64,64,,,114,NA,16.6,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,54,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,21절단면 약간 파절.,21절단면 약간 파절.,2,무,,,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,2,있음,,,2,있음,0.6,0.6,0.9,0.9,171.1,171.1,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,4,4,1,접종,,,정상,정상,정상,정상,78.7,78.7,26.9,NA,1,없음,1,없음,20,20,1,접종,13,13,88,88,130,130,83,83,,,2,있음,,
+57,90232228,2020-08-21,,,2,있음,,,,,,,,,,,13,NA,,,,,,,16,NA,,,,,,,,,,,,,,,1,정상,,,,,0.97,NA,,,,,NA,"Osteopenia in lumbar spine.
+Osteopenia in hip.",86,NA,79,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of antrum showed mild degree of whitish atrophic change with visible submucosal vessels.  _x000D_4mm sized cystic lesion was noted at antrum, GC (BX1)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic atrophic gastritis, mild, antrum_x000D_Gastric cyst_x000D_    Complication_x000D_        None
+Chronic atrophic gastritis, mild, antrum
+Gastric cyst",,,,79,79,,,95,NA,12.6,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,20,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,1,없음,상악 부분틀니사용중.,상악 부분틀니사용중.,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1.2,1.2,161.5,161.5,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Cyst
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, greater curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,68.7,68.7,26.3,NA,1,없음,1,없음,,,,,,,80.2,80.2,125,125,76,76,,,1,없음,,
+58,33221604,2020-08-21,107,107,2,있음,,,,,,,,,,,85,NA,,,,,,,62,NA,,,,,,,,,"Breast Composition : Almost fat.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,190,NA,,,0.66,NA,,,,,,,92,NA,89,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum
+Gastric SET",,,,89,89,,,176,NA,14.9,NA,,,,,,,,,,,49,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,169,NA,,,,,,,67,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,1,있음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.9,0.9,147.7,147.7,1,있음,1,있음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,2,2,,,,,정상,정상,정상,정상,59.4,59.4,27.2,NA,1,없음,1,없음,,,,,,,79.2,79.2,148,148,98,98,,,1,없음,,
+59,30416000,2020-08-21,139,139,2,있음,,,1.6,NA,3.5,NA,4.5,NA,51,NA,29,NA,4439,NA,,,,,25,NA,NA,NA,NA,NA,0.1,NA,NA,NA,,,18,NA,9.1,NA,1,정상,223,NA,,,0.69,NA,,,0.2,NA,,,115,NA,124,NA,1.9,NA,,검사결과조회화면 참조,"Erosive gastritis, mild, antrum",,,,124,124,2.9,NA,107,NA,15.9,NA,,,,,,,46.7,NA,"< 12 IU/mL
+- 검사방법: Real-time PCR
+- 보 고 자: 김은지MT/한지선MT/공선영MD",NA,58,NA,NA,NA,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,26.2,NA,32,NA,34,NA,94,NA,NA,NA,8.2,NA,9.5,NA,NA,NA,,,NA,NA,0.16,NA,11.2,NA,3.7,NA,170,NA,NA,NA,NA,NA,+/-,NA,104,NA,0.98,NA,12.5,NA,4.97,NA,13.3,NA,63.6,NA,"A 0.3cm sized echogenic polypoid l esion is seen on the fundic portion of the GB without significant interval change.
+Liver, visible pancreas, spleen are normal.
+CBD is not dilated.","A polyp, fundic portion of the GB(0.3cm), no significant interval change.",,,0.9,NA,7.4,NA,129,NA,,,6.6,NA,6.98,NA,123,NA,2,개선필요,2,개선필요,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1.5,1.5,170.9,170.9,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   with 1) erosion
+        2) regenerating atypia",NA,1,없음,,,,,,,2,있음,,,,,,,정상,정상,정상,정상,71.7,71.7,24.5,NA,2,경증,1,없음,,,,,,,87,87,125,125,77,77,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+60,33214598,2020-08-24,42,42,2,있음,,,,,,,,,,,26,NA,,,,,,,26,NA,,,,,,,,,,,,,,,1,정상,121,NA,,,0.89,NA,,,,,,,93,NA,87,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, minimal
+Chronic superficial gastritis, mild, antrum",,,,87,87,,,105,NA,14.8,NA,,,,,,,,,,,62,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,84,NA,,,,,,,66,NA,2,개선필요,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,1,있음,1,있음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,0.9,0.9,169.4,169.4,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,2,있음,,,,,2,있음,6,6,,,,,1,없음,,,,,2,여러날 동안,정상,정상,정상,정상,69.6,69.6,24.3,NA,1,없음,1,없음,,,,,,,76,76,103,103,73,82,,,2,있음,,
+61,33202246,2020-08-24,101,101,2,있음,,,,,,,,,,,19,NA,,,,,,,18,NA,,,,,,,,,,,,,,,13,비활동성 폐결핵,168,NA,,,0.85,NA,NA,"추적CT (이전CT: 2018-06-18)
+영상소견
+발견된 결절 없음.
+폐결절 외 의미있는 소견: 폐기종 (중증도 이상), 기타 (진균종).
+다른 소견: 비활동성 폐결핵.
+결론: 범주 1S 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,95,NA,91,NA,,,,,,,,,91,91,,,143,NA,14.3,NA,,,,,,,,,,,52,NA,,,,,"[M2]
+후두경검사 상 후두의 염증성 병변이 관찰됩니다. 해당기간 내에 이비인후과 전문의의 진료를 받으시기 바랍니다.","O&A> atrophic larynx
+P> 발성에 불편함 있을 경우 음성 치료가 도움이 될 수 있습니다. 
+환자분 상담 원하실 경우 외래로 안내해주세요",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,71,NA,,,,,,,31,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,상하악 틀니사용중.,상하악 틀니사용중.,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,1,있음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,1.4,1.4,2,있음,,,2,있음,1.5,1.5,1.2,1.2,180.5,180.5,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,3,3,1,있음,201806,201806,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,75.6,75.6,23.2,NA,1,없음,1,없음,,,,,,,84.3,84.3,127,127,82,82,"[M2]
+후두경검사 상 후두의 염증성 병변이 관찰됩니다. 해당기간 내에 이비인후과 전문의의 진료를 받으시기 바랍니다.","O&A> atrophic larynx
+P> 발성에 불편함 있을 경우 음성 치료가 도움이 될 수 있습니다. 
+환자분 상담 원하실 경우 외래로 안내해주세요",1,없음,1,유
+62,33180681,2020-08-24,,,2,있음,,,,,,,,,,,14,NA,,,,,,,14,NA,,,,,,,,,,,,,,,1,정상,,,,,0.53,NA,,,,,NA,Within normal limit.,111,NA,122,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum. _x000D_Erosion was noted at antrum,GC (Bx1)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_Gastric erosion, antrum, GC_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum
+Gastric erosion, antrum, GC",,,,122,122,,,89,NA,13.6,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Low cellularity
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.4,0.4,0.4,0.4,155.8,155.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,4,4,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,58.8,58.8,24.2,NA,1,없음,1,없음,,,,,,,71.9,71.9,121,121,75,75,,,1,없음,,
+64,33249541,2020-08-25,96,96,1,없음,,,,,,,,,,,31,NA,,,,,,,26,NA,,,,,,,,,,,,,,,1,정상,169,NA,,,1.05,NA,,,,,,,75,NA,71,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, LA class A
+Chronic superficial gastritis, mild, antrum
+Gastric polyp, Yamada III type, 5mm, UB/GC (#1)",,,,71,71,,,114,NA,14.3,NA,,,,,,,,,,,58,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,72,NA,,,,,,,26,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,21도재수복치아 부분파절.,21도재수복치아 부분파절.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,1,양호,,,1,없음,,,2,있음,0.6,0.6,0.7,0.7,160.4,160.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Polyp
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, upper body, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,67.1,67.1,26.1,NA,1,없음,1,없음,,,,,,,92,92,120,120,79,79,,,1,없음,,
+65,33238568,2020-08-25,139,139,1,없음,,,,,,,,,,,18,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,230,NA,,,0.74,NA,,,,,NA,"Osteopenia in hip.
+Within normal limit in lumbar spine.",86,NA,79,NA,,,,,,,,,79,79,,,100,NA,12.7,NA,,,,,,,,,,,54,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,182,NA,,,,,,,17,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,1.5,1.5,163.4,163.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,60.8,60.8,22.8,NA,1,없음,1,없음,,,,,,,74.1,74.1,115,115,74,74,,,1,없음,,
+66,33220028,2020-08-26,,,,,,,1.3,NA,3,NA,4.3,NA,52,NA,33,NA,1847,NA,,,,,26,NA,NA,NA,NA,NA,1,NA,NA,NA,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,9,NA,8.9,NA,1,정상,203,NA,,,0.64,NA,,,0.2,NA,NA,Within normal limit.,110,NA,101,NA,9.6,NA,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    Complication_x000D_        None
+Normal",,,,101,101,3.4,NA,95,NA,12.9,NA,,,,,,,38.8,NA,,,,,NA,NA,,,,,,,35,NA,29.7,NA,33.2,NA,89.4,NA,NA,NA,8.9,NA,10.5,NA,NA,NA,,,NA,NA,0.18,NA,11.3,NA,3.6,NA,168,NA,NA,NA,NA,NA,-,NA,,,,,,,4.34,NA,13.1,NA,45.5,NA,"_x0007_An about 0.9cm size,  echogenic nodule is seen on the S7 of the liver without significant interval change.
+ Underlying hepatic parenchymal echogenicity is relatively normal.
+ Previously noted two echogenic polypoid lesions on the neck and body of the GB are not definitely noted on this current study.
+Visible pancreas, spleen are normal.
+CBD is not dilated.","1. A hemangioma, S7 of the liver(0.9cm), no significant interval change.
+2. Nonvisualization of two GB polyps, neck and body of the GB.
+ ",,,0.8,NA,7.7,NA,,,,,4.4,NA,4.06,NA,30,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,,,,,1.5,1.5,1.5,1.5,167.8,167.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,49.5,49.5,17.6,NA,,,,,,,,,,,57.2,57.2,117,117,71,71,,,,,,
+67,33187685,2020-08-26,,,1,없음,,,,,,,,,,,20,NA,,,,,,,23,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.68,NA,,,,,2,Osteopenia in lumbar spine.,91,NA,86,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+chronic superficial gastritis
+gastric erosion
+gastric polyp,tiny
+duodenal ulcer scar",,,,86,86,,,104,NA,14.5,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,16,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,1,없음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.5,1.5,0.1,마이너스,147.1,147.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.3cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,2,있음,,,,,,,1,없음,3,3,2,비접종,,,정상,정상,정상,정상,59.8,59.8,27.6,NA,2,경증,1,없음,15,15,2,비접종,7,7,78.5,78.5,127,127,89,89,,,1,없음,,
+68,33274568,2020-08-27,,,1,없음,,,,,,,,,,,18,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.6,NA,,,,,3,Osteoporosis in lumbar spine.,95,NA,100,NA,,,,검사결과조회화면 참조,"Reflux esophagitis LA-A
+Atrophic gastritis
+Intestinal metaplasia",,,,100,100,,,90,NA,13,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.5,0.5,147.6,147.6,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,4,4,1,접종,,,질환의심,질환의심,정상,정상,43.6,43.6,20,NA,1,없음,1,없음,4,4,1,접종,8,8,58.8,58.8,135,135,85,85,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+69,20188029,2020-08-27,,,2,있음,,,,,,,,,,,50,NA,,,,,,,42,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.59,NA,,,,,,,105,NA,106,NA,,,,검사결과조회화면 참조,"Reflux esophagitis LA-M
+Chronic superficial gastritis",,,,106,106,,,86,NA,12.2,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,25,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,2,있음,,,2,있음,1,1,1,1,149.3,149.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,45.6,45.6,20.5,NA,1,없음,1,없음,,,,,,,64,64,116,116,66,66,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+70,33393875,2020-08-27,,,2,있음,,,,,,,,,,,24,NA,,,,,,,21,NA,,,,,,,,,,,,,,,1,정상,,,,,0.7,NA,NA,"처음CT
+영상소견
+발견된 결절 없음.
+결론: 범주 1 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,107,NA,117,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis
+duodenal ulcer scar(S2)",,,,117,117,,,108,NA,17,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,58,NA,1,양호,2,개선필요,2,개선필요,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,1.04,1.04,1,없음,,,2,있음,0.9,0.9,0.7,0.7,178.7,178.7,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, greater curvature, endoscopic biopsy:
+  Fundic gland polyp (Helicobacter pylori - negative) ",NA,1,없음,,,0,없음,NA,NA,1,없음,,,,,,,정상,정상,정상,정상,69.1,69.1,21.6,NA,2,경증,1,없음,,,,,,,80,80,146,146,97,97,,,2,있음,1,유
+71,90025033,2020-08-27,,,2,있음,,,,,,,,,,,20,NA,,,,,,,25,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.55,NA,,,,,,,104,NA,113,NA,,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, antrum",,,,113,113,,,105,NA,13.5,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,28,NA,1,양호,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,1,없음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,0.8,0.8,150,150,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,56.5,56.5,25.1,NA,1,없음,1,없음,,,,,,,69,69,131,131,67,67,,,1,없음,,
+72,95018148,2020-08-28,137,137,2,있음,,,,,,,,,,,24,NA,,,,,,,24,NA,,,,,,,,,,,,,,,1,정상,221,NA,,,0.92,NA,,,,,,,88,NA,82,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 2_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of antrum showed mild degree of whitish atrophic change with visible submucosal vessels.  _x000D_Huge and small yellowish plaques were noted on antrum, LC, and cardia _x000D_Mucosal nodularity with huge yellowish plaque 에서 Bx1 (2pcs ) 시행함._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic atrophic gastritis, mild, antrum_x000D_Gastric xanthomas_x000D_    Complication_x000D_        None
+Chronic atrophic gastritis, mild, antrum
+Gastric xanthomas",,,,82,82,,,119,NA,15.2,NA,,,,,,,,,,,45,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,195,NA,,,,,,,22,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1,1,173.2,173.2,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : R/O Dysplasia
+  받은 조직은 포르말린에 고정된 2개의 내시경 생검 조직으로 큰것의 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   with intestinal metaplasia ",NA,2,있음,,,,,,,1,없음,,,,,,,질환의심,질환의심,질환의심,질환의심,84.6,84.6,28.2,NA,1,없음,1,없음,,,,,,,89,89,131,131,81,81,,,1,없음,,
+73,33113493,2020-08-28,117,117,2,있음,,,,,,,,,,,19,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition :Heterogeneous dense. 
+R/O asymmetry of left inner subareolar.
+Unremarkable, right.
+*-RECOMMEND-*left spot compression view.","Category 0, R/O asymmetry of left inner subareolar.",,,,,1,정상,175,NA,,,0.68,NA,,,,,NA,Within normal limit.,102,NA,91,NA,,,,검사결과조회화면 참조,"Gastric SMT: grossly NC
+Hemorrhagic gastriits, mild, antrum",,,,91,91,,,99,NA,13.3,NA,,,,,,,,,,,42,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,77,NA,,,,,,,24,NA,1,양호,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.8,0.8,155.4,155.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,53.3,53.3,22.1,NA,2,경증,1,없음,,,,,,,68,68,150,150,82,82,,,1,없음,,
+75,33213822,2020-08-31,35,35,,,,,,,,,,,,,79,NA,,,,,,,58,NA,,,,,,,,,,,,,,,1,정상,118,NA,,,1.04,NA,,,,,,,80,NA,74,NA,,,,,,,,,74,74,,,101,NA,13.3,NA,,,,,,,,,,,32,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,255,NA,,,,,,,88,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,,,,,,,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,1,해당,1,해당,,,,,2,개선필요,,,,,,,,,0.8,0.8,0.8,0.8,176,176,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,67,67,21.6,NA,,,,,,,,,,,81,81,125,125,80,80,,,,,,
+76,20184553,2020-08-31,,,2,있음,,,,,,,,,,,29,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1(Negative).,,,,,1,정상,,,,,0.74,NA,,,,,1,WIthin normal limit.,85,NA,78,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, body
+Chronic atrophic gastritis, mild, antrum",,,,78,78,,,153,NA,13.4,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,0.8,0.8,151.9,151.9,0,없음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,0,0,1,접종,,,정상,정상,정상,정상,53,53,23,NA,1,없음,2,경증,20,20,1,접종,9,9,68.9,68.9,135,135,82,82,,,1,없음,,
+77,33164185,2020-08-31,112,112,2,있음,,,,,,,,,,,22,NA,,,,,,,19,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+No change of benign isodense mass in right mid inner.
+Otherwise unremarkable.","Category 2, right mid inner, no change.",,,,,9,경한심비대,184,NA,,,0.6,NA,,,,,,,95,NA,99,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of antrum showed mild degree of whitish atrophic change with visible submucosal vessels.  _x000D_Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic atrophic gastritis, mild, antrum_x000D_Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic atrophic gastritis, mild, antrum
+Chronic superficial gastritis, mild, antrum",,,,99,99,,,115,NA,13.3,NA,,,,,,,,,,,40,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,159,NA,,,,,,,11,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,1,있음,1,있음,1,있음,1,있음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,1,1,162.2,162.2,1,있음,0,없음,0,없음,1,있음,1,있음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,6,6,,,,,정상,정상,정상,정상,73.9,73.9,28.1,NA,1,없음,2,경증,,,,,,,84.8,84.8,124,124,65,65,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+78,33394873,2020-09-01,,,2,있음,,,,,,,,,,,15,NA,,,,,,,12,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.88,NA,,,,,2,Osteopenia in lumbar spine.,69,NA,64,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 3 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        z-line에 blurring이 관찰됨._x000D__x000D_    Stomach_x000D_        Antrum과 body에 submucosal vascularity가 prominent함._x000D_Antrum에 several erosions이 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Reflux esophagitis LA-M_x000D_Atrophic gastritis_x000D_Erosive gastritis_x000D__x000D_    Complication_x000D_        None
+Reflux esophagitis LA-M
+Atrophic gastritis
+Erosive gastritis",,,,64,64,,,165,NA,12.4,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,20,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.7,0.7,161.6,161.6,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,4,4,1,접종,,,정상,정상,정상,정상,59.2,59.2,22.7,NA,1,없음,1,없음,20,20,1,접종,7,7,75,75,137,137,82,82,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+79,33276167,2020-09-01,78,78,1,없음,,,,,,,,,,,34,NA,,,,,,,19,NA,,,,,,,,,,,,,,,1,정상,190,NA,,,0.98,NA,,,,,,,88,NA,80,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        z-line에 erosions이 관찰됨._x000D__x000D__x000D__x000D_    Stomach_x000D_        Antrum과 body submucosal vascularity가 prominent함._x000D_Antrum과 body에 velvety mucosa가 관찰됨._x000D_low body lc의 prominent mottled lesion에서 조직검사함(#1)_x000D_fundus gc에 intact mucosa를 가지는 0.8cm SET lesion이 관찰됨(rolling sign +)._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Reflux esophagitis LA-A_x000D_Atrophic gastritis_x000D_Intestinal metaplasia_x000D_Gastric SET_x000D_    Complication_x000D_        None
+Reflux esophagitis LA-A
+Atrophic gastritis
+Intestinal metaplasia
+Gastric SET",,,,80,80,,,81,NA,14.6,NA,,,,,,,,,,,40,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,360,NA,,,,,,,39,NA,2,개선필요,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1.2,1.2,177,177,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : IM
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, low body, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) 
+   with intestinal metaplasia",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,84.4,84.4,26.9,NA,2,경증,1,없음,,,,,,,88.5,88.5,116,116,77,77,,,2,있음,,
+80,33059134,2020-09-01,115,115,2,있음,,,,,,,,,,,23,NA,,,,,Negative,NA,22,NA,,,,,,,,,,,,,,,1,정상,194,NA,,,1.11,NA,,,,,,,74,NA,68,NA,,,,검사결과조회화면 참조,"Atrophic gastritis
+Intestinal metaplasia
+Duodenal SMT(r/o. cyst)
+retching 후 minor bleeding이 있었으나 곧 멈춤.",,,,68,68,,,103,NA,14.7,NA,,,,,,,,,,,46,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,165,NA,,,,,,,40,NA,1,양호,2,개선필요,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,22절단면 약간의 파절.,22절단면 약간의 파절.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,,,2,있음,1.5,1.5,1.5,1.5,165.4,165.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,74.3,74.3,27.2,NA,1,없음,1,없음,,,,,,,85,85,146,146,98,98,,,2,있음,,
+81,33196114,2020-09-02,33,33,1,없음,,,,,,,,,,,54,NA,,,,,,,42,NA,,,,,,,,,,,,,,,1,정상,104,NA,,,1.03,NA,,,,,,,73,NA,71,NA,,,,검사결과조회화면 참조,"chronic superficial gastritis
+gastric erosion
+duodenal ulcer scar",,,,71,71,,,118,NA,12.9,NA,,,,,,,,,,,54,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,84,NA,,,,,,,18,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,"11,21절단면 약간의 파절.","11,21절단면 약간의 파절.",,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,1,없음,0.4,0.4,0.5,0.5,167,167,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 2개의 내시경 생검 조직으로 큰것의 크기는 0.3x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,2,있음,,,,,,,1,없음,0,0,,,,,정상,정상,정상,정상,68,68,24.4,NA,1,없음,1,없음,,,,,,,82.5,82.5,148,148,69,69,,,1,없음,,
+82,90181267,2020-09-02,,,2,있음,,,,,,,,,,,13,NA,,,,,,,16,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.52,NA,,,,,1,WIthin normal limit.,101,NA,118,NA,,,,검사결과조회화면 참조,"chronic superficial gastritis
+gastric ulcer,active
+duodenal ulcer scar",,,,118,118,,,88,NA,12.2,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,13,NA,2,개선필요,2,개선필요,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,21절단면 약간의 파절.,21절단면 약간의 파절.,2,무,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.3,0.3,0.7,0.7,156.5,156.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Ulcer
+  받은 조직은 포르말린에 고정된 2개의 내시경 생검 조직으로 큰것의 크기는 0.6x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, posterior wall, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   ",NA,1,없음,,,,,,,1,없음,0,0,2,비접종,,,정상,정상,정상,정상,50.4,50.4,20.6,NA,1,없음,1,없음,20,20,2,비접종,7,7,67.1,67.1,136,136,67,67,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+83,33075422,2020-09-03,61,61,2,있음,,,,,,,,,,,10,NA,,,,,,,17,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,131,NA,,,0.75,NA,,,,,,,83,NA,77,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+chronic superficial gastritis",,,,77,77,,,123,NA,12.3,NA,,,,,,,,,,,56,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,,,,,,,67,NA,,,,,,,8,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1.5,1.5,155.4,155.4,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,2,2,,,,,정상,정상,정상,정상,53.6,53.6,22.2,NA,2,경증,1,없음,,,,,,,70,70,106,106,54,54,,,1,없음,,
+84,30257876,2020-09-04,,,2,있음,,,,,2.6,NA,,,,,20,NA,,,,,,,20,NA,,,,,,,,,,,,,,,1,정상,,,,,1.12,NA,,,,,,,70,NA,66,NA,,,,검사결과조회화면 참조,Normal,,,,66,66,,,110,NA,13.9,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,"Hepatic parenchymal echogenicity is coarse pattern and hypertrophy of the Lt. lobe of the liver with undulating hepatic margin without focal lesion.
+Portal vein is patent.
+Spleen is borderline enlarged(11.8cm in length).
+GB, visible pancreas are normal.
+CBD is not dilated.",Liver cirrhosis with borderline splenomegaly(11.8cm).,Negative,NA,,,,,,,,,,,,,69,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,1,없음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.4,0.4,0.5,0.5,162.1,162.1,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,66.7,66.7,25.4,NA,1,없음,1,없음,,,,,,,79,79,125,125,71,71,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+86,33126417,2020-09-04,,,,,,,,,,,,,,,8,NA,,,,,,,10,NA,,,,,,,,,,,,,,,1,정상,,,,,0.71,NA,,,,,3,Osteoporosis in lumbar spine.,98,NA,86,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,86,86,,,94,NA,14.3,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,11,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,,,,,,,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,,,,,1,1,1.2,1.2,165.8,165.8,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,58.8,58.8,21.4,NA,,,,,,,,,,,71,71,130,130,82,82,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,
+87,33297117,2020-09-04,,,2,있음,,,,,,,,,,,20,NA,,,,,,,20,NA,,,,,,,,,,,,,,,1,정상,,,,,0.88,NA,,,,,,,96,NA,89,NA,,,,,,,,,89,89,,,80,NA,15.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,22,NA,2,개선필요,2,개선필요,1,양호,1,양호,2,있음,0,없음,1,해당,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,1,1,1,1,170.1,170.1,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,질환의심,질환의심,정상,정상,76.8,76.8,26.5,NA,2,경증,2,경증,,,,,,,85,85,110,110,71,71,,,2,있음,,
+88,33394906,2020-09-07,,,2,있음,,,,,,,,,,,22,NA,,,,,,,30,NA,,,,,,,,,,,,,,,1,정상,,,,,0.52,NA,,,,,2,Osteopenia in lumbar spine.,109,NA,122,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D__x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis_x000D_    특이사항 및 comments_x000D_        belching +++_x000D_    Complication_x000D_        None
+Chronic superficial gastritis
+belching +++",,,,122,122,,,112,NA,14.3,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,53,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.5,1.5,1.5,1.5,157.4,157.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,48.9,48.9,19.7,NA,2,경증,1,없음,,,,,,,75,75,123,123,71,71,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+89,20149017,2020-09-08,101,101,1,없음,,,,,,,,,,,18,NA,,,,,,,20,NA,,,,,,,,,,,,,,,1,정상,174,NA,,,0.85,NA,,,,,,,92,NA,90,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body submucosal vascularity가 prominent함._x000D_Antrum과 body에 mottled gastric mucosa change가 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Atrophic gastritis_x000D_Intestinal metaplasia_x000D_    Complication_x000D_        None
+Atrophic gastritis
+Intestinal metaplasia",,,,90,90,,,92,NA,14.2,NA,,,,,,,,,,,60,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,63,NA,,,,,,,16,NA,1,양호,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,1,양호,,,1,없음,,,2,있음,1,1,0.9,0.9,170.1,170.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.3,72.3,25,NA,2,경증,1,없음,,,,,,,79,79,139,139,86,86,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+90,33231177,2020-09-08,,,2,있음,,,,,,,,,,,15,NA,,,,,,,23,NA,,,,,,,,,,,,,,,1,정상,266,NA,,,0.71,NA,,,,,,,94,NA,84,NA,,,,,,,,,84,84,,,90,NA,14.3,NA,,,,,,,,,,,58,NA,,,,,,,178,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,109,NA,,,,,,,15,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1.5,1.5,162.5,162.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,77.1,77.1,29.2,NA,1,없음,1,없음,,,,,,,83.1,83.1,135,135,85,85,,,1,없음,,
+91,20219930,2020-09-09,79,79,2,있음,,,,,,,,,,,50,NA,,,,,,,35,NA,,,,,,,,,,,,,,,3,"석회화결절,  우하",153,NA,,,0.93,NA,,,,,,,86,NA,81,NA,,,,,,,,,81,81,,,110,NA,14.4,NA,,,,,,,,,,,43,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,155,NA,,,,,,,42,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,21도재수복치 약간의 파절.,21도재수복치 약간의 파절.,,,,,1,있음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.7,0.7,1,1,178.7,178.7,1,있음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,74.3,74.3,23.3,NA,1,없음,1,없음,,,,,,,92,92,116,116,78,78,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+92,33290792,2020-09-09,,,1,없음,,,,,,,,,,,19,NA,,,,,,,26,NA,,,,,,,,,,,,,,,1,정상,,,,,0.73,NA,,,,,2,Osteopenia in lumbar spine.,94,NA,83,NA,,,,검사결과조회화면 참조,atrophic gastritis,,,,83,83,,,94,NA,14,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,17,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Absence of endocervical component
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,1,1,157.3,157.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,63.5,63.5,25.7,NA,2,경증,1,없음,,,,,,,77.5,77.5,113,113,75,75,,,1,없음,,
+93,20363875,2020-09-09,,,2,있음,,,,,,,,,,,20,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.53,NA,,,,,,,112,NA,122,NA,,,,검사결과조회화면 참조,"_x000D_목적:암예방검진센터 수검자_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D_Scope:H290_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    Complication_x000D_        None
+Normal",,,,122,122,,,110,NA,13.4,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,38,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.8,0.8,151.5,151.5,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,2,2,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,48.2,48.2,21,NA,1,없음,1,없음,,,,,,,65,65,105,105,63,63,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+94,33212243,2020-09-10,,,1,없음,,,,,,,,,,,23,NA,,,,,,,29,NA,,,,,,,,,,,,,,,1,정상,,,,,0.87,NA,,,,,,,91,NA,88,NA,,,,검사결과조회화면 참조,"rerflux esophagitis,minimal change
+chronic superficial gastritis",,,,88,88,,,94,NA,15.9,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,16,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,1,없음,1,없음,NA,NA,2,무,"도달위치 ▶ Cecum (2min)
+총검사시간 ▶ 10min
+검사요약 ▶ CVS upto cecum.
+No intraluminal pathology","
+내시경 진단 ▶ 이상소견 없음",0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1,1,171.5,171.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,2,있음,0,0,2,비접종,,,정상,정상,정상,정상,71.2,71.2,24.2,NA,1,없음,1,없음,20,20,2,비접종,8,8,84,84,122,122,71,71,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+95,90269299,2020-09-10,157,157,2,있음,,,,,,,,,,,26,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,232,NA,,,0.75,NA,,,,,,,85,NA,77,NA,,,,검사결과조회화면 참조,"Reflux esophagitis LA-M
+Chronic superficial gastritis",,,,77,77,,,110,NA,15.6,NA,,,,,,,,,,,61,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,68,NA,,,,,,,30,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.6,0.6,158.3,158.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.7,72.7,29,NA,1,없음,1,없음,,,,,,,80,80,131,131,74,74,,,1,없음,,
+97,20385837,2020-09-10,,,1,없음,,,,,1.6,NA,,,,,31,NA,,,,,,,41,NA,,,,,,,,,,,,,,,1,정상,,,,,0.63,NA,,,,,,,98,NA,96,NA,,,,,,,,,96,96,,,128,NA,12,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,"Liver echogenicity가  coarse pattern이며 surface lobulation,  Lt. lobe의 hypertrophy 및 Rt. lobe의 atrophy소견을 보임.
+Liver의 S7에 두개의 anechoic cysts가 여전히 보임(<0.8cm).
+Umbilical vein이 patent하며 colateral dilatation을 보임.
+ Spleen이 markedly enlargement소견을 보임(15.6cm).
+ Ascites는 보이지 않음.
+GB, visible pancreas는 정상임.
+CBD dilatation은 없음.","1. Liver cirrhosis with splenomegaly(15.6cm) and patent umbilical venous colllateral.
+2. Two hepatic cysts, S7 of the liver(<0.8cm).",Negative,NA,,,,,,,,,,,,,20,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.7,0.7,0.7,0.7,154.7,154.7,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,61.5,61.5,25.7,NA,2,경증,1,없음,,,,,,,76.5,76.5,128,128,60,60,,,1,없음,,
+98,90270516,2020-09-10,,,2,있음,,,,,,,,,,,18,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,,,,,1.07,NA,NA,"추적CT (이전CT: 2018-11-30)
+영상소견
+좌하엽(#261), 5 mm 고형 결절 있음, 변화 없음, 범주: 2
+다른 소견: 기타 (GB stones)..
+결론: 범주 2 양성 결절
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,77,NA,71,NA,,,,검사결과조회화면 참조,"Atrophic gastritis
+Intestinal metaplasia
+belching +",,,,71,71,,,113,NA,16.4,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,NA,2,개선필요,2,개선필요,1,양호,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,상하악 틀니사용중.,상하악 틀니사용중.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,1.4,1.4,1,없음,,,2,있음,1,1,0.8,0.8,163.7,163.7,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,1,있음,201811,201811,1,없음,,,,,,,정상,정상,정상,정상,71.4,71.4,26.6,NA,1,없음,1,없음,,,,,,,89,89,109,109,72,72,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,1,유
+99,33145583,2020-09-11,,,2,있음,,,,,,,,,,,19,NA,,,,,,,21,NA,,,,,,,,,,,,,,,1,정상,,,,,0.91,NA,,,,,,,94,NA,86,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,86,86,,,87,NA,14.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,22,NA,1,양호,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,1,없음,1,없음,12~22절단면 약간의 파절.,12~22절단면 약간의 파절.,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,1,양호,,,1,없음,,,2,있음,1.2,1.2,1,1,158.1,158.1,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,54.5,54.5,21.8,NA,1,없음,1,없음,,,,,,,70,70,111,111,81,81,,,1,없음,,
+100,20349297,2020-09-11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,,,,,,,,,,,,,,,,,,,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum
+Gastric POlyp",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,"CLINICAL DIAGNOSIS : Polyp
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, fundus, endoscopic biopsy:
+  Fundic gland polyp (Helicobacter pylori - negative)",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,33226947,2020-09-14,,,2,있음,,,,,,,,,,,43,NA,,,,,,,24,NA,,,,,,,,,,,,,,,3,"늑막비후
+늑막석회화",,,,,0.87,NA,NA,"처음CT
+영상소견
+발견된 결절 없음.
+다른 소견: 기타 (흉막 석회화).
+결론: 범주 1 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,95,NA,90,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 111_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        The mucosa of stomach showed mild degree of erythema and There were multiple small gray-white patches with a villous surface of slightly opalescent appearance consistent with intestinal metaplasia, diffusely._x000D_Mucosal nodularity was noted at antrum, LC (Bx1)_x000D_Erosion with spontaneous oozing was noted at angle, LC (Bx2)_x000D_Bx3 was done at HB/GC for H.pylori test_x000D_    Duodenum_x000D_        Ulcer scar was noted at bulb (S1)_x000D_About 6mm sized SET was noted at 2nd portion_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis with intestinal metaplasia, mild, diffuse_x000D_Gastric erosion _x000D_DU scar, bulb (S2)_x000D_Duodenal SET_x000D_    Complication_x000D_        None
+Chronic superficial gastritis with intestinal metaplasia, mild, diffuse
+Gastric erosion 
+DU scar, bulb (S2)
+Duodenal SET",,,,90,90,,,204,NA,18.6,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.","
+O&A> small vallecular cyst
+P> 경과관찰 가능합니다.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,41,NA,2,개선필요,2,개선필요,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,1.27,1.27,2,있음,,,2,있음,1,1,0.8,0.8,164.5,164.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : R/O IM, Erosion
+  받은 조직은 3부분임. 
+  #1. 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+  #2. 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+  #3. 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.2cm임. 
+MICRO (3 HE and 1 WG)
+DIAGNOSIS:
+Stomach, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   (#1. antrum, lesser curvature, 
+    #2. angle, lesser curvature,
+    #3. high body, greater curv
+ature)",NA,2,있음,,,0,없음,NA,NA,1,없음,,,,,,,정상,정상,정상,정상,68.3,68.3,25.2,NA,2,경증,1,없음,,,,,,,81.5,81.5,130,130,88,88,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.","
+O&A> small vallecular cyst
+P> 경과관찰 가능합니다.",2,있음,1,유
+102,33127092,2020-09-14,,,1,없음,,,,,,,,,,,24,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.8,NA,,,,,NA,"Osteopenia in lumbar spine.
+Osteopenia in hip.",82,NA,73,NA,,,,검사결과조회화면 참조,Normal,,,,73,73,,,110,NA,14.8,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,21,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,0.9,0.9,165.5,165.5,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,59.9,59.9,21.9,NA,1,없음,1,없음,,,,,,,71.5,71.5,130,130,94,94,,,1,없음,,
+103,33289262,2020-09-14,101,101,2,있음,,,,,,,,,,,28,NA,,,,,,,24,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+Right mid inner breast에 relatively well circumscribed nodular lesion이 dense calcification을 포함하여 관찰되고 있고, 변화없음.
+Left breast에 뚜렷한 abnormality 없고 axilla에 pathologically enlarged LN 없음. ","Isodense nodule with dense calcification on right mid inner quadrant.
+Category  2",,,,,1,정상,203,NA,,,0.77,NA,,,,,,,84,NA,76,NA,,,,,,,,,76,76,,,95,NA,12.2,NA,,,,,,,,,,,87,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,Negative,NA,,,,,71,NA,,,,,,,38,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,1,1,155.3,155.3,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,6,6,,,,,2,있음,,,,,1,전혀 아니다,정상,정상,정상,정상,53.2,53.2,22.1,NA,1,없음,1,없음,,,,,,,73.5,73.5,149,149,86,86,,,1,없음,,
+104,33192811,2020-09-14,,,1,없음,,,,,,,,,,,15,NA,,,,,,,21,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,3,"석회화결절, 우하",,,,,0.53,NA,,,,,1,WIthin normal limit.,108,NA,120,NA,,,,검사결과조회화면 참조,Chronic superficial gastritis,,,,120,120,,,89,NA,12.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,13,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1.2,1.2,167.7,167.7,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,55.6,55.6,19.8,NA,1,없음,1,없음,,,,,,,65,65,129,129,74,74,,,1,없음,,
+105,33189198,2020-09-14,75,75,2,있음,,,,,,,,,,,20,NA,,,,,,,17,NA,,,,,,,,,,,,,,,1,정상,190,NA,,,0.9,NA,,,,,,,99,NA,88,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body,LC._x000D_mottled mucosal changes were seen on the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        atrophic gastritis with intestinal metaplasia_x000D_    Complication_x000D_        None
+atrophic gastritis with intestinal metaplasia",,,,88,88,,,97,NA,16.8,NA,,,,,,,,,,,42,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,364,NA,,,,,,,30,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1.5,1.5,186.8,186.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,89.4,89.4,25.6,NA,1,없음,1,없음,,,,,,,92,92,114,114,76,76,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+106,33272365,2020-09-15,,,2,있음,,,,,,,,,,,26,NA,,,,,,,23,NA,,,,,,,,,,,,,,,1,정상,,,,,0.91,NA,,,,,,,88,NA,83,NA,,,,검사결과조회화면 참조,"Atrophic gastritis 
+BGU(S2)
+Hemorrhagic gastritis",,,,83,83,,,124,NA,16.4,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,32,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,1,있음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,,,2,있음,1.2,1.2,0.6,0.6,171.3,171.3,1,있음,0,없음,0,없음,1,있음,0,없음,1,있음,0,없음,2,있음,,,,,2,있음,,,,,,,1,없음,0,0,1,접종,,,정상,정상,정상,정상,80,80,27.3,NA,1,없음,1,없음,20,20,1,접종,8,8,93,93,123,123,80,80,,,1,없음,,
+108,90077863,2020-09-16,,,,,,,,,,,,,,,24,NA,,,,,,,24,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.59,NA,,,,,1,WIthin normal limit.,104,NA,106,NA,,,,검사결과조회화면 참조,chronic superficial gastritis,,,,106,106,,,101,NA,13.4,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,18,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,,,1.2,1.2,1.2,1.2,156.2,156.2,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,52,52,21.3,NA,,,,,,,,,,,72.5,72.5,127,127,85,85,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,
+109,33166412,2020-09-16,,,2,있음,,,,,,,,,,,33,NA,,,,,,,49,NA,,,,,,,,,,,,,,,1,정상,,,,,0.87,NA,,,,,,,95,NA,90,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+chronic superficial gastritis
+gastric ulcer scar",,,,90,90,,,97,NA,15.9,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,21,NA,1,양호,2,개선필요,1,양호,2,개선필요,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1.5,1.5,167.7,167.7,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,59.6,59.6,21.2,NA,1,없음,1,없음,,,,,,,72.5,72.5,139,139,76,76,,,1,없음,,
+110,33116980,2020-09-16,,,1,없음,,,1.6,NA,1.7,NA,4.2,NA,51,NA,13,NA,1512,NA,Positive,NA,,,20,NA,NA,NA,NA,NA,0,NA,NA,NA,,,15,NA,8.9,NA,1,정상,128,NA,,,0.71,NA,,,0.3,NA,,,100,NA,110,NA,1.3,NA,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_an ulcer scar was seen on the antrum,LC(Bx)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        atrophic gastritis_x000D_gastric ulcer scar_x000D_    Complication_x000D_        None
+atrophic gastritis
+gastric ulcer scar",,,,112,112,2.7,NA,108,NA,13.8,NA,,,Negative,NA,"< 15 IU/mL(1IU/mL = 3.41 copies/mL)
+- 검사방법: Real-time PCR
+- 보 고 자: 김은지MT/이상미MT/공선영MD",NA,39.4,NA,,,,,NA,NA,,,,,,,24.3,NA,35.1,NA,35,NA,100.3,NA,NA,NA,7.5,NA,11,NA,NA,NA,,,NA,NA,0.08,NA,12.1,NA,3.3,NA,70,NA,NA,NA,NA,NA,-,NA,92,NA,1.06,NA,13.3,NA,3.93,NA,12.4,NA,66.9,NA,"Hepatic parenchymal echogenicity is coarse pattern and hypertrophy of the Lt. lobe of the liver.
+ A 1.8cm size, anechoic cyst is seen on the S4 of the liver without significant interval change.
+ Segmental wall thickening, intramural cysts and luminal narrowing are seen on the fundic portion of the GB without significant interval change.
+ Visible pancreas and spleen are normal.
+ CBD is not dilated.","1. Liver cirrhosis.
+2. A hepatic cyst, S4 of the liver(1.8cm), no significant interval change.
+3. Segmental adenomyomatosis, fundic portion of the GB.",Negative,NA,0.8,NA,6.9,NA,,,,,5.6,NA,2.26,NA,18,NA,1,양호,2,개선필요,1,양호,1,양호,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,2,있음,,,2,있음,1.2,1.2,0.8,0.8,165.3,165.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,60.5,60.5,22.1,NA,2,경증,1,없음,,,,,,,81,81,126,126,57,57,,,1,없음,,
+111,33080277,2020-09-17,,,1,없음,,,,,,,,,,,32,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,,,,,0.83,NA,,,,,,,94,NA,93,NA,,,,검사결과조회화면 참조,Gastric SET,,,,93,93,,,123,NA,14.5,NA,6.4,NA,,,,,,,,,55,NA,,,,,,,101,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,171,NA,,,,,,,54,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,"11,21수직파절선 관찰됨.","11,21수직파절선 관찰됨.",,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.5,0.5,0.9,0.9,159.9,159.9,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,70.4,70.4,27.5,NA,1,없음,1,없음,,,,,,,87,87,136,136,78,78,,,1,없음,,
+112,20032861,2020-09-17,,,2,있음,,,,,,,,,,,23,NA,,,,,,,30,NA,,,,,,,,,,,,,,,1,정상,,,,,1.22,NA,,,,,,,64,NA,60,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D_Fundus gcpw에 slightly 4mm discoloration이 관찰됨.(#1)._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis_x000D_    Complication_x000D_        None
+Chronic superficial gastritis",,,,60,60,,,94,NA,14.3,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,149,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,1,1,1.2,1.2,164.2,164.2,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : CSG
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, fundus, greater curvature, posterior wall, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,66.3,66.3,24.6,NA,1,없음,2,경증,,,,,,,82.5,82.5,122,122,82,82,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+113,33390690,2020-09-17,122,122,2,있음,,,,,,,,,,,18,NA,,,,,,,19,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,233,NA,,,0.73,NA,,,,,,,98,NA,85,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        z-line에 blurring이 관찰됨._x000D__x000D_    Stomach_x000D_        Antrum에 several erosions이 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Reflux esophagitis LA-M_x000D_Erosive gastritis_x000D_    특이사항 및 comments_x000D_        belching +_x000D_    Complication_x000D_        None
+Reflux esophagitis LA-M
+Erosive gastritis
+belching +",,,,85,85,,,108,NA,14.3,NA,,,,,,,,,,,68,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,,,,,,,215,NA,,,,,,,25,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.5,1.5,1.2,1.2,161.6,161.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,2,있음,,,,,,,정상,정상,정상,정상,51.8,51.8,19.8,NA,2,경증,1,없음,,,,,,,70,70,112,112,73,73,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+114,20283474,2020-09-18,63,63,1,없음,,,,,,,,,,,14,NA,,,,,Negative,NA,15,NA,,,,,,,,,"Breast Composition : Extremely dense.
+1cm isodense mass with internal dense calcifications of right mid inner.
+Several microcalcifications of left upper outer.
+Amorphous microcalcifications of left lower center.","Category 2, 1cm mass with dense calcification of right mid inner.
+Category 2, benign calcifications of left.",,,,,1,정상,160,NA,,,0.6,NA,,,,,,,103,NA,103,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    Complication_x000D_        None
+Normal",,,,103,103,,,93,NA,13.9,NA,,,,,,,,,,,74,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,113,NA,,,,,,,21,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,1,없음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,0.7,0.7,151.3,151.3,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,2,있음,,,,,,,정상,정상,정상,정상,44.8,44.8,19.6,NA,1,없음,1,없음,,,,,,,69,69,106,106,60,60,,,1,없음,,
+115,33372199,2020-09-18,104,104,1,없음,,,,,,,,,,,26,NA,,,,,,,33,NA,,,,,,,,,,,,,,,1,정상,210,NA,,,0.93,NA,,,,,,,97,NA,86,NA,,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, antrum and body/LC",,,,86,86,,,103,NA,15.6,NA,,,,,,,,,,,63,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,,,,,,,215,NA,,,,,,,149,NA,2,개선필요,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,0.8,0.8,175.1,175.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,70.6,70.6,23,NA,2,경증,1,없음,,,,,,,74,74,132,132,92,92,,,1,없음,,
+116,20264923,2020-09-21,,,2,있음,,,,,,,,,,,71,NA,,,,,,,29,NA,,,,,,,,,,,,,,,1,정상,,,,,0.92,NA,,,,,,,97,NA,87,NA,,,,,,,,,87,87,,,99,NA,16.7,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,50,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.5,0.5,1.2,1.2,169.6,169.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,7,7,,,,,1,없음,,,,,2,여러날 동안,정상,정상,정상,정상,70.1,70.1,24.4,NA,1,없음,1,없음,,,,,,,83,83,130,130,87,87,,,1,없음,,
+117,33267780,2020-09-21,,,2,있음,,,1.3,NA,,,4.4,NA,60,NA,22,NA,4331,NA,,,,,22,NA,NA,NA,NA,NA,0.2,NA,NA,NA,,,17,NA,9.9,NA,1,정상,153,NA,,,0.8,NA,,,,,,,97,NA,99,NA,5.2,NA,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum
+Gastric erosion",,,,98,98,3.3,NA,168,NA,13.7,NA,6.7,NA,,,,,42.1,NA,,,62,NA,NA,NA,,,,,74,NA,37.3,NA,30.3,NA,32.5,NA,93.1,NA,NA,NA,7.4,NA,11.2,NA,NA,NA,,,NA,NA,0.26,NA,12.4,NA,3.8,NA,234,NA,NA,NA,NA,NA,1+,NA,,,,,,,4.52,NA,13.9,NA,49.9,NA,,,Negative,NA,0.6,NA,7.7,NA,131,NA,,,6.3,NA,8.68,NA,182,NA,1,양호,2,개선필요,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,1,1,0.7,0.7,162.2,162.2,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,77.4,77.4,29.4,NA,2,경증,2,경증,,,,,,,94,94,139,139,80,80,,,1,없음,,
+119,20210351,2020-09-21,,,2,있음,,,,,,,,,,,86,NA,,,,,,,40,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.59,NA,,,,,,,101,NA,104,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+chronic superficial gastritis",,,,104,104,,,99,NA,14,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,145,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.9,0.9,156.8,156.8,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,54.3,54.3,22.1,NA,2,경증,1,없음,,,,,,,71,71,103,103,64,64,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+120,33333920,2020-09-21,101,101,2,있음,,,,,,,,,,,15,NA,,,,,,,21,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative),,,,,1,정상,174,NA,,,0.8,NA,,,,,,,88,NA,76,NA,,,,,,,,,76,76,,,86,NA,14.6,NA,,,,,,,,,,,64,NA,,,,,"[M2]
+후두경검사 상 후두의 염증성 병변이 관찰됩니다. 해당기간 내에 이비인후과 전문의의 진료를 받으시기 바랍니다.","O&A> arytenoid process small mucosal cyst
+P> 경과관찰 가능할 것으로 보입니다.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,,,,,,,42,NA,,,,,,,21,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy
+              - Reactive cellular changes associated with inflammation   
+                  (includes typical repair)           ",NA,2,있음,1.2,1.2,1.5,1.5,164.4,164.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,53,53,19.6,NA,1,없음,1,없음,,,,,,,62.5,62.5,127,127,82,82,"[M2]
+후두경검사 상 후두의 염증성 병변이 관찰됩니다. 해당기간 내에 이비인후과 전문의의 진료를 받으시기 바랍니다.","O&A> arytenoid process small mucosal cyst
+P> 경과관찰 가능할 것으로 보입니다.",1,없음,,
+121,33223290,2020-09-22,,,1,없음,,,,,,,,,,,17,NA,,,,,,,18,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.56,NA,,,,,2,Osteopenia in lumbar spine.,106,NA,112,NA,,,,,,,,,112,112,,,95,NA,13.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,11,NA,2,개선필요,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,1,1,154.1,154.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,51.3,51.3,21.6,NA,1,없음,2,경증,,,,,,,69,69,107,107,71,71,,,1,없음,,
+122,33394614,2020-09-22,180,180,2,있음,,,,,,,,,,,107,NA,,,,,,,49,NA,,,,,,,,,,,,,,,1,정상,274,NA,,,0.91,NA,,,,,,,97,NA,87,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, LA class A
+Chronic superficial gastritis, mild, antrum",,,,87,87,,,114,NA,16.2,NA,,,,,,,,,,,45,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,244,NA,,,,,,,56,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1,1,1.2,1.2,178.2,178.2,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,88.5,88.5,27.9,NA,2,경증,1,없음,,,,,,,94,94,116,116,78,78,,,1,없음,,
+123,90036754,2020-09-23,,,2,있음,,,,,,,,,,,15,NA,,,,,,,25,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+Left mammography only.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음. 
+*-RECOMMEND-*만져지는 병변이 있으면 breast US",Category 1 (Negative).,,,,,1,정상,,,,,0.67,NA,,,,,NA,"Osteopenia in lumbar spine.
+Osteopenia in hip.",87,NA,86,NA,,,,검사결과조회화면 참조,"esophageal cyst, no change
+reflux esophagitis,minimal change
+chronic superficial gastritis",,,,86,86,,,81,NA,11.8,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,12,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,0.7,0.7,160,160,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,7,7,,,,,정상,정상,정상,정상,57.8,57.8,22.6,NA,1,없음,1,없음,,,,,,,80,80,116,116,62,62,,,1,없음,,
+124,33116047,2020-09-23,,,2,있음,,,,,,,,,,,18,NA,,,,,,,21,NA,,,,,,,,,,,,,,,1,정상,,,,,0.73,NA,,,,,,,89,NA,103,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        shallow erosions were seen on the distal esophagus_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_an erosion was seen on the angle(Bx)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,minimal change_x000D_atrophic gastritis_x000D_gastric erosion_x000D_    Complication_x000D_        None
+reflux esophagitis,minimal change
+atrophic gastritis
+gastric erosion",,,,103,103,,,99,NA,14,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,18,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.7,0.7,0.7,0.7,167.3,167.3,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 큰것의 크기는 0.3x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, angle, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) 
+   with regenerative atypia",NA,2,있음,,,,,,,1,없음,0,0,,,,,질환의심,질환의심,질환의심,질환의심,61.6,61.6,22,NA,1,없음,1,없음,,,,,,,79,79,148,148,77,77,,,1,없음,,
+125,33394166,2020-09-23,,,1,없음,,,,,,,,,,,15,NA,,,,,,,21,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.65,NA,,,,,1,WIthin normal limit.,101,NA,94,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    Complication_x000D_        None
+Normal",,,,94,94,,,85,NA,12.4,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,19,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,1.5,1.5,161,161,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,58.9,58.9,22.7,NA,2,경증,1,없음,,,,,,,74,74,102,102,68,68,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+126,20101750,2020-09-24,,,2,있음,,,,,,,,,,,21,NA,,,,,,,24,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.7,NA,,,,,NA,Within normal limit.,96,NA,85,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 3.5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum에 multiple erythematous mucosal patches들이 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superfical gastritis_x000D_    Complication_x000D_        None
+Chronic superfical gastritis",,,,85,85,,,88,NA,13.4,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,76,NA,2,개선필요,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,11절단면 일부 파절.,11절단면 일부 파절.,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.9,0.9,160.9,160.9,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,2,있음,,,,,,,정상,정상,정상,정상,64.8,64.8,25,NA,2,경증,1,없음,,,,,,,76,76,128,128,101,101,,,1,없음,,
+127,33289679,2020-09-24,168,168,2,있음,,,,,,,,,,,22,NA,,,,,Negative,NA,24,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,255,NA,,,0.69,NA,,,,,NA,"Osteopenia in hip.
+Within normal limit in lumbar spine.",98,NA,88,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum",,,,88,88,,,100,NA,14.5,NA,,,,,,,,,,,40,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,234,NA,,,,,,,26,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,1,1,146.7,146.7,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,61.5,61.5,28.6,NA,2,경증,2,경증,,,,,,,80,80,147,147,92,92,,,1,없음,,
+128,33273683,2020-09-24,,,1,없음,,,,,,,,,,,14,NA,,,,,,,23,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,NA,Negative(-),0.58,NA,,,,,NA,"Osteopenia in hip.
+Within normal limit in lumbar spine.",109,NA,110,NA,,,,검사결과조회화면 참조,Gastric polyp at HB PW [Bx],,,,110,110,,,88,NA,14.3,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,17,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1,1,154.8,154.8,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Gastric Polyp
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, high body, posterior wall, endoscopic biopsy:
+  Fundic gland polyp (Helicobacter pylori - negative)",NA,1,없음,0,0,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,47.1,47.1,19.7,NA,1,없음,1,없음,,,,,,,64,64,128,128,80,80,,,1,없음,,
+130,33337875,2020-09-25,168,168,2,있음,,,,,,,,,,,20,NA,,,,,Negative,NA,17,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,258,NA,,,0.66,NA,,,,,,,100,NA,92,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, minimal",,,,92,92,,,89,NA,13.7,NA,,,,,,,,,,,64,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,129,NA,,,,,,,41,NA,2,개선필요,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy
+            - Atrophy                  ",NA,2,있음,0.8,0.8,0.7,0.7,161,161,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,62.2,62.2,24,NA,2,경증,1,없음,,,,,,,78.5,78.5,105,105,62,62,,,1,없음,,
+131,33201582,2020-09-28,,,,,,,,,,,,,,,24,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,,,,,0.81,NA,,,,,,,101,NA,99,NA,,,,검사결과조회화면 참조,"_x000D_목적:암예방검진센터 수검자_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 submucosal vascularity가 prominent함._x000D_mucous가 stain되어 있어 irrigation하며 관찰함._x000D_Erosion at distal antrum/GCAW (#1)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Atrophic gastritis_x000D_    Complication_x000D_        None
+Atrophic gastritis",,,,99,99,,,85,NA,15.5,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,42,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,,,,,1.2,1.2,1.2,1.2,181.5,181.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, distal antrum, greater curvature, anterior wall, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   with intestinal metaplasia ",NA,,,,,,,,,,,,,,,,,정상,정상,정상,정상,80.6,80.6,24.5,NA,,,,,,,,,,,89,89,137,137,88,88,,,,,,
+132,90129500,2020-09-28,134,134,,,,,,,,,,,,,14,NA,,,,,Negative,NA,19,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,245,NA,,,0.62,NA,,,,,NA,Within normal limit.,101,NA,99,NA,,,,검사결과조회화면 참조,atrophic gastritis,,,,99,99,,,96,NA,14.7,NA,,,,,,,,,,,36,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,374,NA,,,,,,,13,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,,,,,2,개선필요,,,,,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,,,1,1,1.2,1.2,158.5,158.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,58.3,58.3,23.2,NA,,,,,,,,,,,76,76,147,147,91,91,,,,,,
+133,33323379,2020-10-05,104,104,2,있음,,,,,,,,,,,21,NA,,,,,Negative,NA,20,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,216,NA,,,0.59,NA,,,,,,,103,NA,105,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 submucosal vascularity가 prominent함._x000D_distal antrum lc에 faint ulcer scar가 관찰됨(#1)._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Atrophic gastritis_x000D_r/o) BGU(S2,#1)_x000D_    Complication_x000D_        None
+Atrophic gastritis
+r/o) BGU(S2,#1)",,,,105,105,,,98,NA,12.2,NA,,,,,,,,,,,71,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,203,NA,,,,,,,27,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy
+              - Shift in flora suggestive of bacterial vaginosis    ",NA,2,있음,1.5,1.5,1.2,1.2,162.9,162.9,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : R/O BGU
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, distal antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) 
+   with intestinal metaplasia",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,57.1,57.1,21.5,NA,1,없음,1,없음,,,,,,,76,76,109,109,70,70,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+134,33353683,2020-10-05,,,1,없음,,,,,,,,,,,23,NA,,,,,,,22,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.66,NA,,,,,,,98,NA,91,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple erosions이 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Erosive gastritis_x000D_    특이사항 및 comments_x000D_        소화기 클리닉_x000D_    Complication_x000D_        None
+Erosive gastritis
+소화기 클리닉",,,,91,91,,,91,NA,14.9,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,18,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy
+              - Reactive cellular changes associated with inflammation   
+                  (includes typical repair)           ",NA,1,없음,0.7,0.7,0.5,0.5,154.9,154.9,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,50.6,50.6,21.1,NA,2,경증,1,없음,,,,,,,70,70,112,112,68,68,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+135,90139064,2020-10-05,,,2,있음,,,,,,,,,,,33,NA,,,,,,,24,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+Right upper outer breast에 focal asymmetry는 less prominent하며 내부에 microcalcification은 큰 변화없음. 
+그 외 양측 breast에 abnormal parenchymal density나 suspicious microcalcification 없음.","Category 2, right upper outer breast.",,,,,1,정상,,,,,0.56,NA,,,,,1,WIthin normal limit.,107,NA,113,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        _x000D_Chronic superficial gastritis_x000D_    Complication_x000D_        None
+Chronic superficial gastritis",,,,113,113,,,79,NA,14.9,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,26,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,0.9,0.9,157.4,157.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,64.6,64.6,26.1,NA,2,경증,2,경증,,,,,,,81,81,132,132,92,92,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+136,33337990,2020-10-06,49,49,2,있음,,,,,,,,,,,25,NA,,,,,,,26,NA,,,,,,,,,,,,,,,13,"비활동성결핵, 양상",150,NA,,,0.8,NA,,,,,,,92,NA,96,NA,,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, diffuse",,,,96,96,,,118,NA,15.5,NA,,,,,,,,,,,90,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,52,NA,,,,,,,26,NA,1,양호,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,1,없음,1,없음,12절단면 약간의 파절.,12절단면 약간의 파절.,,,,,1,있음,0,없음,0,없음,0,없음,1,있음,0,없음,1,있음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,0.5,0.5,174.7,174.7,1,있음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,1,1,,,,,정상,정상,정상,정상,63.1,63.1,20.7,NA,1,없음,1,없음,,,,,,,80,80,129,129,76,76,,,1,없음,,
+137,33205495,2020-10-06,120,120,2,있음,,,,,,,,,,,12,NA,,,,,Negative,NA,16,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,199,NA,,,0.57,NA,,,,,,,104,NA,109,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        chronic superficial gastritis_x000D_    Complication_x000D_        None
+chronic superficial gastritis",,,,109,109,,,96,NA,13,NA,,,,,,,,,,,68,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,55,NA,,,,,,,10,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,0.5,0.5,152.8,152.8,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,53,53,22.7,NA,2,경증,1,없음,,,,,,,69.5,69.5,113,113,78,78,,,1,없음,,
+138,33205501,2020-10-06,126,126,1,없음,,,,,,,,,,,23,NA,,,,,,,19,NA,,,,,,,,,,,,,,,1,정상,214,NA,,,0.84,NA,,,,,,,95,NA,93,NA,,,,검사결과조회화면 참조,atrophic gastritis,,,,93,93,,,101,NA,15.3,NA,,,,,,,,,,,49,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,192,NA,,,,,,,29,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1,1,1.2,1.2,156.7,156.7,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,0,0,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,58.1,58.1,23.7,NA,2,경증,1,없음,,,,,,,82,82,138,138,88,88,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+3,33121367,2020-10-07,173,173,2,있음,,,,,,,,,,,45,NA,,,,,Negative,NA,41,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,251,NA,,,0.59,NA,,,,,,,103,NA,105,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum",,,,105,105,,,113,NA,13.5,NA,,,,,,,,,,,55,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,113,NA,,,,,,,39,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,1.2,1.2,161,161,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,84.5,84.5,32.6,NA,1,없음,1,없음,,,,,,,91,91,117,117,75,75,,,1,없음,,
+4,20129905,2020-10-07,,,1,없음,,,,,,,,,,,31,NA,,,,,,,28,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,13,비활동성 폐결핵,,,,,0.46,NA,,,,,1,WIthin normal limit.,113,NA,141,NA,,,,검사결과조회화면 참조,Normal,,,,141,141,,,88,NA,13.8,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,42,NA,2,개선필요,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,1,1,157.7,157.7,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,59.2,59.2,23.8,NA,1,없음,1,없음,,,,,,,75,75,148,148,93,93,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+139,95010423,2020-10-07,,,1,없음,,,,,,,,,,,42,NA,,,,,,,32,NA,,,,,,,,,,,,,,,13,"비활동성결핵, 양상",,,,,0.88,NA,,,,,,,90,NA,86,NA,,,,검사결과조회화면 참조,"subtotal gastrectomy state.
+gastric erosions",,,,86,86,,,125,NA,13.7,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,92,NA,2,개선필요,2,개선필요,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,2,무,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,0.9,0.9,172.6,172.6,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, posterior wall, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   with erosion",NA,1,없음,,,,,,,1,없음,0,0,1,접종,,,정상,정상,정상,정상,81,81,27.2,NA,1,없음,1,없음,20,20,1,접종,6,6,94,94,115,115,69,69,,,2,있음,,
+5,33115633,2020-10-08,,,2,있음,,,,,,,,,,,17,NA,,,,,,,20,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+s/p right excisional biopsy
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파. ","1. Category 1 (Negative)
+2. s/p right excisional biopsy",,,,,1,정상,,,,,0.55,NA,,,,,,,110,NA,116,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 11_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D_high body gc에 4mm Y-II polyp이 관찰됨(#1)_x000D_antrum gc에 erosion이 관찰됨(#2)._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis_x000D_Gastric polyp_x000D_    Complication_x000D_        None
+Chronic superficial gastritis
+Gastric polyp",,,,116,116,,,96,NA,12.2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,13,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1,1,1.2,1.2,154.3,154.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Polyp, Erosion
+  받은 조직은 2부분임. 
+  #1. 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+  #2. 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.2cm임. 
+MICRO (2 HE and 1 WG)
+DIAGNOSIS:
+Stomach, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) 
+   (#1. high body, greater curvature,
+    #2. antrum, greater curvature)",NA,1,없음,4,4,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,54,54,22.7,NA,1,없음,1,없음,,,,,,,69,69,117,117,71,71,,,1,없음,,
+6,33222537,2020-10-08,,,2,있음,,,,,,,,,,,26,NA,,,,,,,23,NA,,,,,,,,,,,,,,,1,정상,,,,,0.77,NA,,,,,,,100,NA,103,NA,,,,검사결과조회화면 참조,Atrophic gastritis,,,,103,103,,,86,NA,15.2,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,45,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,,,2,있음,0.6,0.6,0.7,0.7,163.5,163.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, cardia, posterior wall, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   
+   with 1) intestinal metaplasia
+        2) erosion",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,71.2,71.2,26.6,NA,1,없음,1,없음,,,,,,,85,85,135,135,79,79,,,1,없음,,
+7,33292057,2020-10-12,118,118,2,있음,,,,,,,,,,,42,NA,,,,,,,25,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,198,NA,,,0.43,NA,,,,,,,117,NA,154,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis
+duodenal ulcer scar(S2)
+retching +++",,,,154,154,,,112,NA,12.7,NA,,,,,,,,,,,49,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,151,NA,,,,,,,53,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.7,0.7,1.5,1.5,151.7,151.7,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, greater curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,69.5,69.5,30.2,NA,2,경증,1,없음,,,,,,,95,95,116,116,66,66,,,1,없음,,
+8,33292158,2020-10-12,,,2,있음,,,,,,,,,,,52,NA,,,,,,,28,NA,,,,,,,,,,,,,,,1,정상,,,,,0.8,NA,,,,,,,102,NA,101,NA,,,,,,,,,101,101,,,94,NA,16.8,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,77,NA,2,개선필요,2,개선필요,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,2,2,2,2,178.1,178.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,79.2,79.2,25,NA,2,경증,1,없음,,,,,,,95,95,126,126,83,83,,,2,있음,,
+9,95022200,2020-10-12,,,2,있음,,,,,,,,,,,31,NA,,,,,,,21,NA,,,,,,,,,,,,,,,3,"석회화 결절, 우하
+늑막비후, 우측",,,,,1.09,NA,,,,,,,77,NA,70,NA,,,,,,,,,70,70,,,95,NA,16.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,155,NA,2,개선필요,2,개선필요,2,개선필요,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.6,0.6,0.7,0.7,166.1,166.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.8,72.8,26.4,NA,2,경증,1,없음,,,,,,,90,90,118,118,74,74,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+10,90007011,2020-10-12,,,1,없음,,,,,,,,,,,18,NA,,,,,,,18,NA,,,,,,,,,,,,,,,1,정상,,,,,0.86,NA,,,,,,,96,NA,91,NA,,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, antrum",,,,91,91,,,96,NA,15,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,16,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.9,0.9,0.7,0.7,169.1,169.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.1,72.1,25.2,NA,1,없음,1,없음,,,,,,,88,88,102,102,60,60,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+11,33282389,2020-10-13,,,1,없음,,,,,,,,,,,21,NA,,,,,,,16,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,3,"석회화 결절, 우중폐야",,,,,0.62,NA,,,,,2,Osteopenia in lumbar spine.,94,NA,96,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        short mucosal breaks were seen on the distal esophagus_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_    Duodenum_x000D_        an ulcer scar was seen on the bulb._x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,LA-A_x000D_chronic superficial gastritis_x000D_duodenal ulcer scar_x000D_    Complication_x000D_        None
+reflux esophagitis,LA-A
+chronic superficial gastritis
+duodenal ulcer scar",,,,96,96,,,102,NA,13.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,17,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,1,없음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,무,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,0.9,0.9,157.4,157.4,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,2,2,1,접종,,,정상,정상,정상,정상,70,70,28.3,NA,1,없음,1,없음,20,20,1,접종,6,6,87,87,150,150,79,79,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+12,33282391,2020-10-13,128,128,2,있음,,,,,,,,,,,24,NA,,,,,,,25,NA,,,,,,,,,,,,,,,1,정상,227,NA,,,0.73,NA,,,,,,,98,NA,108,NA,,,,검사결과조회화면 참조,erosive gastritis,,,,108,108,,,93,NA,15,NA,,,,,,,,,,,89,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,46,NA,,,,,,,16,NA,2,개선필요,1,양호,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,좌측 상악 제1대구치 치주농양,좌측 상악 제1대구치 치주농양,,,,,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,2,있음,,,2,있음,1.2,1.2,1,1,165.9,165.9,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, body, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,62.7,62.7,22.8,NA,1,없음,3,중증,,,,,,,79,79,114,114,75,75,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+14,95005661,2020-10-14,,,2,있음,,,,,,,,,,,15,NA,,,,,,,15,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.58,NA,,,,,2,Osteopenia in lumbar spine.,105,NA,108,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        a SMT was seen on the distal esophagus_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        esophageal SMT_x000D_atrophic gastritis_x000D_    Complication_x000D_        None
+esophageal SMT
+atrophic gastritis",,,,108,108,,,96,NA,13.2,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,30,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.8,0.8,1,1,154.1,154.1,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,52.9,52.9,22.3,NA,1,없음,1,없음,,,,,,,74,74,138,138,89,89,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+15,20272955,2020-10-14,,,2,있음,,,,,,,,,,,38,NA,,,,,,,30,NA,,,,,,,,,,,,,,,1,정상,,,,,0.59,NA,,,,,,,105,NA,106,NA,,,,,,,,,106,106,,,98,NA,12.8,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,167,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,1,없음,1.5,1.5,1.5,1.5,155.5,155.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,62.5,62.5,25.8,NA,2,경증,1,없음,,,,,,,82,82,103,103,70,70,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+16,33081023,2020-10-14,119,119,2,있음,,,1.4,NA,,,4.3,NA,58,NA,34,NA,,,,,Negative,NA,32,NA,,,,,,,,,,,15,NA,9.1,NA,1,정상,227,NA,,,0.85,NA,,,,,,,97,NA,93,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        shallow erosions were seen on the distal esophagus_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,minimal change_x000D_chronic superficial gastritis_x000D_    Complication_x000D_        None
+reflux esophagitis,minimal change
+chronic superficial gastritis",,1.01,NA,88,88,3,NA,96,NA,15.8,NA,,,,,,,,,,,68,NA,,,,,,,128,NA,,,,,,,,,,,,,,,,,,,,,,,,,4,NA,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,1.2,NA,7.3,NA,181,NA,2.35,NA,5.8,NA,,,40,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,,,1,없음,1,1,1.2,1.2,170.4,170.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,82.1,82.1,28.3,NA,2,경증,1,없음,,,,,,,93,93,139,139,97,97,,,1,없음,,
+17,90274695,2020-10-15,,,2,있음,,,,,,,,,,,16,NA,,,,,,,23,NA,,,,,,,,,"Breast composition : Heterogeneous dense.
+Rt. Upper central portion에서 보이던 clustered calcification은 소실되었고 그 자리에 metallic density가 관찰되어, 시술 받은 후 marker를 삽입한 것으로 보임.
+이 외에 뚜렷하게 새롭게 보이는 병변 없음.
+*-RECOMMEND-*만져지는 병변이 있을 시 초음파.","Category 2, probable marker insertion state of Rt. Upper central.",,,,,1,정상,,,,,0.7,NA,,,,,1,WIthin normal limit.,91,NA,83,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 5 mg_x000D_Test_x000D_    Biopsy 갯수 : 2_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        hyperemic patches were seen on the antrum._x000D_an ulcer was seen on the lowerbody,GC(Bx)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        chronic superficial gastritis_x000D_gastric ulcer,healing_x000D_    Complication_x000D_        None
+chronic superficial gastritis
+gastric ulcer,healing",,,,83,83,,,97,NA,13.7,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,12,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,1.2,1.2,163.5,163.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Ulcer
+  받은 조직은 포르말린에 고정된 2개의 내시경 생검 조직으로 큰것의 크기는 0.2x0.2cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, low body, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,2,있음,,,,,,,1,없음,0,0,1,접종,,,정상,정상,정상,정상,59.4,59.4,22.2,NA,2,경증,1,없음,20,20,2,비접종,7,7,78,78,137,137,78,78,,,1,없음,,
+18,33222190,2020-10-15,,,1,없음,,,,,,,,,,,38,NA,,,,,,,23,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,3,"늑막비후, 좌측",,,,,0.6,NA,,,,,2,Osteopenia in lumbar spine.,95,NA,100,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+intestinal metaplasia
+duodenal ulcer scar",,,,100,100,,,94,NA,14.5,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,104,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,2,무,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,2,무,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Absence of endocervical component
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,0.6,0.6,155.4,155.4,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,2,있음,,,,,,,1,없음,1,1,1,접종,,,정상,정상,정상,정상,58.3,58.3,24.1,NA,2,경증,1,없음,20,20,1,접종,6,6,81,81,147,147,75,75,,,1,없음,,
+19,33167917,2020-10-16,,,,,,,,,,,,,,,21,NA,,,,,,,29,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,3,"비활동성결핵, 좌상
+늑막비후, 우측",,,,,0.71,NA,,,,,,,94,NA,84,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum
+Belching+++",,,,84,84,,,93,NA,13.6,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,25,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,,,,,,,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,,,0,없음,0,없음,,,,,1,양호,,,,,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,,,0.7,0.7,0.6,0.6,159.5,159.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,,,,,,,,,,,,,,,,,정상,정상,정상,정상,52,52,20.4,NA,,,,,,,,,,,67,67,103,103,61,61,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,
+20,90130959,2020-10-16,,,2,있음,,,,,,,,,,,32,NA,,,,,,,22,NA,,,,,,,,,,,,,,,1,정상,,,,,0.78,NA,,,,,,,103,NA,104,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum. _x000D_Bx1 was done at HB/GC for H.pylori test_x000D_    Duodenum_x000D_        linear ulcer was noted at bulb (H1)_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_DU , bulb (H1)_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum
+DU , bulb (H1)",,,,104,104,,,108,NA,14.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,27,NA,1,양호,1,양호,1,양호,2,개선필요,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,1,있음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1.2,1.2,175.5,175.5,1,있음,0,없음,1,있음,0,없음,0,없음,1,있음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : 
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, high body, greater curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - positive) ",NA,1,없음,,,,,,,1,없음,,,,,,,질환의심,질환의심,정상,정상,83.5,83.5,27.1,NA,2,경증,1,없음,,,,,,,87,87,124,124,81,81,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+21,33287797,2020-10-19,149,149,2,있음,,,,,,,,,,,14,NA,,,,,Negative,NA,26,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,230,NA,,,0.76,NA,,,,,NA,"Osteopenia in lumbar spine.
+Osteopenia in hip.",88,NA,78,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    Complication_x000D_        None
+Normal",,,,78,78,,,111,NA,14.3,NA,,,,,,,,,,,70,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,54,NA,,,,,,,14,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,1,해당,0,없음,2,있음,1,없음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.2,1.2,0.9,0.9,164,164,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,62.5,62.5,23.2,NA,1,없음,1,없음,,,,,,,69,69,125,125,87,87,,,1,없음,,
+22,33336639,2020-10-19,136,136,2,있음,,,,,,,,,,,12,NA,,,,,,,17,NA,,,,,,,,,,,,,,,1,정상,190,NA,,,0.95,NA,,,,,,,84,NA,79,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,79,79,,,109,NA,14.6,NA,,,,,,,,,,,42,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,60,NA,,,,,,,23,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,임플란트 시술중.,임플란트 시술중.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,2,있음,,,1,없음,1.5,1.5,1.2,1.2,178.4,178.4,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,83.1,83.1,26.1,NA,1,없음,1,없음,,,,,,,95,95,148,148,86,86,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+23,33197654,2020-10-19,,,1,없음,,,,,,,,,,,19,NA,,,,,,,18,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.",Category 1 (Negative).,,,,,1,정상,,,,,0.62,NA,,,,,,,97,NA,97,NA,,,,검사결과조회화면 참조,"Chronic atrophic gastritis, mild, antrum",,,,97,97,,,94,NA,13.3,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,18,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,1,없음,21절단면 약간의 파절.,21절단면 약간의 파절.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,1,없음,0.7,0.7,1,1,153.3,153.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,63.7,63.7,27.1,NA,2,경증,1,없음,,,,,,,78,78,114,114,73,73,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+25,33136924,2020-10-20,190,190,2,있음,,,,,,,,,,,20,NA,,,,,Negative,NA,22,NA,,,,,,,,,,,,,,,1,정상,270,NA,,,0.89,NA,,,,,,,96,NA,88,NA,,,,,,,,,88,88,,,99,NA,16.1,NA,,,,,,,,,,,56,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,117,NA,,,,,,,20,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1,1,0.9,0.9,174.6,174.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,65.9,65.9,21.6,NA,2,경증,1,없음,,,,,,,79,79,136,136,89,89,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+26,33400423,2020-10-20,111,111,2,있음,,,,,,,,,,,37,NA,,,,,Negative,NA,25,NA,,,,,,,,,,,,,,,1,정상,212,NA,,,0.73,NA,NA,"처음CT
+영상소견
+발견된 결절 없음.
+결론: 범주 1 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,104,NA,111,NA,,,,,,,,,111,111,,,176,NA,15.5,NA,,,,,,,,,,,30,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,,,,,,,355,NA,,,,,,,41,NA,2,개선필요,2,개선필요,2,개선필요,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,1.33,1.33,1,없음,,,2,있음,1.2,1.2,1,1,170.3,170.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,0,없음,NA,NA,1,없음,,,,,,,정상,정상,정상,정상,81.8,81.8,28.2,NA,2,경증,1,없음,,,,,,,91,91,153,153,89,89,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,1,유
+27,33116812,2020-10-21,,,2,있음,,,,,,,,,,,21,NA,,,,,,,17,NA,,,,,,,,,,,,,,,1,정상,,,,,0.81,NA,,,,,,,96,NA,96,NA,,,,검사결과조회화면 참조,"Chronic superficial gastritis, mild, antrum
+DU scar, bulb (S2)
+2017 UBT negative",,,,96,96,,,107,NA,15.3,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,34,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,1,없음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.8,0.8,1,1,161.5,161.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,60.1,60.1,23,NA,2,경증,2,경증,,,,,,,82.5,82.5,145,145,89,89,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+28,33021160,2020-10-21,163,163,2,있음,,,,,,,,,,,15,NA,,,,,Negative,NA,19,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+Right upper central portion에 punctate microcalcification 2016년 10월 mammogram 이후 큰 변화 없음. 
+Left breast에 이상 소견 없으며 axilla에 pathologically enlarged LN 없음. 
+*-RECOMMEND-*만져지는 병변이 있을 시 초음파. ","Category 2, benign looking calcifications on right upper central. ",,,,,1,정상,237,NA,,,0.58,NA,,,,,NA,Within normal limit.,103,NA,107,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        whitish mucosal discolorization was seen on the distal esophagus_x000D_    Stomach_x000D_        atrophic changes were seen on the antrum and the body._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        reflux esophagitis,minimal change_x000D_atrophic gastritis_x000D_    Complication_x000D_        None
+reflux esophagitis,minimal change
+atrophic gastritis",,,,107,107,,,105,NA,14.5,NA,,,,,,,,,,,55,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,94,NA,,,,,,,24,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1,1,1,1,161.3,161.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,2,있음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,55.8,55.8,21.4,NA,2,경증,1,없음,,,,,,,68,68,128,128,77,77,,,1,없음,,
+29,33328383,2020-10-22,169,169,2,있음,,,,,,,,,,,22,NA,,,,,Negative,NA,19,NA,,,,,,,,,,,,,,,1,정상,249,NA,,,0.89,NA,,,,,,,96,NA,88,NA,,,,검사결과조회화면 참조,"Gastric polyp at antrum LC [Bx]
+Atrophic gastritis with intestinal metaplasia
+r/o Portal hypertensive gastropathy",,,,88,88,,,95,NA,15.6,NA,,,,,,,,,,,45,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,172,NA,,,,,,,23,NA,2,개선필요,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,11절단면 약간의 파절.,11절단면 약간의 파절.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,0.6,0.6,0.8,0.8,175.1,175.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Polyp
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic active gastritis (Helicobacter pylori - positive)   ",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,89.8,89.8,29.3,NA,1,없음,1,없음,,,,,,,92,92,136,136,91,91,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+30,33330157,2020-10-22,89,89,2,있음,,,,,,,,,,,22,NA,,,,,Negative,NA,24,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,3,"석회화결절, 좌하",190,NA,,,0.63,NA,,,,,NA,Within normal limit.,101,NA,97,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 4 mg_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Several erosions were noted on antrum_x000D_Prominent erosion was noted at antrum, LC (Bx1)_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Erosive gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Erosive gastritis, mild, antrum",,,,97,97,,,108,NA,13.3,NA,,,,,,,,,,,84,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,82,NA,,,,,,,13,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.8,0.8,160.5,160.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, antrum, lesser curvature, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) 
+   with 1) erosion
+        2) necrotic detritus",NA,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,55.5,55.5,21.5,NA,1,없음,1,없음,,,,,,,67,67,106,106,53,53,,,1,없음,,
+31,31135474,2020-10-23,117,117,1,없음,,,,,,,,,,,23,NA,,,,,,,22,NA,,,,,,,,,,,,,,,1,정상,187,NA,,,0.97,NA,,,,,,,84,NA,78,NA,,,,검사결과조회화면 참조,atrophic gastritis with intestinal metaplasia,,,,78,78,,,109,NA,16.8,NA,,,,,,,,,,,47,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,112,NA,,,,,,,17,NA,1,양호,1,양호,1,양호,1,양호,1,없음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,1,양호,,,1,없음,,,2,있음,1.2,1.2,1,1,169.1,169.1,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,0,0,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,73.5,73.5,25.7,NA,1,없음,1,없음,,,,,,,90,90,130,130,82,82,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+32,33125602,2020-10-23,,,2,있음,,,,,,,,,,,24,NA,,,,,,,29,NA,,,,,,,,,,,,,,,1,정상,,,,,0.85,NA,,,,,,,102,NA,95,NA,,,,,,,,,95,95,,,235,NA,16.2,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,98,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,2,있음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.2,1.2,1,1,170.8,170.8,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,2,2,,,,,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,73.8,73.8,25.3,NA,2,경증,1,없음,,,,,,,84,84,132,132,81,81,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,,
+33,20251655,2020-10-26,,,2,있음,,,,,,,,,,,23,NA,,,,,,,18,NA,,,,,,,,,,,,,,,1,정상,,,,,0.82,NA,,,,,,,97,NA,96,NA,,,,검사결과조회화면 참조,"reflux esophagitis,minimal change
+chronic superficial gastritis
+duodenal ulcer scar",,,,96,96,,,91,NA,15,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,23,NA,2,개선필요,1,양호,1,양호,1,양호,1,없음,1,해당,0,없음,2,있음,1,없음,임플란트 시술중.,임플란트 시술중.,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,0.8,0.8,1,1,174.2,174.2,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,72.9,72.9,24,NA,2,경증,1,없음,,,,,,,85,85,129,129,76,76,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+34,33133607,2020-10-27,,,2,있음,,,,,,,,,,,31,NA,,,,,,,32,NA,,,,,,,,,"Breast Composition : Scattered fibroglandular tissue.
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,13,비활동성 폐결핵,,,,,0.84,NA,,,,,1,WIthin normal limit.,73,NA,67,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Premedication_x000D_    Midazolam : 3 mg_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D__x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis_x000D_    Complication_x000D_        None
+Chronic superficial gastritis",,,,67,67,,,108,NA,11.9,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,35,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,1,있음,1,있음,0,없음,1,있음,0,없음,0,없음,1,있음,2,무,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Low cellularity
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,0.8,0.8,159.5,159.5,1,있음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,7,7,1,접종,,,정상,정상,정상,정상,82.8,82.8,32.5,NA,1,없음,1,없음,9,9,1,접종,6,6,94,94,133,133,63,63,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+36,30324860,2020-10-27,200,200,2,있음,,,,,,,,,,,15,NA,,,,,,,18,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,272,NA,,,0.65,NA,,,,,,,92,NA,90,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Scope:HQ290_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D__x000D_**2019 HP-_x000D_    Duodenum_x000D_        Bulb의 a/w side에 faint ulcer scar가 관찰됨. _x000D__x000D__x000D_결과_x000D_    Diagnosis_x000D_        Duodenal ulcer scar(S2) _x000D__x000D_    Complication_x000D_        None
+Duodenal ulcer scar(S2) ",,,,90,90,,,95,NA,12.3,NA,,,,,,,,,,,49,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,114,NA,,,,,,,11,NA,2,개선필요,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,1,없음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.9,0.9,0.8,0.8,158.6,158.6,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,13,13,,,,,정상,정상,정상,정상,58.2,58.2,23.1,NA,2,경증,2,경증,,,,,,,76,76,119,119,62,62,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+37,90116883,2020-10-27,,,1,없음,,,,,,,,,,,23,NA,,,,,,,27,NA,,,,,,,,,,,,,,,3,석회화결절들,,,,,0.74,NA,,,,,,,93,NA,104,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, minimal
+Chronic atrophic gastritis, mild, antrum and body/LC",,,,104,104,,,112,NA,13.7,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,28,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,2,무,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,1,없음,2,있음,1,양호,,,1,없음,,,2,있음,0.6,0.6,0.4,0.4,166.8,166.8,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,0,0,,,,,2,있음,1,1,2,비접종,1,전혀 아니다,정상,정상,정상,정상,66.1,66.1,23.8,NA,2,경증,1,없음,20,20,1,접종,5,5,78,78,140,140,77,77,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+38,90027192,2020-10-27,70,70,1,없음,,,,,,,,,,,37,NA,,,,,,,33,NA,,,,,,,,,,,,,,,1,정상,183,NA,,,0.83,NA,NA,"추적CT (이전CT: 2016-08-31)
+영상소견
+발견된 결절 없음.
+결론: 범주 1 이상소견 없음
+12개월 후 연례 폐암검진 CT를 시행하시기를 권고합니다.",,,,,96,NA,94,NA,,,,검사결과조회화면 참조,"Reflux esophagitis LA-A
+Atrophic gastritis",,,,94,94,,,92,NA,15.1,NA,,,,,,,,,,,89,NA,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1+,NA,,,,,,,,,,,,,,,Negative,NA,,,,,119,NA,,,,,,,312,NA,2,개선필요,2,개선필요,1,양호,2,개선필요,1,없음,0,없음,0,없음,2,있음,2,있음,"12,11,21,22절단면 약간의 파절.","12,11,21,22절단면 약간의 파절.",,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,1.17,1.17,1,없음,,,2,있음,0.8,0.8,1.2,1.2,163.5,163.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,2,2,1,있음,201608,201608,1,없음,,,,,1,전혀 아니다,정상,정상,정상,정상,65.5,65.5,24.5,NA,1,없음,1,없음,,,,,,,87,87,140,140,89,89,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,2,있음,1,유
+39,90267806,2020-10-28,,,1,없음,,,,,,,,,,,38,NA,,,,,,,27,NA,,,,,,,,,,,,,,,1,정상,,,,,0.84,NA,,,,,,,96,NA,93,NA,,,,검사결과조회화면 참조,"Reflux esophagitis, LA-A with sentinel polyp",,,,93,93,,,112,NA,15.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,30,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,,,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1.2,1.2,175.7,175.7,0,없음,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,2,있음,"CLINICAL DIAGNOSIS : Sentinel Polyp
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.3x0.2cm이며 조각나 있음. 
+MICRO (1 HE)
+DIAGNOSIS:  
+Esophagus, Z-line, endoscopic biopsy: 
+ 
+  Squamocolumnar mucosa
+   with 1) chronic inflammation
+        2) no intestinal metaplasia",NA,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,83.3,83.3,27,NA,1,없음,1,없음,,,,,,,84,84,139,139,94,94,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+40,90044236,2020-10-28,113,113,2,있음,,,,,,,,,,,15,NA,,,,,Negative,NA,16,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,202,NA,,,0.62,NA,,,,,NA,"Osteopenia in hip.
+Within normal limit in lumbar spine.",101,NA,99,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Scope:H290_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Normal_x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Normal_x000D_    특이사항 및 comments_x000D_        황교선 시장님 가족_x000D_    Complication_x000D_        None
+Normal
+황교선 시장님 가족",,,,99,99,,,123,NA,13.8,NA,,,,,,,,,,,61,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,136,NA,,,,,,,17,NA,2,개선필요,1,양호,2,개선필요,1,양호,1,없음,0,없음,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,2,개선필요,,,2,있음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+              - Low cellularity
+ 
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.5,0.5,0.5,0.5,158.5,158.5,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,질환의심,질환의심,질환의심,질환의심,59.3,59.3,23.6,NA,1,없음,1,없음,,,,,,,78,78,173,173,102,102,,,1,없음,,
+41,33267018,2020-10-28,,,1,없음,,,,,,,,,,,30,NA,,,,,,,29,NA,,,,,,,,,,,,,,,9,심비대,,,,,0.94,NA,,,,,,,92,NA,83,NA,,,,검사결과조회화면 참조,"atrophic gastritis
+gastric polyp,tiny",,,,83,83,,,121,NA,12,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,32,NA,1,양호,1,양호,1,양호,1,양호,2,있음,0,없음,0,없음,1,없음,1,없음,NA,NA,,,,,0,없음,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,1,없음,1,없음,1,양호,,,1,없음,,,2,있음,0.6,0.6,0.6,0.6,166.3,166.3,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,89,89,32.2,NA,2,경증,1,없음,,,,,,,101.5,101.5,111,111,83,83,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+42,33151520,2020-10-29,,,2,있음,,,,,,,,,,,19,NA,,,,,,,30,NA,,,,,,,,,"Breast Composition : Heterogeneous dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킬 수 있음).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,1,정상,,,,,0.56,NA,,,,,1,WIthin normal limit.,97,NA,108,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D_Test_x000D_    Biopsy 갯수 : 1_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Antrum과 body에 multiple hyperemic patch들이 관찰됨._x000D_mid antrum pw에 erosion이 관찰됨(#1)._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis_x000D_Erosive gastritis_x000D_    Complication_x000D_        None
+Chronic superficial gastritis
+Erosive gastritis",,,,108,108,,,88,NA,13.7,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,12,NA,1,양호,1,양호,2,개선필요,2,개선필요,2,있음,0,없음,0,없음,1,없음,2,있음,NA,NA,2,무,,,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,무,0,없음,0,없음,2,있음,2,있음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,0.7,0.7,156,156,1,있음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,2,있음,,,"CLINICAL DIAGNOSIS : Erosion
+  받은 조직은 포르말린에 고정된 1개의 내시경 생검 조직으로 크기는 0.1x0.1cm임. 
+MICRO (1 HE and 1 WG)
+DIAGNOSIS:
+Stomach, mid antrum, posterior wall, endoscopic biopsy:
+  Chronic gastritis (Helicobacter pylori - negative) ",NA,1,없음,,,,,,,1,없음,4,4,1,접종,,,정상,정상,정상,정상,64.3,64.3,26.4,NA,2,경증,1,없음,20,20,1,접종,9,9,86,86,132,132,84,84,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+43,33401280,2020-10-29,,,2,있음,,,,,,,,,,,13,NA,,,,,,,18,NA,,,,,,,,,"Breast composition : Extremely dense.
+Both upper central portion에 microcalcification들이 의심됨.
+Both subareolar area에 architectural distorsion이 의심됨.
+*-RECOMMEND-*Both magnification view.
+Correlation with previous OP history.","Category 0, microcalcifications in both upper central.
+Category 0, architectural distortion in both subareolar.",,,,,1,정상,,,,,0.61,NA,,,,,1,WIthin normal limit.,103,NA,102,NA,,,,검사결과조회화면 참조,Normal,,,,102,102,,,98,NA,14.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,+/-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,13,NA,1,양호,1,양호,2,개선필요,1,양호,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,1.5,1.5,1.5,1.5,158.7,158.7,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,54.9,54.9,21.8,NA,2,경증,1,없음,,,,,,,69,69,126,126,82,82,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+44,33401279,2020-10-29,,,2,있음,,,,,,,,,,,11,NA,,,,,,,17,NA,,,,,,,,,,,,,,,1,정상,,,,,0.74,NA,,,,,,,105,NA,110,NA,,,,검사결과조회화면 참조,"_x000D_목적:암예방검진센터 수검자_x000D__x000D_소견_x000D_    Esophagus_x000D_        Proximal to mid esophagus에 small whitish plaque가 관찰됨. Longitudinal한 양상으로 정렬되어 보임._x000D_    Stomach_x000D_        Antrum에 1cm이하의 small erythematous raised erosions들이 관찰됨._x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        r/o Esophageal candidiasis_x000D_Erosive gastritis_x000D_    Complication_x000D_        None
+r/o Esophageal candidiasis
+Erosive gastritis",,,,110,110,,,87,NA,14.8,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,14,NA,1,양호,1,양호,1,양호,2,개선필요,1,없음,1,해당,0,없음,2,있음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,,,2,있음,1.5,1.5,1.5,1.5,171.2,171.2,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,0,없음,1,없음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,61.2,61.2,20.9,NA,1,없음,1,없음,,,,,,,74,74,107,107,67,67,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,
+45,20123248,2020-10-30,,,2,있음,,,,,,,,,,,33,NA,,,,,,,28,NA,,,,,,,,,"Breast Composition : Extremely dense.
+(이러한 유방의 음영은 유방 촬영술의 예민도를 감소시킴).
+유방에 뚜렷한 종괴나 비정상적인 석회화 없으며, 구조의 변형이나 비대칭 음영도 없음.
+필드에 포함된 액와 림프절의 이상 비대 소견 없음.
+*-RECOMMEND-*만져지는 종괴가 있을 시 초음파.","Category 1, Negative.",,,,,13,"석회화결절, 우상",,,,,0.61,NA,,,,,,,100,NA,100,NA,,,,검사결과조회화면 참조,"_x000D_목적:공단검진_x000D__x000D_소견_x000D_    Esophagus_x000D_        Normal_x000D_    Stomach_x000D_        Mild mucosal erythema was noted in the antrum. _x000D__x000D_    Duodenum_x000D_        Normal_x000D__x000D_결과_x000D_    Diagnosis_x000D_        Chronic superficial gastritis, mild, antrum_x000D_    Complication_x000D_        None
+Chronic superficial gastritis, mild, antrum",,,,100,100,,,118,NA,12.1,NA,,,,,,,,,,,,,,,,,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-,NA,,,,,,,,,,,,,,,Negative,NA,,,,,,,,,,,,,10,NA,2,개선필요,1,양호,2,개선필요,1,양호,2,있음,0,없음,0,없음,1,없음,2,있음,NA,NA,,,,,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,,,0,없음,0,없음,2,있음,1,없음,2,개선필요,,,1,없음,"
+DIAGNOSIS : Cervicovaginal smear:
+            - Satisfactory for evaluation
+            - Negative for Intraepithelial Lesion or Malignancy",NA,2,있음,0.6,0.6,0.9,0.9,152,152,0,없음,0,없음,0,없음,1,있음,0,없음,0,없음,0,없음,2,있음,,,,,1,없음,,,,,,,1,없음,,,,,,,정상,정상,정상,정상,50.9,50.9,22,NA,2,경증,1,없음,,,,,,,68,68,112,112,53,53,"[M1]
+후두경검사 상 유의한 병변은 관찰되지 않습니다.",NA,1,없음,,

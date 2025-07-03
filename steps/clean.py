@@ -7,10 +7,11 @@ class Cleaner:
         
         
     def clean_data(self, data):
-        data.drop(['id','SalesChannelID','VehicleAge','DaysSinceCreated'], axis=1, inplace=True)
-        
-        data['AnnualPremium'] = data['AnnualPremium'].str.replace('£', '').str.replace(',', '').astype(float)
-            
+        data.drop(columns='Stage',axis=1)
+
+        cancer_type = data['암종']
+        cancer_site = data['Site']
+        cancer_stage = data['Stage_clean']
         for col in ['Gender', 'RegionID']:
              data[col] = self.imputer.fit_transform(data[[col]]).flatten()
              

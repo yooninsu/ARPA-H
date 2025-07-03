@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1>Cancer Group Taxonomy-KEGG Network (|r| > 0.5)</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1>Cancer Group Taxonomy-KEGG Network (|r| > 0.5)</h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"group": "MAG", "id": "Prevotella_multiformis", "label": "Prevotella_multiformis", "shape": "dot", "title": "Prevotella_multiformis"}, {"group": "KEGG", "id": "K00133", "label": "K00133", "shape": "dot", "title": "K00133"}, {"group": "MAG", "id": "Rothia_dentocariosa", "label": "Rothia_dentocariosa", "shape": "dot", "title": "Rothia_dentocariosa"}, {"group": "KEGG", "id": "K23987", "label": "K23987", "shape": "dot", "title": "K23987"}, {"group": "KEGG", "id": "K03890", "label": "K03890", "shape": "dot", "title": "K03890"}, {"group": "KEGG", "id": "K02275", "label": "K02275", "shape": "dot", "title": "K02275"}, {"group": "KEGG", "id": "K03891", "label": "K03891", "shape": "dot", "title": "K03891"}, {"group": "KEGG", "id": "K27109", "label": "K27109", "shape": "dot", "title": "K27109"}, {"group": "KEGG", "id": "K02274", "label": "K02274", "shape": "dot", "title": "K02274"}, {"group": "KEGG", "id": "K02276", "label": "K02276", "shape": "dot", "title": "K02276"}, {"group": "KEGG", "id": "K03889", "label": "K03889", "shape": "dot", "title": "K03889"}, {"group": "MAG", "id": "Veillonella_parvula_A", "label": "Veillonella_parvula_A", "shape": "dot", "title": "Veillonella_parvula_A"}, {"group": "KEGG", "id": "K00382", "label": "K00382", "shape": "dot", "title": "K00382"}, {"group": "KEGG", "id": "K00134", "label": "K00134", "shape": "dot", "title": "K00134"}, {"group": "KEGG", "id": "K03841", "label": "K03841", "shape": "dot", "title": "K03841"}, {"group": "KEGG", "id": "K00948", "label": "K00948", "shape": "dot", "title": "K00948"}, {"group": "KEGG", "id": "K00873", "label": "K00873", "shape": "dot", "title": "K00873"}, {"group": "KEGG", "id": "K00231", "label": "K00231", "shape": "dot", "title": "K00231"}, {"group": "KEGG", "id": "K13542", "label": "K13542", "shape": "dot", "title": "K13542"}, {"group": "KEGG", "id": "K00940", "label": "K00940", "shape": "dot", "title": "K00940"}, {"group": "KEGG", "id": "K00925", "label": "K00925", "shape": "dot", "title": "K00925"}, {"group": "KEGG", "id": "K00615", "label": "K00615", "shape": "dot", "title": "K00615"}, {"group": "KEGG", "id": "K00525", "label": "K00525", "shape": "dot", "title": "K00525"}, {"group": "KEGG", "id": "K00625", "label": "K00625", "shape": "dot", "title": "K00625"}, {"group": "KEGG", "id": "K21345", "label": "K21345", "shape": "dot", "title": "K21345"}, {"group": "KEGG", "id": "K02371", "label": "K02371", "shape": "dot", "title": "K02371"}, {"group": "KEGG", "id": "K00878", "label": "K00878", "shape": "dot", "title": "K00878"}, {"group": "KEGG", "id": "K01906", "label": "K01906", "shape": "dot", "title": "K01906"}, {"group": "KEGG", "id": "K01609", "label": "K01609", "shape": "dot", "title": "K01609"}, {"group": "KEGG", "id": "K00088", "label": "K00088", "shape": "dot", "title": "K00088"}, {"group": "KEGG", "id": "K00435", "label": "K00435", "shape": "dot", "title": "K00435"}, {"group": "KEGG", "id": "K00208", "label": "K00208", "shape": "dot", "title": "K00208"}, {"group": "KEGG", "id": "K21344", "label": "K21344", "shape": "dot", "title": "K21344"}, {"group": "MAG", "id": "Parvimonas_micra", "label": "Parvimonas_micra", "shape": "dot", "title": "Parvimonas_micra"}, {"group": "KEGG", "id": "K01689", "label": "K01689", "shape": "dot", "title": "K01689"}, {"group": "KEGG", "id": "K02120", "label": "K02120", "shape": "dot", "title": "K02120"}, {"group": "KEGG", "id": "K02122", "label": "K02122", "shape": "dot", "title": "K02122"}, {"group": "KEGG", "id": "K02118", "label": "K02118", "shape": "dot", "title": "K02118"}, {"group": "KEGG", "id": "K02119", "label": "K02119", "shape": "dot", "title": "K02119"}, {"group": "KEGG", "id": "K02124", "label": "K02124", "shape": "dot", "title": "K02124"}, {"group": "KEGG", "id": "K02121", "label": "K02121", "shape": "dot", "title": "K02121"}, {"group": "KEGG", "id": "K02107", "label": "K02107", "shape": "dot", "title": "K02107"}, {"group": "KEGG", "id": "K02117", "label": "K02117", "shape": "dot", "title": "K02117"}, {"group": "KEGG", "id": "K02123", "label": "K02123", "shape": "dot", "title": "K02123"}, {"group": "MAG", "id": "Prevotella_shahii", "label": "Prevotella_shahii", "shape": "dot", "title": "Prevotella_shahii"}, {"group": "KEGG", "id": "K01950", "label": "K01950", "shape": "dot", "title": "K01950"}, {"group": "KEGG", "id": "K00640", "label": "K00640", "shape": "dot", "title": "K00640"}, {"group": "KEGG", "id": "K04041", "label": "K04041", "shape": "dot", "title": "K04041"}, {"group": "KEGG", "id": "K01006", "label": "K01006", "shape": "dot", "title": "K01006"}, {"group": "KEGG", "id": "K00764", "label": "K00764", "shape": "dot", "title": "K00764"}, {"group": "KEGG", "id": "K00928", "label": "K00928", "shape": "dot", "title": "K00928"}, {"group": "KEGG", "id": "K01738", "label": "K01738", "shape": "dot", "title": "K01738"}, {"group": "KEGG", "id": "K01586", "label": "K01586", "shape": "dot", "title": "K01586"}, {"group": "KEGG", "id": "K00927", "label": "K00927", "shape": "dot", "title": "K00927"}, {"group": "KEGG", "id": "K01756", "label": "K01756", "shape": "dot", "title": "K01756"}, {"group": "KEGG", "id": "K01589", "label": "K01589", "shape": "dot", "title": "K01589"}, {"group": "KEGG", "id": "K01923", "label": "K01923", "shape": "dot", "title": "K01923"}, {"group": "KEGG", "id": "K16363", "label": "K16363", "shape": "dot", "title": "K16363"}, {"group": "MAG", "id": "Oribacterium_parvum", "label": "Oribacterium_parvum", "shape": "dot", "title": "Oribacterium_parvum"}, {"group": "MAG", "id": "Fusobacterium_nucleatum_J", "label": "Fusobacterium_nucleatum_J", "shape": "dot", "title": "Fusobacterium_nucleatum_J"}, {"group": "KEGG", "id": "K01623", "label": "K01623", "shape": "dot", "title": "K01623"}, {"group": "KEGG", "id": "K00603", "label": "K00603", "shape": "dot", "title": "K00603"}, {"group": "KEGG", "id": "K18367", "label": "K18367", "shape": "dot", "title": "K18367"}, {"group": "MAG", "id": "Lautropia_dentalis", "label": "Lautropia_dentalis", "shape": "dot", "title": "Lautropia_dentalis"}, {"group": "KEGG", "id": "K15634", "label": "K15634", "shape": "dot", "title": "K15634"}, {"group": "KEGG", "id": "K01716", "label": "K01716", "shape": "dot", "title": "K01716"}, {"group": "KEGG", "id": "K02300", "label": "K02300", "shape": "dot", "title": "K02300"}, {"group": "KEGG", "id": "K02298", "label": "K02298", "shape": "dot", "title": "K02298"}, {"group": "KEGG", "id": "K00245", "label": "K00245", "shape": "dot", "title": "K00245"}, {"group": "KEGG", "id": "K01638", "label": "K01638", "shape": "dot", "title": "K01638"}, {"group": "KEGG", "id": "K02299", "label": "K02299", "shape": "dot", "title": "K02299"}, {"group": "KEGG", "id": "K00246", "label": "K00246", "shape": "dot", "title": "K00246"}, {"group": "KEGG", "id": "K01637", "label": "K01637", "shape": "dot", "title": "K01637"}, {"group": "KEGG", "id": "K00965", "label": "K00965", "shape": "dot", "title": "K00965"}, {"group": "KEGG", "id": "K02297", "label": "K02297", "shape": "dot", "title": "K02297"}, {"group": "MAG", "id": "Porphyromonas_pasteri", "label": "Porphyromonas_pasteri", "shape": "dot", "title": "Porphyromonas_pasteri"}, {"group": "KEGG", "id": "K01834", "label": "K01834", "shape": "dot", "title": "K01834"}, {"group": "KEGG", "id": "K00281", "label": "K00281", "shape": "dot", "title": "K00281"}, {"group": "KEGG", "id": "K15633", "label": "K15633", "shape": "dot", "title": "K15633"}, {"group": "KEGG", "id": "K21063", "label": "K21063", "shape": "dot", "title": "K21063"}, {"group": "MAG", "id": "Filifactor_alocis", "label": "Filifactor_alocis", "shape": "dot", "title": "Filifactor_alocis"}, {"group": "KEGG", "id": "K01596", "label": "K01596", "shape": "dot", "title": "K01596"}, {"group": "KEGG", "id": "K06989", "label": "K06989", "shape": "dot", "title": "K06989"}, {"group": "MAG", "id": "Capnocytophaga_gingivalis", "label": "Capnocytophaga_gingivalis", "shape": "dot", "title": "Capnocytophaga_gingivalis"}, {"group": "KEGG", "id": "K01588", "label": "K01588", "shape": "dot", "title": "K01588"}, {"group": "KEGG", "id": "K00161", "label": "K00161", "shape": "dot", "title": "K00161"}, {"group": "KEGG", "id": "K00602", "label": "K00602", "shape": "dot", "title": "K00602"}, {"group": "KEGG", "id": "K01610", "label": "K01610", "shape": "dot", "title": "K01610"}, {"group": "KEGG", "id": "K00162", "label": "K00162", "shape": "dot", "title": "K00162"}, {"group": "KEGG", "id": "K03737", "label": "K03737", "shape": "dot", "title": "K03737"}, {"group": "KEGG", "id": "K08973", "label": "K08973", "shape": "dot", "title": "K08973"}, {"group": "KEGG", "id": "K13788", "label": "K13788", "shape": "dot", "title": "K13788"}, {"group": "KEGG", "id": "K01897", "label": "K01897", "shape": "dot", "title": "K01897"}, {"group": "KEGG", "id": "K01698", "label": "K01698", "shape": "dot", "title": "K01698"}, {"group": "KEGG", "id": "K15862", "label": "K15862", "shape": "dot", "title": "K15862"}, {"group": "KEGG", "id": "K01963", "label": "K01963", "shape": "dot", "title": "K01963"}]);
+                  edges = new vis.DataSet([{"from": "Prevotella_multiformis", "title": "-0.504", "to": "K00133", "value": 0.5037695078031212}, {"from": "Rothia_dentocariosa", "title": "0.599", "to": "K23987", "value": 0.5987515006002401}, {"from": "Rothia_dentocariosa", "title": "0.753", "to": "K03890", "value": 0.7530552956623328}, {"from": "Rothia_dentocariosa", "title": "0.741", "to": "K02275", "value": 0.7412103960139793}, {"from": "Rothia_dentocariosa", "title": "0.822", "to": "K03891", "value": 0.8223966964362397}, {"from": "Rothia_dentocariosa", "title": "0.747", "to": "K27109", "value": 0.7467502340708649}, {"from": "Rothia_dentocariosa", "title": "0.790", "to": "K02274", "value": 0.7896948308358029}, {"from": "Rothia_dentocariosa", "title": "0.804", "to": "K02276", "value": 0.8044657863145258}, {"from": "Rothia_dentocariosa", "title": "0.798", "to": "K03889", "value": 0.7980118175405634}, {"from": "Veillonella_parvula_A", "title": "-0.530", "to": "K00382", "value": 0.5296998799519808}, {"from": "Veillonella_parvula_A", "title": "-0.522", "to": "K00134", "value": 0.5224969987995198}, {"from": "Veillonella_parvula_A", "title": "-0.539", "to": "K03841", "value": 0.5392076830732293}, {"from": "Veillonella_parvula_A", "title": "0.535", "to": "K00948", "value": 0.5353661464585834}, {"from": "Veillonella_parvula_A", "title": "-0.527", "to": "K00873", "value": 0.5274909963985595}, {"from": "Veillonella_parvula_A", "title": "0.526", "to": "K00231", "value": 0.5256662665066026}, {"from": "Veillonella_parvula_A", "title": "0.568", "to": "K13542", "value": 0.5683073229291716}, {"from": "Veillonella_parvula_A", "title": "-0.504", "to": "K00940", "value": 0.5043457382953181}, {"from": "Veillonella_parvula_A", "title": "-0.561", "to": "K00925", "value": 0.5609123649459784}, {"from": "Veillonella_parvula_A", "title": "0.537", "to": "K00615", "value": 0.5371908763505402}, {"from": "Veillonella_parvula_A", "title": "0.537", "to": "K00525", "value": 0.5367106842737095}, {"from": "Veillonella_parvula_A", "title": "0.579", "to": "K00625", "value": 0.5791596638655462}, {"from": "Veillonella_parvula_A", "title": "-0.560", "to": "K21345", "value": 0.5597599039615846}, {"from": "Veillonella_parvula_A", "title": "0.756", "to": "K02371", "value": 0.7555822328931573}, {"from": "Veillonella_parvula_A", "title": "0.504", "to": "K00878", "value": 0.5040576230492196}, {"from": "Veillonella_parvula_A", "title": "0.688", "to": "K01906", "value": 0.6875870348139256}, {"from": "Veillonella_parvula_A", "title": "-0.577", "to": "K01609", "value": 0.577046818727491}, {"from": "Veillonella_parvula_A", "title": "0.515", "to": "K00088", "value": 0.5152941176470588}, {"from": "Veillonella_parvula_A", "title": "0.746", "to": "K00435", "value": 0.7463625450180073}, {"from": "Veillonella_parvula_A", "title": "-0.639", "to": "K00208", "value": 0.6393757503001201}, {"from": "Veillonella_parvula_A", "title": "-0.596", "to": "K21344", "value": 0.5956782713085234}, {"from": "K00382", "title": "0.503", "to": "Porphyromonas_pasteri", "value": 0.503001200480192}, {"from": "K00382", "title": "0.542", "to": "Capnocytophaga_gingivalis", "value": 0.5420888355342137}, {"from": "K00873", "title": "0.511", "to": "Oribacterium_parvum", "value": 0.5111644657863146}, {"from": "K00873", "title": "0.580", "to": "Porphyromonas_pasteri", "value": 0.5799279711884754}, {"from": "K00231", "title": "-0.511", "to": "Capnocytophaga_gingivalis", "value": 0.5111644657863146}, {"from": "K00940", "title": "0.584", "to": "Capnocytophaga_gingivalis", "value": 0.5839615846338535}, {"from": "K00925", "title": "0.590", "to": "Porphyromonas_pasteri", "value": 0.5897238895558223}, {"from": "Parvimonas_micra", "title": "0.532", "to": "K01689", "value": 0.5324849939975991}, {"from": "Parvimonas_micra", "title": "0.717", "to": "K02120", "value": 0.7169747899159664}, {"from": "Parvimonas_micra", "title": "0.701", "to": "K02122", "value": 0.7006482593037215}, {"from": "Parvimonas_micra", "title": "0.727", "to": "K02118", "value": 0.7268667466986795}, {"from": "Parvimonas_micra", "title": "0.723", "to": "K02119", "value": 0.7231212484993997}, {"from": "Parvimonas_micra", "title": "0.709", "to": "K02124", "value": 0.7092917166866747}, {"from": "Parvimonas_micra", "title": "0.679", "to": "K02121", "value": 0.6790396158463385}, {"from": "Parvimonas_micra", "title": "0.633", "to": "K02107", "value": 0.6331940671765257}, {"from": "Parvimonas_micra", "title": "0.716", "to": "K02117", "value": 0.7162064825930372}, {"from": "Parvimonas_micra", "title": "0.705", "to": "K02123", "value": 0.7053541416566627}, {"from": "K01689", "title": "0.519", "to": "Fusobacterium_nucleatum_J", "value": 0.5187515006002401}, {"from": "K01689", "title": "0.532", "to": "Porphyromonas_pasteri", "value": 0.5321008403361345}, {"from": "Prevotella_shahii", "title": "0.581", "to": "K01950", "value": 0.5812725090036014}, {"from": "Prevotella_shahii", "title": "-0.641", "to": "K00640", "value": 0.6408163265306123}, {"from": "Prevotella_shahii", "title": "0.546", "to": "K04041", "value": 0.5463145258103241}, {"from": "Prevotella_shahii", "title": "0.516", "to": "K01006", "value": 0.5158703481392557}, {"from": "Prevotella_shahii", "title": "-0.602", "to": "K00764", "value": 0.6016326530612245}, {"from": "Prevotella_shahii", "title": "-0.501", "to": "K00928", "value": 0.5005042016806722}, {"from": "Prevotella_shahii", "title": "-0.584", "to": "K01738", "value": 0.5844417767106843}, {"from": "Prevotella_shahii", "title": "-0.649", "to": "K01586", "value": 0.6488835534213685}, {"from": "Prevotella_shahii", "title": "-0.559", "to": "K00927", "value": 0.5593757503001201}, {"from": "Prevotella_shahii", "title": "-0.554", "to": "K01756", "value": 0.5537094837935174}, {"from": "Prevotella_shahii", "title": "-0.523", "to": "K01589", "value": 0.5225930372148859}, {"from": "Prevotella_shahii", "title": "-0.576", "to": "K01923", "value": 0.5762785114045619}, {"from": "Prevotella_shahii", "title": "0.547", "to": "K16363", "value": 0.5469867947178871}, {"from": "Fusobacterium_nucleatum_J", "title": "0.570", "to": "K01623", "value": 0.56984393757503}, {"from": "Fusobacterium_nucleatum_J", "title": "0.676", "to": "K00603", "value": 0.6755822328931572}, {"from": "Fusobacterium_nucleatum_J", "title": "0.648", "to": "K18367", "value": 0.6476350540216086}, {"from": "K01623", "title": "0.515", "to": "Lautropia_dentalis", "value": 0.515390156062425}, {"from": "Lautropia_dentalis", "title": "0.806", "to": "K15634", "value": 0.8056210394039671}, {"from": "Lautropia_dentalis", "title": "0.562", "to": "K01716", "value": 0.5621608643457383}, {"from": "Lautropia_dentalis", "title": "0.816", "to": "K02300", "value": 0.8164925722826829}, {"from": "Lautropia_dentalis", "title": "0.815", "to": "K02298", "value": 0.8148778842879382}, {"from": "Lautropia_dentalis", "title": "0.520", "to": "K00245", "value": 0.5202881152460984}, {"from": "Lautropia_dentalis", "title": "0.765", "to": "K01638", "value": 0.764609843937575}, {"from": "Lautropia_dentalis", "title": "0.886", "to": "K02299", "value": 0.8862784864754883}, {"from": "Lautropia_dentalis", "title": "0.501", "to": "K00246", "value": 0.500984393757503}, {"from": "Lautropia_dentalis", "title": "0.775", "to": "K01637", "value": 0.7754621848739496}, {"from": "Lautropia_dentalis", "title": "0.516", "to": "K00965", "value": 0.5164465786314526}, {"from": "Lautropia_dentalis", "title": "0.867", "to": "K02297", "value": 0.8665147844186958}, {"from": "K15634", "title": "0.506", "to": "Porphyromonas_pasteri", "value": 0.5062215333174073}, {"from": "Porphyromonas_pasteri", "title": "0.639", "to": "K01834", "value": 0.6390876350540217}, {"from": "Porphyromonas_pasteri", "title": "0.518", "to": "K00281", "value": 0.5178871548619448}, {"from": "Porphyromonas_pasteri", "title": "-0.541", "to": "K15633", "value": 0.5405522208883553}, {"from": "Porphyromonas_pasteri", "title": "0.614", "to": "K21063", "value": 0.6144057623049219}, {"from": "K01834", "title": "0.552", "to": "Capnocytophaga_gingivalis", "value": 0.5518847539015607}, {"from": "K15633", "title": "-0.538", "to": "Capnocytophaga_gingivalis", "value": 0.5377671068427371}, {"from": "Filifactor_alocis", "title": "0.501", "to": "K01596", "value": 0.500984393757503}, {"from": "Filifactor_alocis", "title": "0.668", "to": "K06989", "value": 0.6677099122215944}, {"from": "Capnocytophaga_gingivalis", "title": "-0.540", "to": "K01588", "value": 0.5404561824729892}, {"from": "Capnocytophaga_gingivalis", "title": "0.786", "to": "K00161", "value": 0.786218487394958}, {"from": "Capnocytophaga_gingivalis", "title": "-0.554", "to": "K00602", "value": 0.5539015606242497}, {"from": "Capnocytophaga_gingivalis", "title": "-0.524", "to": "K01610", "value": 0.5238415366146458}, {"from": "Capnocytophaga_gingivalis", "title": "0.805", "to": "K00162", "value": 0.8053301320528211}, {"from": "Capnocytophaga_gingivalis", "title": "-0.502", "to": "K03737", "value": 0.5018487394957983}, {"from": "Capnocytophaga_gingivalis", "title": "0.527", "to": "K08973", "value": 0.5270108043217286}, {"from": "Capnocytophaga_gingivalis", "title": "0.501", "to": "K13788", "value": 0.5014645858343337}, {"from": "Capnocytophaga_gingivalis", "title": "0.554", "to": "K01897", "value": 0.5538055222088836}, {"from": "Capnocytophaga_gingivalis", "title": "0.506", "to": "K01698", "value": 0.5058823529411764}, {"from": "Capnocytophaga_gingivalis", "title": "0.742", "to": "K15862", "value": 0.7423947755987542}, {"from": "Capnocytophaga_gingivalis", "title": "0.512", "to": "K01963", "value": 0.512124849939976}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

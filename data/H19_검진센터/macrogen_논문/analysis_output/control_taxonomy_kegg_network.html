@@ -1,0 +1,250 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1>Control Group Taxonomy-KEGG Network (|r| > 0.5)</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1>Control Group Taxonomy-KEGG Network (|r| > 0.5)</h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 600px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 600px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"group": "MAG", "id": "Prevotella_multiformis", "label": "Prevotella_multiformis", "shape": "dot", "title": "Prevotella_multiformis"}, {"group": "KEGG", "id": "K00163", "label": "K00163", "shape": "dot", "title": "K00163"}, {"group": "KEGG", "id": "K00382", "label": "K00382", "shape": "dot", "title": "K00382"}, {"group": "KEGG", "id": "K01834", "label": "K01834", "shape": "dot", "title": "K01834"}, {"group": "KEGG", "id": "K00134", "label": "K00134", "shape": "dot", "title": "K00134"}, {"group": "KEGG", "id": "K01468", "label": "K01468", "shape": "dot", "title": "K01468"}, {"group": "KEGG", "id": "K01200", "label": "K01200", "shape": "dot", "title": "K01200"}, {"group": "KEGG", "id": "K06215", "label": "K06215", "shape": "dot", "title": "K06215"}, {"group": "KEGG", "id": "K00281", "label": "K00281", "shape": "dot", "title": "K00281"}, {"group": "KEGG", "id": "K01745", "label": "K01745", "shape": "dot", "title": "K01745"}, {"group": "KEGG", "id": "K01712", "label": "K01712", "shape": "dot", "title": "K01712"}, {"group": "KEGG", "id": "K13990", "label": "K13990", "shape": "dot", "title": "K13990"}, {"group": "KEGG", "id": "K08681", "label": "K08681", "shape": "dot", "title": "K08681"}, {"group": "KEGG", "id": "K15633", "label": "K15633", "shape": "dot", "title": "K15633"}, {"group": "KEGG", "id": "K00283", "label": "K00283", "shape": "dot", "title": "K00283"}, {"group": "KEGG", "id": "K00688", "label": "K00688", "shape": "dot", "title": "K00688"}, {"group": "KEGG", "id": "K03270", "label": "K03270", "shape": "dot", "title": "K03270"}, {"group": "KEGG", "id": "K01589", "label": "K01589", "shape": "dot", "title": "K01589"}, {"group": "KEGG", "id": "K01610", "label": "K01610", "shape": "dot", "title": "K01610"}, {"group": "KEGG", "id": "K00981", "label": "K00981", "shape": "dot", "title": "K00981"}, {"group": "KEGG", "id": "K03737", "label": "K03737", "shape": "dot", "title": "K03737"}, {"group": "KEGG", "id": "K00873", "label": "K00873", "shape": "dot", "title": "K00873"}, {"group": "KEGG", "id": "K00282", "label": "K00282", "shape": "dot", "title": "K00282"}, {"group": "KEGG", "id": "K01497", "label": "K01497", "shape": "dot", "title": "K01497"}, {"group": "MAG", "id": "Rothia_dentocariosa", "label": "Rothia_dentocariosa", "shape": "dot", "title": "Rothia_dentocariosa"}, {"group": "KEGG", "id": "K00867", "label": "K00867", "shape": "dot", "title": "K00867"}, {"group": "KEGG", "id": "K03890", "label": "K03890", "shape": "dot", "title": "K03890"}, {"group": "KEGG", "id": "K02275", "label": "K02275", "shape": "dot", "title": "K02275"}, {"group": "KEGG", "id": "K03891", "label": "K03891", "shape": "dot", "title": "K03891"}, {"group": "KEGG", "id": "K27109", "label": "K27109", "shape": "dot", "title": "K27109"}, {"group": "KEGG", "id": "K02274", "label": "K02274", "shape": "dot", "title": "K02274"}, {"group": "KEGG", "id": "K02276", "label": "K02276", "shape": "dot", "title": "K02276"}, {"group": "KEGG", "id": "K03889", "label": "K03889", "shape": "dot", "title": "K03889"}, {"group": "MAG", "id": "Veillonella_parvula_A", "label": "Veillonella_parvula_A", "shape": "dot", "title": "Veillonella_parvula_A"}, {"group": "KEGG", "id": "K00948", "label": "K00948", "shape": "dot", "title": "K00948"}, {"group": "KEGG", "id": "K02371", "label": "K02371", "shape": "dot", "title": "K02371"}, {"group": "KEGG", "id": "K01906", "label": "K01906", "shape": "dot", "title": "K01906"}, {"group": "KEGG", "id": "K00435", "label": "K00435", "shape": "dot", "title": "K00435"}, {"group": "KEGG", "id": "K13498", "label": "K13498", "shape": "dot", "title": "K13498"}, {"group": "KEGG", "id": "K01951", "label": "K01951", "shape": "dot", "title": "K01951"}, {"group": "MAG", "id": "Prevotella_shahii", "label": "Prevotella_shahii", "shape": "dot", "title": "Prevotella_shahii"}, {"group": "KEGG", "id": "K21071", "label": "K21071", "shape": "dot", "title": "K21071"}, {"group": "MAG", "id": "Fusobacterium_nucleatum_J", "label": "Fusobacterium_nucleatum_J", "shape": "dot", "title": "Fusobacterium_nucleatum_J"}, {"group": "KEGG", "id": "K01623", "label": "K01623", "shape": "dot", "title": "K01623"}, {"group": "KEGG", "id": "K00603", "label": "K00603", "shape": "dot", "title": "K00603"}, {"group": "KEGG", "id": "K01479", "label": "K01479", "shape": "dot", "title": "K01479"}, {"group": "KEGG", "id": "K01624", "label": "K01624", "shape": "dot", "title": "K01624"}, {"group": "KEGG", "id": "K18367", "label": "K18367", "shape": "dot", "title": "K18367"}, {"group": "MAG", "id": "Lautropia_dentalis", "label": "Lautropia_dentalis", "shape": "dot", "title": "Lautropia_dentalis"}, {"group": "KEGG", "id": "K01835", "label": "K01835", "shape": "dot", "title": "K01835"}, {"group": "KEGG", "id": "K15634", "label": "K15634", "shape": "dot", "title": "K15634"}, {"group": "KEGG", "id": "K00845", "label": "K00845", "shape": "dot", "title": "K00845"}, {"group": "KEGG", "id": "K04041", "label": "K04041", "shape": "dot", "title": "K04041"}, {"group": "KEGG", "id": "K00627", "label": "K00627", "shape": "dot", "title": "K00627"}, {"group": "KEGG", "id": "K03841", "label": "K03841", "shape": "dot", "title": "K03841"}, {"group": "KEGG", "id": "K15778", "label": "K15778", "shape": "dot", "title": "K15778"}, {"group": "KEGG", "id": "K25026", "label": "K25026", "shape": "dot", "title": "K25026"}, {"group": "KEGG", "id": "K08973", "label": "K08973", "shape": "dot", "title": "K08973"}, {"group": "KEGG", "id": "K02492", "label": "K02492", "shape": "dot", "title": "K02492"}, {"group": "KEGG", "id": "K00231", "label": "K00231", "shape": "dot", "title": "K00231"}, {"group": "KEGG", "id": "K01807", "label": "K01807", "shape": "dot", "title": "K01807"}, {"group": "KEGG", "id": "K00616", "label": "K00616", "shape": "dot", "title": "K00616"}, {"group": "KEGG", "id": "K01772", "label": "K01772", "shape": "dot", "title": "K01772"}, {"group": "KEGG", "id": "K00412", "label": "K00412", "shape": "dot", "title": "K00412"}, {"group": "KEGG", "id": "K01749", "label": "K01749", "shape": "dot", "title": "K01749"}, {"group": "KEGG", "id": "K00411", "label": "K00411", "shape": "dot", "title": "K00411"}, {"group": "KEGG", "id": "K00242", "label": "K00242", "shape": "dot", "title": "K00242"}, {"group": "KEGG", "id": "K01808", "label": "K01808", "shape": "dot", "title": "K01808"}, {"group": "KEGG", "id": "K01599", "label": "K01599", "shape": "dot", "title": "K01599"}, {"group": "KEGG", "id": "K01845", "label": "K01845", "shape": "dot", "title": "K01845"}, {"group": "KEGG", "id": "K13821", "label": "K13821", "shape": "dot", "title": "K13821"}, {"group": "KEGG", "id": "K01698", "label": "K01698", "shape": "dot", "title": "K01698"}, {"group": "KEGG", "id": "K16363", "label": "K16363", "shape": "dot", "title": "K16363"}, {"group": "KEGG", "id": "K02114", "label": "K02114", "shape": "dot", "title": "K02114"}, {"group": "KEGG", "id": "K00208", "label": "K00208", "shape": "dot", "title": "K00208"}, {"group": "KEGG", "id": "K02372", "label": "K02372", "shape": "dot", "title": "K02372"}, {"group": "KEGG", "id": "K01940", "label": "K01940", "shape": "dot", "title": "K01940"}, {"group": "KEGG", "id": "K01716", "label": "K01716", "shape": "dot", "title": "K01716"}, {"group": "KEGG", "id": "K00611", "label": "K00611", "shape": "dot", "title": "K00611"}, {"group": "KEGG", "id": "K04042", "label": "K04042", "shape": "dot", "title": "K04042"}, {"group": "KEGG", "id": "K00177", "label": "K00177", "shape": "dot", "title": "K00177"}, {"group": "KEGG", "id": "K00247", "label": "K00247", "shape": "dot", "title": "K00247"}, {"group": "KEGG", "id": "K02300", "label": "K02300", "shape": "dot", "title": "K02300"}, {"group": "KEGG", "id": "K00175", "label": "K00175", "shape": "dot", "title": "K00175"}, {"group": "KEGG", "id": "K00116", "label": "K00116", "shape": "dot", "title": "K00116"}, {"group": "KEGG", "id": "K01595", "label": "K01595", "shape": "dot", "title": "K01595"}, {"group": "KEGG", "id": "K00174", "label": "K00174", "shape": "dot", "title": "K00174"}, {"group": "KEGG", "id": "K02298", "label": "K02298", "shape": "dot", "title": "K02298"}, {"group": "KEGG", "id": "K01626", "label": "K01626", "shape": "dot", "title": "K01626"}, {"group": "KEGG", "id": "K00245", "label": "K00245", "shape": "dot", "title": "K00245"}, {"group": "KEGG", "id": "K00014", "label": "K00014", "shape": "dot", "title": "K00014"}, {"group": "KEGG", "id": "K01638", "label": "K01638", "shape": "dot", "title": "K01638"}, {"group": "KEGG", "id": "K03637", "label": "K03637", "shape": "dot", "title": "K03637"}, {"group": "KEGG", "id": "K01920", "label": "K01920", "shape": "dot", "title": "K01920"}, {"group": "KEGG", "id": "K03635", "label": "K03635", "shape": "dot", "title": "K03635"}, {"group": "KEGG", "id": "K02299", "label": "K02299", "shape": "dot", "title": "K02299"}, {"group": "KEGG", "id": "K01679", "label": "K01679", "shape": "dot", "title": "K01679"}, {"group": "KEGG", "id": "K00164", "label": "K00164", "shape": "dot", "title": "K00164"}, {"group": "KEGG", "id": "K01919", "label": "K01919", "shape": "dot", "title": "K01919"}, {"group": "KEGG", "id": "K00246", "label": "K00246", "shape": "dot", "title": "K00246"}, {"group": "KEGG", "id": "K01637", "label": "K01637", "shape": "dot", "title": "K01637"}, {"group": "KEGG", "id": "K00965", "label": "K00965", "shape": "dot", "title": "K00965"}, {"group": "KEGG", "id": "K02297", "label": "K02297", "shape": "dot", "title": "K02297"}, {"group": "KEGG", "id": "K03831", "label": "K03831", "shape": "dot", "title": "K03831"}, {"group": "KEGG", "id": "K00405", "label": "K00405", "shape": "dot", "title": "K00405"}, {"group": "KEGG", "id": "K00658", "label": "K00658", "shape": "dot", "title": "K00658"}, {"group": "KEGG", "id": "K00244", "label": "K00244", "shape": "dot", "title": "K00244"}, {"group": "KEGG", "id": "K00404", "label": "K00404", "shape": "dot", "title": "K00404"}, {"group": "KEGG", "id": "K01733", "label": "K01733", "shape": "dot", "title": "K01733"}, {"group": "KEGG", "id": "K14170", "label": "K14170", "shape": "dot", "title": "K14170"}, {"group": "KEGG", "id": "K02204", "label": "K02204", "shape": "dot", "title": "K02204"}, {"group": "KEGG", "id": "K04516", "label": "K04516", "shape": "dot", "title": "K04516"}, {"group": "MAG", "id": "Porphyromonas_pasteri", "label": "Porphyromonas_pasteri", "shape": "dot", "title": "Porphyromonas_pasteri"}, {"group": "KEGG", "id": "K01613", "label": "K01613", "shape": "dot", "title": "K01613"}, {"group": "KEGG", "id": "K01710", "label": "K01710", "shape": "dot", "title": "K01710"}, {"group": "KEGG", "id": "K01689", "label": "K01689", "shape": "dot", "title": "K01689"}, {"group": "KEGG", "id": "K21063", "label": "K21063", "shape": "dot", "title": "K21063"}, {"group": "KEGG", "id": "K00036", "label": "K00036", "shape": "dot", "title": "K00036"}, {"group": "MAG", "id": "Filifactor_alocis", "label": "Filifactor_alocis", "shape": "dot", "title": "Filifactor_alocis"}, {"group": "KEGG", "id": "K06989", "label": "K06989", "shape": "dot", "title": "K06989"}, {"group": "KEGG", "id": "K02112", "label": "K02112", "shape": "dot", "title": "K02112"}, {"group": "MAG", "id": "Capnocytophaga_gingivalis", "label": "Capnocytophaga_gingivalis", "shape": "dot", "title": "Capnocytophaga_gingivalis"}, {"group": "KEGG", "id": "K08289", "label": "K08289", "shape": "dot", "title": "K08289"}, {"group": "KEGG", "id": "K00161", "label": "K00161", "shape": "dot", "title": "K00161"}, {"group": "KEGG", "id": "K00162", "label": "K00162", "shape": "dot", "title": "K00162"}, {"group": "KEGG", "id": "K15862", "label": "K15862", "shape": "dot", "title": "K15862"}, {"group": "KEGG", "id": "K00648", "label": "K00648", "shape": "dot", "title": "K00648"}]);
+                  edges = new vis.DataSet([{"from": "Prevotella_multiformis", "title": "-0.514", "to": "K00163", "value": 0.5143891402714932}, {"from": "Prevotella_multiformis", "title": "-0.585", "to": "K00382", "value": 0.5853393665158371}, {"from": "Prevotella_multiformis", "title": "-0.676", "to": "K01834", "value": 0.6764705882352942}, {"from": "Prevotella_multiformis", "title": "-0.618", "to": "K00134", "value": 0.617737556561086}, {"from": "Prevotella_multiformis", "title": "0.621", "to": "K01468", "value": 0.6212669683257919}, {"from": "Prevotella_multiformis", "title": "0.636", "to": "K01200", "value": 0.6360180995475113}, {"from": "Prevotella_multiformis", "title": "0.673", "to": "K06215", "value": 0.6732126696832579}, {"from": "Prevotella_multiformis", "title": "-0.580", "to": "K00281", "value": 0.5804524886877828}, {"from": "Prevotella_multiformis", "title": "0.585", "to": "K01745", "value": 0.5854298642533937}, {"from": "Prevotella_multiformis", "title": "0.616", "to": "K01712", "value": 0.615656108597285}, {"from": "Prevotella_multiformis", "title": "0.649", "to": "K13990", "value": 0.6493212669683258}, {"from": "Prevotella_multiformis", "title": "0.602", "to": "K08681", "value": 0.602262443438914}, {"from": "Prevotella_multiformis", "title": "0.588", "to": "K15633", "value": 0.5876018099547511}, {"from": "Prevotella_multiformis", "title": "0.708", "to": "K00283", "value": 0.7076923076923077}, {"from": "Prevotella_multiformis", "title": "-0.582", "to": "K00688", "value": 0.5819909502262444}, {"from": "Prevotella_multiformis", "title": "-0.530", "to": "K03270", "value": 0.5298642533936652}, {"from": "Prevotella_multiformis", "title": "-0.539", "to": "K01589", "value": 0.5392760180995475}, {"from": "Prevotella_multiformis", "title": "0.556", "to": "K01610", "value": 0.5564705882352942}, {"from": "Prevotella_multiformis", "title": "-0.510", "to": "K00981", "value": 0.5098642533936651}, {"from": "Prevotella_multiformis", "title": "0.561", "to": "K03737", "value": 0.5613574660633485}, {"from": "Prevotella_multiformis", "title": "-0.581", "to": "K00873", "value": 0.5812669683257918}, {"from": "Prevotella_multiformis", "title": "0.684", "to": "K00282", "value": 0.6838009049773756}, {"from": "Prevotella_multiformis", "title": "-0.510", "to": "K01497", "value": 0.5100452488687783}, {"from": "K00163", "title": "0.565", "to": "Lautropia_dentalis", "value": 0.5648868778280542}, {"from": "K00382", "title": "0.569", "to": "Porphyromonas_pasteri", "value": 0.5693212669683257}, {"from": "K01834", "title": "0.702", "to": "Porphyromonas_pasteri", "value": 0.7015384615384616}, {"from": "K15633", "title": "-0.593", "to": "Lautropia_dentalis", "value": 0.592579185520362}, {"from": "K15633", "title": "-0.561", "to": "Porphyromonas_pasteri", "value": 0.5606334841628959}, {"from": "K00283", "title": "-0.530", "to": "Porphyromonas_pasteri", "value": 0.5297737556561086}, {"from": "K03270", "title": "-0.546", "to": "Veillonella_parvula_A", "value": 0.545972850678733}, {"from": "K03270", "title": "0.526", "to": "Porphyromonas_pasteri", "value": 0.5257013574660634}, {"from": "K01589", "title": "0.535", "to": "Lautropia_dentalis", "value": 0.534841628959276}, {"from": "K01610", "title": "-0.521", "to": "Lautropia_dentalis", "value": 0.5212669683257919}, {"from": "K00873", "title": "0.736", "to": "Porphyromonas_pasteri", "value": 0.7359276018099548}, {"from": "K01497", "title": "0.518", "to": "Lautropia_dentalis", "value": 0.5175565610859728}, {"from": "Rothia_dentocariosa", "title": "0.502", "to": "K00867", "value": 0.5018099547511312}, {"from": "Rothia_dentocariosa", "title": "0.848", "to": "K03890", "value": 0.8484354851828751}, {"from": "Rothia_dentocariosa", "title": "0.684", "to": "K02275", "value": 0.6844343891402715}, {"from": "Rothia_dentocariosa", "title": "0.897", "to": "K03891", "value": 0.8974660633484163}, {"from": "Rothia_dentocariosa", "title": "0.796", "to": "K27109", "value": 0.7959719597335266}, {"from": "Rothia_dentocariosa", "title": "0.748", "to": "K02274", "value": 0.7475113122171946}, {"from": "Rothia_dentocariosa", "title": "0.763", "to": "K02276", "value": 0.7632579185520362}, {"from": "Rothia_dentocariosa", "title": "0.799", "to": "K03889", "value": 0.7990950226244344}, {"from": "K03891", "title": "0.530", "to": "Lautropia_dentalis", "value": 0.5297737556561086}, {"from": "Veillonella_parvula_A", "title": "0.512", "to": "K00948", "value": 0.5118552036199095}, {"from": "Veillonella_parvula_A", "title": "0.706", "to": "K02371", "value": 0.7057918552036199}, {"from": "Veillonella_parvula_A", "title": "0.619", "to": "K01906", "value": 0.6191855203619909}, {"from": "Veillonella_parvula_A", "title": "0.688", "to": "K00435", "value": 0.6884162895927601}, {"from": "Veillonella_parvula_A", "title": "0.500", "to": "K13498", "value": 0.5004524886877828}, {"from": "Veillonella_parvula_A", "title": "0.551", "to": "K01951", "value": 0.5510407239819004}, {"from": "Prevotella_shahii", "title": "-0.504", "to": "K21071", "value": 0.5038009049773756}, {"from": "Fusobacterium_nucleatum_J", "title": "0.576", "to": "K01623", "value": 0.5761085972850679}, {"from": "Fusobacterium_nucleatum_J", "title": "0.580", "to": "K00603", "value": 0.5799095022624434}, {"from": "Fusobacterium_nucleatum_J", "title": "0.530", "to": "K01479", "value": 0.530316742081448}, {"from": "Fusobacterium_nucleatum_J", "title": "-0.533", "to": "K01624", "value": 0.5334841628959276}, {"from": "Fusobacterium_nucleatum_J", "title": "0.678", "to": "K18367", "value": 0.6778886401879816}, {"from": "Lautropia_dentalis", "title": "-0.541", "to": "K01835", "value": 0.5409954751131222}, {"from": "Lautropia_dentalis", "title": "0.652", "to": "K15634", "value": 0.6522171945701357}, {"from": "Lautropia_dentalis", "title": "0.521", "to": "K00845", "value": 0.5209049773755656}, {"from": "Lautropia_dentalis", "title": "-0.587", "to": "K04041", "value": 0.5866063348416289}, {"from": "Lautropia_dentalis", "title": "0.561", "to": "K00627", "value": 0.5605429864253394}, {"from": "Lautropia_dentalis", "title": "0.542", "to": "K03841", "value": 0.5419909502262443}, {"from": "Lautropia_dentalis", "title": "0.510", "to": "K15778", "value": 0.5095927601809955}, {"from": "Lautropia_dentalis", "title": "-0.578", "to": "K25026", "value": 0.5779185520361991}, {"from": "Lautropia_dentalis", "title": "0.505", "to": "K08973", "value": 0.5046153846153846}, {"from": "Lautropia_dentalis", "title": "0.506", "to": "K02492", "value": 0.5061538461538462}, {"from": "Lautropia_dentalis", "title": "-0.502", "to": "K00231", "value": 0.5017194570135747}, {"from": "Lautropia_dentalis", "title": "0.649", "to": "K01807", "value": 0.6485972850678733}, {"from": "Lautropia_dentalis", "title": "0.575", "to": "K00616", "value": 0.5746606334841629}, {"from": "Lautropia_dentalis", "title": "0.548", "to": "K01772", "value": 0.5478733031674208}, {"from": "Lautropia_dentalis", "title": "0.528", "to": "K00412", "value": 0.5284162895927602}, {"from": "Lautropia_dentalis", "title": "0.586", "to": "K01749", "value": 0.5860633484162896}, {"from": "Lautropia_dentalis", "title": "0.505", "to": "K00411", "value": 0.505158371040724}, {"from": "Lautropia_dentalis", "title": "0.500", "to": "K00242", "value": 0.5000904977375565}, {"from": "Lautropia_dentalis", "title": "-0.562", "to": "K01808", "value": 0.5615384615384615}, {"from": "Lautropia_dentalis", "title": "0.518", "to": "K01599", "value": 0.5182805429864253}, {"from": "Lautropia_dentalis", "title": "0.556", "to": "K01845", "value": 0.5556561085972851}, {"from": "Lautropia_dentalis", "title": "0.602", "to": "K13821", "value": 0.6016289592760181}, {"from": "Lautropia_dentalis", "title": "0.581", "to": "K01698", "value": 0.5805429864253394}, {"from": "Lautropia_dentalis", "title": "-0.610", "to": "K16363", "value": 0.6098642533936651}, {"from": "Lautropia_dentalis", "title": "0.560", "to": "K02114", "value": 0.5596380090497738}, {"from": "Lautropia_dentalis", "title": "0.513", "to": "K00208", "value": 0.5130316742081448}, {"from": "Lautropia_dentalis", "title": "0.561", "to": "K02372", "value": 0.561447963800905}, {"from": "Lautropia_dentalis", "title": "0.510", "to": "K01940", "value": 0.5099547511312217}, {"from": "Lautropia_dentalis", "title": "0.631", "to": "K01716", "value": 0.631131221719457}, {"from": "Lautropia_dentalis", "title": "0.513", "to": "K00611", "value": 0.5130316742081448}, {"from": "Lautropia_dentalis", "title": "0.577", "to": "K04042", "value": 0.5774660633484163}, {"from": "Lautropia_dentalis", "title": "-0.599", "to": "K00177", "value": 0.5986425339366516}, {"from": "Lautropia_dentalis", "title": "0.522", "to": "K00247", "value": 0.522262443438914}, {"from": "Lautropia_dentalis", "title": "0.710", "to": "K02300", "value": 0.7098642533936652}, {"from": "Lautropia_dentalis", "title": "-0.619", "to": "K00175", "value": 0.618552036199095}, {"from": "Lautropia_dentalis", "title": "0.519", "to": "K00116", "value": 0.5189140271493212}, {"from": "Lautropia_dentalis", "title": "0.569", "to": "K01595", "value": 0.5692307692307692}, {"from": "Lautropia_dentalis", "title": "-0.591", "to": "K00174", "value": 0.5905882352941176}, {"from": "Lautropia_dentalis", "title": "0.633", "to": "K02298", "value": 0.6329411764705882}, {"from": "Lautropia_dentalis", "title": "0.657", "to": "K01626", "value": 0.6567420814479638}, {"from": "Lautropia_dentalis", "title": "0.527", "to": "K00245", "value": 0.5272398190045249}, {"from": "Lautropia_dentalis", "title": "0.648", "to": "K00014", "value": 0.6475113122171946}, {"from": "Lautropia_dentalis", "title": "0.693", "to": "K01638", "value": 0.6931221719457014}, {"from": "Lautropia_dentalis", "title": "0.596", "to": "K03637", "value": 0.595656108597285}, {"from": "Lautropia_dentalis", "title": "0.577", "to": "K01920", "value": 0.5773755656108597}, {"from": "Lautropia_dentalis", "title": "0.519", "to": "K03635", "value": 0.5189140271493212}, {"from": "Lautropia_dentalis", "title": "0.693", "to": "K02299", "value": 0.6934841628959276}, {"from": "Lautropia_dentalis", "title": "0.578", "to": "K01679", "value": 0.5784615384615385}, {"from": "Lautropia_dentalis", "title": "0.579", "to": "K00164", "value": 0.5786425339366515}, {"from": "Lautropia_dentalis", "title": "0.583", "to": "K01919", "value": 0.5829864253393665}, {"from": "Lautropia_dentalis", "title": "0.514", "to": "K00246", "value": 0.5137556561085973}, {"from": "Lautropia_dentalis", "title": "0.670", "to": "K01637", "value": 0.6702262443438914}, {"from": "Lautropia_dentalis", "title": "0.536", "to": "K00965", "value": 0.5363800904977376}, {"from": "Lautropia_dentalis", "title": "0.696", "to": "K02297", "value": 0.6960180995475113}, {"from": "Lautropia_dentalis", "title": "0.535", "to": "K03831", "value": 0.5350226244343892}, {"from": "Lautropia_dentalis", "title": "0.510", "to": "K00405", "value": 0.5100452488687783}, {"from": "Lautropia_dentalis", "title": "0.572", "to": "K00658", "value": 0.5724886877828055}, {"from": "Lautropia_dentalis", "title": "0.507", "to": "K00244", "value": 0.506606334841629}, {"from": "Lautropia_dentalis", "title": "0.561", "to": "K00404", "value": 0.5605429864253394}, {"from": "Lautropia_dentalis", "title": "0.530", "to": "K01733", "value": 0.5301357466063349}, {"from": "Lautropia_dentalis", "title": "0.514", "to": "K14170", "value": 0.5140271493212669}, {"from": "Lautropia_dentalis", "title": "0.586", "to": "K02204", "value": 0.5862443438914027}, {"from": "Lautropia_dentalis", "title": "-0.650", "to": "K04516", "value": 0.650497737556561}, {"from": "K00208", "title": "0.594", "to": "Porphyromonas_pasteri", "value": 0.5943891402714933}, {"from": "Porphyromonas_pasteri", "title": "0.704", "to": "K01613", "value": 0.7041628959276018}, {"from": "Porphyromonas_pasteri", "title": "0.537", "to": "K01710", "value": 0.5370135746606335}, {"from": "Porphyromonas_pasteri", "title": "0.613", "to": "K01689", "value": 0.6129411764705882}, {"from": "Porphyromonas_pasteri", "title": "0.676", "to": "K21063", "value": 0.6759276018099547}, {"from": "Porphyromonas_pasteri", "title": "0.501", "to": "K00036", "value": 0.5006334841628959}, {"from": "Filifactor_alocis", "title": "0.646", "to": "K06989", "value": 0.6457175002003359}, {"from": "Filifactor_alocis", "title": "-0.505", "to": "K02112", "value": 0.505158371040724}, {"from": "Capnocytophaga_gingivalis", "title": "-0.500", "to": "K08289", "value": 0.5000904977375565}, {"from": "Capnocytophaga_gingivalis", "title": "0.600", "to": "K00161", "value": 0.6000904977375565}, {"from": "Capnocytophaga_gingivalis", "title": "0.633", "to": "K00162", "value": 0.6326696832579185}, {"from": "Capnocytophaga_gingivalis", "title": "0.755", "to": "K15862", "value": 0.7547511312217194}, {"from": "Capnocytophaga_gingivalis", "title": "0.507", "to": "K00648", "value": 0.5067873303167421}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

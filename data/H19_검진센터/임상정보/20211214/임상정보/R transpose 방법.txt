@@ -1,0 +1,109 @@
+조은비T
+
+H19 검진센터 검진결과 행열바꾸기
+
+내PC > 문서 > R폴더 혹은 연구서버 > lab member > 이현지
+"Transpose_excel_edit(R파일)" 실행
+
+ 7번째 줄 : dir <- "file directory"
+file directory -> 검진결과가 있는 파일 위치로 변경
+ex) \\172.20.213.44\연구서버\연구검체\H19_검진센터\임상정보
+\\대신 //반대방향으로 붙여넣기 됨 -> //로 바꿔줌
+
+ 8번째 줄 : dir, "ID 파일 이름"
+ 9번째 줄 : dir, "정보 파일 이름"
+
+
+모두 바꾼 후 전체 블럭잡고 Run
+
+R 폴더에 "test_1.csv" 이름으로 파일 저장됨
+
+
+
+# library
+library(openxlsx)
+library(tidyverse)
+
+# pre : import data set 
+dir <- "//172.20.213.44/연구서버/Lab member/우윤정"
+ID <- openxlsx::read.xlsx(paste(dir,"20200811_우윤정_ID.xlsx", sep = "/"))
+diag <- openxlsx::read.xlsx(paste(dir,"20200811_우윤정_정보.xlsx", sep = "/"))
+
+
+ID %>% as_tibble() # 확인 
+diag %>% as_tibble() %>% 
+  mutate(검진일 = as.Date(검진일, origin = "1899-12-30")) -> diag
+
+
+diag %>% count(검진일) %>% as.data.frame()
+
+
+ID %>% as_tibble() # 확인 
+diag %>% as_tibble() %>% 
+  mutate(검진일 = as.Date(검진일, origin = "1899-12-30")) -> diag
+
+
+diag %>% count(검진일) %>% as.data.frame()
+
+
+ID %>% 
+  merge(diag, by = 'SEQ', all = TRUE) %>% as_tibble() %>%   select(-1) %>% 
+  as.data.frame() -> transpose_data
+
+
+ID_검진일 <- as.data.frame(matrix(99999, length(unique(transpose_data$ID)), 2))
+names(ID_검진일) <- c("ID", "검진일")
+data <- as.data.frame(matrix(99999, length(unique(transpose_data$ID)), length(unique(transpose_data$검사명))*2))
+names(data) <- sort(c(unique(transpose_data$검사명), paste0(unique(transpose_data$검사명), "_진단")))
+
+data <- as.data.frame(cbind(ID_검진일, data))
+
+
+transpose_test <- function(data, index_column, return_data) { 
+  
+  date <- data[which(duplicated(data[, index_column]) != TRUE), "검진일"]
+  index <- unique(data[, index_column])
+  
+  for (i in 1:length(index)) { 
+    # https://stackoverflow.com/questions/27197617/filter-data-frame-by-character-column-name-in-dplyr
+    data %>% 
+      dplyr::filter(!!as.symbol(index_column) == index[i]) -> subset
+    
+    return_data[i, c(1,2)] <- c(index[i], as.character(date[i]))
+    
+    
+    for ( j in 1:nrow(subset)) { 
+      
+      which_index <- which(subset$검사명[j] == colnames(return_data))
+      return_data[i, which_index] <- subset$결과[j]
+      
+      if(which_index != 0) {
+        return_data[i, (which_index + 1) ] <- subset$내용[j]
+        
+      }
+    }
+  }
+  
+  return(return_data)
+  
+}
+
+
+test_result <- transpose_test(transpose_data, 'ID', return_data = data)
+
+
+test_1 <- apply(test_result, MARGIN = 2, function(x) {gsub("\n$", "", x)})
+test_1 %>% 
+  write.csv("test_1.csv")
+
+
+
+
+
+
+
+
+
+
+
+

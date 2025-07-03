@@ -1,0 +1,26 @@
+id,Type,Name,p_value,regulation,up_count,down_count,total_orthologies,name,color
+H1900168_DNA.MetaBAT2.74,MAG,Streptococcus mitis_AP,7.39e-05,Up,,,,Streptococcus mitis_AP,#FF5733
+H1310063_DNA.MetaBAT2.7,MAG,Parvimonas micra,0.0001526375679366,Up,,,,Parvimonas micra,#FF5733
+H1900044_DNA.MetaBAT2.23,MAG,Prevotella shahii,0.0012098077166235,Down,,,,Prevotella shahii,#3383FF
+"Glycine, serine and threonine metabolism",Pathway,"Glycine, serine and threonine metabolism",8.01e-05,,3,0,3,"Glycine, serine and threonine metabolism",#f77189
+Peptidoglycan biosynthesis,Pathway,Peptidoglycan biosynthesis,7.33e-15,,7,0,7,Peptidoglycan biosynthesis,#f77557
+Pyrimidine metabolism,Pathway,Pyrimidine metabolism,1.39e-07,,13,0,13,Pyrimidine metabolism,#e18632
+Galactose metabolism,Pathway,Galactose metabolism,2.28e-07,,6,0,6,Galactose metabolism,#c99232
+Purine metabolism,Pathway,Purine metabolism,2.23e-07,,20,0,20,Purine metabolism,#b59a32
+Teichoic acid biosynthesis,Pathway,Teichoic acid biosynthesis,1.06e-09,,11,0,11,Teichoic acid biosynthesis,#a2a131
+Starch and sucrose metabolism,Pathway,Starch and sucrose metabolism,7.19e-14,,1,1,2,Starch and sucrose metabolism,#8ba731
+Quorum sensing,Pathway,Quorum sensing,2.59e-09,,19,1,20,Quorum sensing,#66ae31
+Butanoate metabolism,Pathway,Butanoate metabolism,9.02e-09,,2,1,3,Butanoate metabolism,#32b258
+"Valine, leucine and isoleucine degradation",Pathway,"Valine, leucine and isoleucine degradation",8.2e-07,,1,0,1,"Valine, leucine and isoleucine degradation",#34b080
+D-Amino acid metabolism,Pathway,D-Amino acid metabolism,1.31e-06,,7,0,7,D-Amino acid metabolism,#35ae95
+Amino sugar and nucleotide sugar metabolism,Pathway,Amino sugar and nucleotide sugar metabolism,2.31e-13,,4,1,5,Amino sugar and nucleotide sugar metabolism,#36ada4
+Fructose and mannose metabolism,Pathway,Fructose and mannose metabolism,2.89e-14,,3,1,4,Fructose and mannose metabolism,#37abb2
+Bacterial secretion system,Pathway,Bacterial secretion system,1.68e-06,,13,0,13,Bacterial secretion system,#38a9c2
+Lipid and atherosclerosis,Pathway,Lipid and atherosclerosis,0.000233555,,3,0,3,Lipid and atherosclerosis,#39a7d6
+Pentose and glucuronate interconversions,Pathway,Pentose and glucuronate interconversions,2.23e-09,,4,1,5,Pentose and glucuronate interconversions,#4ea0f4
+Two-component system,Pathway,Two-component system,2.07e-27,,21,5,26,Two-component system,#8f93f4
+ABC transporters,Pathway,ABC transporters,2.82e-33,,28,2,30,ABC transporters,#b785f4
+Phosphotransferase system (PTS),Pathway,Phosphotransferase system (PTS),2.23e-19,,3,0,3,Phosphotransferase system (PTS),#db70f4
+Cell cycle - Caulobacter,Pathway,Cell cycle - Caulobacter,4.37e-07,,2,0,2,Cell cycle - Caulobacter,#f55fe6
+Ribosome,Pathway,Ribosome,0.000352791,,36,0,36,Ribosome,#f667c6
+Cationic antimicrobial peptide (CAMP) resistance,Pathway,Cationic antimicrobial peptide (CAMP) resistance,9.86e-05,,4,2,6,Cationic antimicrobial peptide (CAMP) resistance,#f66caa
