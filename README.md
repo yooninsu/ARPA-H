@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insurance Cross Sell Prediction 🏠🏥
 [![GitHub](https://img.shields.io/badge/GitHub-code-blue?style=flat&logo=github&logoColor=white&color=red)](https://github.com/prsdm/mlops-project) [![Medium](https://img.shields.io/badge/Medium-view_article-green?style=flat&logo=medium&logoColor=white&color=green)](https://medium.com/@prasadmahamulkar/machine-learning-operations-mlops-for-beginners-a5686bfe02b2)
 
@@ -78,3 +79,6 @@ run monitor.ipynb file
 Copyright © 2024, [Prasad Mahamulkar](https://github.com/prsdm).
 
 Released under the [Apache-2.0 license](LICENSE).
+=======
+# ARPA-H
+>>>>>>> 71b38520273960b781d6f3234fe22cc70fb2af97
